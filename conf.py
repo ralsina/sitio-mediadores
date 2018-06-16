@@ -26,7 +26,9 @@ SITE_URL = "https://sitio-mediadores.netlify.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "roberto.alsina@gmail.com"
-BLOG_DESCRIPTION = "Sitio de Encuentro de Mediadores Asociación Civil"  # (translatable)
+BLOG_DESCRIPTION = (
+    "Sitio de Encuentro de Mediadores Asociación Civil"
+)  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -132,10 +134,14 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archives"),
-        ("/categories/index.html", "Tags"),
-        ("/rss.xml", "RSS feed"),
-    ),
+        ("/", "Inicio"),
+        ((("/pages/historia", "Historia"),), "Quienes Somos"),
+        ("", "Encuentros"),
+        ("", "Material de Consulta"),
+        ("", "Noticias"),
+        ("", "Contacto"),
+        ("", "Links de Interés"),
+    )
 }
 
 # Name of the theme to use.
@@ -143,7 +149,7 @@ THEME = "custom"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = "#5670d4"
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
@@ -179,10 +185,10 @@ POSTS = (
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("stories/*.md", "stories", "story.tmpl"),
-    ("stories/*.rst", "stories", "story.tmpl"),
-    ("stories/*.txt", "stories", "story.tmpl"),
-    ("stories/*.html", "stories", "story.tmpl"),
+    ("pages/*.md", "pages", "story.tmpl"),
+    ("pages/*.rst", "pages", "story.tmpl"),
+    ("pages/*.txt", "pages", "story.tmpl"),
+    ("pages/*.html", "pages", "story.tmpl"),
 )
 
 
@@ -254,18 +260,18 @@ TIMEZONE = "UTC"
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "rest": ('.rst', '.txt'),
-    "markdown": ('.md', '.mdown', '.markdown'),
-    "textile": ('.textile',),
-    "txt2tags": ('.t2t',),
-    "bbcode": ('.bb',),
-    "wiki": ('.wiki',),
-    "ipynb": ('.ipynb',),
-    "html": ('.html', '.htm'),
+    "rest": (".rst", ".txt"),
+    "markdown": (".md", ".mdown", ".markdown"),
+    "textile": (".textile",),
+    "txt2tags": (".t2t",),
+    "bbcode": (".bb",),
+    "wiki": (".wiki",),
+    "ipynb": (".ipynb",),
+    "html": (".html", ".htm"),
     # PHP files are rendered the usual way (i.e. with the full templates).
     # The resulting files have .php extensions, making it possible to run
     # them without reconfiguring your server to recognize them.
-    "php": ('.php',),
+    "php": (".php",),
     # Pandoc detects the input from the source filename
     # but is disabled by default as it would conflict
     # with many of the others.
@@ -387,7 +393,7 @@ POSTS_SECTIONS = True
 # If you do not want to display a tag publicly, you can mark it as hidden.
 # The tag will not be displayed on the tag list page, the tag cloud and posts.
 # Tag pages will still be generated.
-HIDDEN_TAGS = ['mathjax']
+HIDDEN_TAGS = ["mathjax"]
 
 # Only include tags on the tag list/overview page if there are at least
 # TAGLIST_MINIMUM_POSTS number of posts or more with every tag. Every tag
@@ -468,7 +474,7 @@ HIDDEN_CATEGORIES = []
 # If you do not want to display an author publicly, you can mark it as hidden.
 # The author will not be displayed on the author list page and posts.
 # Tag pages will still be generated.
-HIDDEN_AUTHORS = ['Guest']
+HIDDEN_AUTHORS = ["Guest"]
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
@@ -476,9 +482,7 @@ HIDDEN_AUTHORS = ['Guest']
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
-FRONT_INDEX_HEADER = {
-    DEFAULT_LANG: ''
-}
+FRONT_INDEX_HEADER = {DEFAULT_LANG: ""}
 
 # Create per-month archives instead of per-year
 # CREATE_MONTHLY_ARCHIVE = False
@@ -559,11 +563,11 @@ REDIRECTIONS = []
 # For more details, read the manual:
 # https://getnikola.com/handbook.html#deploying-to-github
 # You will need to configure the deployment branch on GitHub.
-GITHUB_SOURCE_BRANCH = 'src'
-GITHUB_DEPLOY_BRANCH = 'master'
+GITHUB_SOURCE_BRANCH = "src"
+GITHUB_DEPLOY_BRANCH = "master"
 
 # The name of the remote where you wish to push to, using github_deploy.
-GITHUB_REMOTE_NAME = 'origin'
+GITHUB_REMOTE_NAME = "origin"
 
 # Whether or not github_deploy should commit to the source branch automatically
 # before deploying.
@@ -696,7 +700,7 @@ GITHUB_COMMIT_SOURCE = True
 # (the thumbnail has ``.thumbnail`` added before the file extension).
 # The format is a dictionary of {source: relative destination}.
 
-IMAGE_FOLDERS = {'images': 'images'}
+IMAGE_FOLDERS = {"images": "images"}
 # IMAGE_THUMBNAIL_SIZE = 400
 
 # #############################################################################
@@ -814,7 +818,9 @@ IMAGE_FOLDERS = {'images': 'images'}
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
-FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_READ_MORE_LINK = (
+    '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+)
 
 # Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
@@ -839,7 +845,9 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>'
+CONTENT_FOOTER = (
+    'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>'
+)
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -859,8 +867,8 @@ CONTENT_FOOTER_FORMATS = {
             "email": BLOG_EMAIL,
             "author": BLOG_AUTHOR,
             "date": time.gmtime().tm_year,
-            "license": LICENSE
-        }
+            "license": LICENSE,
+        },
     )
 }
 
@@ -923,7 +931,7 @@ STRIP_INDEXES = False
 # This can be disabled on a per-page/post basis by adding
 #    .. pretty_url: False
 # to the metadata.
-PRETTY_URLS = False
+PRETTY_URLS = True
 
 # If True, publish future dated posts right away instead of scheduling them.
 # Defaults to False.
@@ -981,7 +989,7 @@ PRETTY_URLS = False
 # Note: most Nikola-specific extensions are done via the Nikola plugin system,
 #       with the MarkdownExtension class and should not be added here.
 # The default is ['fenced_code', 'codehilite']
-MARKDOWN_EXTENSIONS = ['fenced_code', 'codehilite', 'extra']
+MARKDOWN_EXTENSIONS = ["fenced_code", "codehilite", "extra"]
 
 # Extra options to pass to the pandoc comand.
 # by default, it's empty, is a list of strings, for example
