@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
         ("", "Encuentros"),
         ((
             ("link://category/jurisprudencia", "Jurisprudencia"),
-            ("link://category/doctrina", "Doctrina"),
+            ("/pages/doctrina", "Doctrina"),
             ("link://category/legislacion", "Legislación"),
             ("link://category/modelos-de-escritos", "Modelos de Escritos"),
         ), "Material de Consulta"),
@@ -318,7 +318,9 @@ POSTS_SECTIONS = True
 
 # Setting this to False generates a list page instead of an index. Indexes
 # are the default and will apply GENERATE_ATOM if set.
-# POSTS_SECTIONS_ARE_INDEXES = True
+POSTS_SECTIONS_ARE_INDEXES = True
+CATEGORY_PAGES_ARE_INDEXES = True
+TAG_PAGES_ARE_INDEXES = True
 
 # Each post and section page will have an associated color that can be used
 # to style them with a recognizable color detail across your site. A color
@@ -1028,10 +1030,10 @@ MARKDOWN_EXTENSIONS = ["fenced_code", "codehilite", "extra"]
 
 # Show link to source for the posts?
 # Formerly known as HIDE_SOURCELINK (inverse)
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-# COPY_SOURCES = True
+COPY_SOURCES = False
 
 # Modify the number of Post per Index Page
 # Defaults to 10
