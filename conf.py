@@ -140,7 +140,15 @@ NAVIGATION_LINKS = {
             ("/pages/comisiones", "Comisiones"),
             ("/pages/mision-y-valores", "Misión y Valores"),
         ), "Quienes Somos"),
-        ("", "Encuentros"),
+        ((
+            ("/pages/primero", "Primero"),
+            ("/pages/segundo", "Segundo"),
+            ("/pages/tercero", "Tercero"),
+            ("/pages/cuarto", "Cuarto"),
+            ("/pages/quinto", "Quinto"),
+            ("/pages/sexto", "Sexto"),
+            ("/pages/septimo", "Séptimo"),
+        ), "Encuentros"),
         ((
             ("/pages/jurisprudencia", "Jurisprudencia"),
             ("/pages/doctrina", "Doctrina"),
