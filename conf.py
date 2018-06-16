@@ -143,10 +143,10 @@ NAVIGATION_LINKS = {
         ), "Quienes Somos"),
         ("", "Encuentros"),
         ((
-            ("link://category/jurisprudencia", "Jurisprudencia"),
+            ("/pages/jurisprudencia", "Jurisprudencia"),
             ("/pages/doctrina", "Doctrina"),
-            ("link://category/legislacion", "Legislación"),
-            ("link://category/modelos-de-escritos", "Modelos de Escritos"),
+            ("/pages/legislacion", "Legislación"),
+            ("/pages/modelos-de-escritos", "Modelos de Escritos"),
         ), "Material de Consulta"),
         ("link://category/noticias", "Noticias"),
         ("/pages/contacto", "Contacto"),
