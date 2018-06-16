@@ -1107,9 +1107,8 @@ INDEX_TEASERS = True
 #
 
 SEARCH_FORM = """
-<span class="navbar-form navbar-left">
-<input type="text" id="tipue_search_input" class="form-control" placeholder="Search">
-</span>"""
+<input type="text" id="tipue_search_input" class="form-control searchform" placeholder="Search">
+"""
 
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">

@@ -12,7 +12,11 @@ ${template_hooks['extra_head']()}
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
-
+<div class="d-flex flex-row bd-highlight mb-3 justify-content-center banner-row align-items-center">
+  <div class="p-2 bd-highlight"><img src="/manos.png"></div>
+  <div class="p-2 bd-highlight"><h1 class="bannertitle">ENCUENTROS DE MEDIADORES<br></b><small>Asociación Civil</small></h1></div>
+  <div class="p-2 bd-highlight">${search_form}</div>
+</div>
 <nav class="navbar navbar-expand-md navbar-dark bg-primary static-top mb-4">
     <div class="container"><!-- This keeps the margins nice -->
         <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
@@ -33,10 +37,6 @@ ${template_hooks['extra_head']()}
                 ${base.html_navigation_links_entries(navigation_links)}
                 ${template_hooks['menu']()}
             </ul>
-            %if search_form:
-                ${search_form}
-            %endif
-
             <ul class="navbar-nav navbar-right">
                 ${base.html_navigation_links_entries(navigation_alt_links)}
                 <%block name="belowtitle">
