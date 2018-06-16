@@ -9,7 +9,7 @@
             <li class="post-list-item">
             ${post.formatted_date(date_format)|h}
             &nbsp;
-            ${post.text()}
+            ${post.text(teaser_only=True)}
             </div>
         % endfor
     %endif

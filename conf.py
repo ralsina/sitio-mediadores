@@ -1060,7 +1060,8 @@ COPY_SOURCES = False
 
 # Only inlclude teasers in Atom and RSS feeds. Disabling include the full
 # content. Defaults to True.
-# FEED_TEASERS = True
+FEED_TEASERS = True
+INDEX_TEASERS = True
 
 # Strip HTML from Atom annd RSS feed summaries and content. Defaults to False.
 # FEED_PLAIN = False
