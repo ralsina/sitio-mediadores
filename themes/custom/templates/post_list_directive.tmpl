@@ -1,0 +1,18 @@
+## -*- coding: utf-8 -*-
+<%block name="content">
+<!-- Begin post-list ${post_list_id} -->
+<div id="${post_list_id}" class="post-list">
+    %if posts:
+        % for post in posts:
+            <div>
+            <h3><a href="${post.permalink(lang)}">${post.title(lang)|h}</a></h3>
+            <li class="post-list-item">
+            ${post.formatted_date(date_format)|h}
+            &nbsp;
+            ${post.text()}
+            </div>
+        % endfor
+    %endif
+</div>
+<!-- End post-list ${post_list_id} -->
+</%block>

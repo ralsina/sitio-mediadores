@@ -11,7 +11,6 @@ Mako==1.0.7
 Markdown==2.6.9
 MarkupSafe==1.0
 natsort==5.1.1
-Nikola==7.8.10
 olefile==0.44
 piexif==1.0.13
 Pillow==4.3.0
@@ -26,3 +25,4 @@ Unidecode==0.4.21
 urllib3==1.22
 webassets==0.12.1
 Yapsy==1.11.223
+https://github.com/getnikola/nikola/archive/master.zip?egg=Nikola
