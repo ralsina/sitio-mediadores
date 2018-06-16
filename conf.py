@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 
 from __future__ import unicode_literals
+
+import json
 import time
 
 # !! This is the configuration of Nikola. !! #
@@ -26,9 +28,7 @@ SITE_URL = "https://sitio-mediadores.netlify.com/"
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
 BLOG_EMAIL = "roberto.alsina@gmail.com"
-BLOG_DESCRIPTION = (
-    "Sitio de Encuentro de Mediadores Asociación Civil"
-)  # (translatable)
+BLOG_DESCRIPTION = "Sitio de Encuentro de Mediadores Asociación Civil"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -134,27 +134,36 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ((
-            ("/pages/historia", "Historia"),
-            ("/pages/autoridades", "Autoridades"),
-            ("/pages/comisiones", "Comisiones"),
-            ("/pages/mision-y-valores", "Misión y Valores"),
-        ), "Quienes Somos"),
-        ((
-            ("/pages/primero", "Primero"),
-            ("/pages/segundo", "Segundo"),
-            ("/pages/tercero", "Tercero"),
-            ("/pages/cuarto", "Cuarto"),
-            ("/pages/quinto", "Quinto"),
-            ("/pages/sexto", "Sexto"),
-            ("/pages/septimo", "Séptimo"),
-        ), "Encuentros"),
-        ((
-            ("/pages/jurisprudencia", "Jurisprudencia"),
-            ("/pages/doctrina", "Doctrina"),
-            ("/pages/legislacion", "Legislación"),
-            ("/pages/modelos-de-escritos", "Modelos de Escritos"),
-        ), "Material de Consulta"),
+        (
+            (
+                ("/pages/historia", "Historia"),
+                ("/pages/autoridades", "Autoridades"),
+                ("/pages/comisiones", "Comisiones"),
+                ("/pages/mision-y-valores", "Misión y Valores"),
+            ),
+            "Quienes Somos",
+        ),
+        (
+            (
+                ("/pages/primero", "Primero"),
+                ("/pages/segundo", "Segundo"),
+                ("/pages/tercero", "Tercero"),
+                ("/pages/cuarto", "Cuarto"),
+                ("/pages/quinto", "Quinto"),
+                ("/pages/sexto", "Sexto"),
+                ("/pages/septimo", "Séptimo"),
+            ),
+            "Encuentros",
+        ),
+        (
+            (
+                ("/pages/jurisprudencia", "Jurisprudencia"),
+                ("/pages/doctrina", "Doctrina"),
+                ("/pages/legislacion", "Legislación"),
+                ("/pages/modelos-de-escritos", "Modelos de Escritos"),
+            ),
+            "Material de Consulta",
+        ),
         ("link://category/noticias", "Noticias"),
         ("/pages/contacto", "Contacto"),
         ("/pages/links-de-interes", "Links de Interés"),
@@ -837,9 +846,7 @@ IMAGE_FOLDERS = {"images": "images"}
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
-FEED_READ_MORE_LINK = (
-    '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
-)
+FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the FEED_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
@@ -864,9 +871,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = (
-    'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>'
-)
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1107,15 +1112,57 @@ COPY_SOURCES = False
 #
 
 SEARCH_FORM = """
-    <form class="navbar-form navbar-left" action="/search/" role="search">
-        <div class="form-group">
-            <input type="text" class="form-control" id="tipue_search_input" name="q" placeholder="Search" autocomplete="off">
+<span class="navbar-form navbar-left">
+<input type="text" id="tipue_search_input" class="form-control" placeholder="Search">
+</span>"""
+
+EXTRA_HEAD_DATA = """
+<link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
+"""
+
+BODY_END = """
+<!-- Modal -->
+<div id="search-results" class="modal fade" role="dialog" style="height: 80%;">
+    <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+        <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Search Results:</h4>
         </div>
-        <button type="submit" class="btn btn-default">Submit</button>
-    </form>
-    """
+        <div class="modal-body" id="tipue_search_content" style="max-height: 600px; overflow-y: auto;">
+        </div>
+        <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+    </div>
 
+    </div>
+</div>
+<script>
+$(document).ready(function() {
+    $.when(
+        $.getScript( "/assets/js/tipuesearch_set.js" ),
+        $.getScript( "/assets/js/tipuesearch.js" ),
+        $.Deferred(function( deferred ){
+            $( deferred.resolve );
+        })
+    ).done(function() {
 
+        $('#tipue_search_input').tipuesearch({
+            'mode': 'json',
+            'contentLocation': '/assets/js/tipuesearch_content.json'
+        });
+        $('#tipue_search_input').keyup(function (e) {
+            if (e.keyCode == 13) {
+                $('#search-results').modal()
+            }
+        });
+    });
+});
+</script>
+"""
 
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
@@ -1149,7 +1196,9 @@ SEARCH_FORM = """
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA = '<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>'
+EXTRA_HEAD_DATA = (
+    '<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>'
+)
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
