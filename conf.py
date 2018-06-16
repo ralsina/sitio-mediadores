@@ -136,37 +136,37 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
-                ("/pages/historia", "Historia"),
-                ("/pages/autoridades", "Autoridades"),
-                ("/pages/comisiones", "Comisiones"),
-                ("/pages/mision-y-valores", "Misión y Valores"),
+                ("/historia", "Historia"),
+                ("/autoridades", "Autoridades"),
+                ("/comisiones", "Comisiones"),
+                ("/mision-y-valores", "Misión y Valores"),
             ),
             "Quienes Somos",
         ),
         (
             (
-                ("/pages/primero", "Primero"),
-                ("/pages/segundo", "Segundo"),
-                ("/pages/tercero", "Tercero"),
-                ("/pages/cuarto", "Cuarto"),
-                ("/pages/quinto", "Quinto"),
-                ("/pages/sexto", "Sexto"),
-                ("/pages/septimo", "Séptimo"),
+                ("/primero", "Primero"),
+                ("/segundo", "Segundo"),
+                ("/tercero", "Tercero"),
+                ("/cuarto", "Cuarto"),
+                ("/quinto", "Quinto"),
+                ("/sexto", "Sexto"),
+                ("/septimo", "Séptimo"),
             ),
             "Encuentros",
         ),
         (
             (
-                ("/pages/jurisprudencia", "Jurisprudencia"),
-                ("/pages/doctrina", "Doctrina"),
-                ("/pages/legislacion", "Legislación"),
-                ("/pages/modelos-de-escritos", "Modelos de Escritos"),
+                ("/jurisprudencia", "Jurisprudencia"),
+                ("/doctrina", "Doctrina"),
+                ("/legislacion", "Legislación"),
+                ("/modelos-de-escritos", "Modelos de Escritos"),
             ),
             "Material de Consulta",
         ),
-        ("link://category/noticias", "Noticias"),
-        ("/pages/contacto", "Contacto"),
-        ("/pages/links-de-interes", "Links de Interés"),
+        ("link://index", "Noticias"),
+        ("/contacto", "Contacto"),
+        ("/links-de-interes", "Links de Interés"),
     )
 }
 
@@ -205,16 +205,10 @@ THEME_COLOR = "#5670d4"
 #
 
 POSTS = (
-    ("posts/*.md", "posts", "post.tmpl"),
-    ("posts/*.rst", "posts", "post.tmpl"),
-    ("posts/*.txt", "posts", "post.tmpl"),
-    ("posts/*.html", "posts", "post.tmpl"),
+    ("posts/*.md", "noticias", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.md", "pages", "story.tmpl"),
-    ("pages/*.rst", "pages", "story.tmpl"),
-    ("pages/*.txt", "pages", "story.tmpl"),
-    ("pages/*.html", "pages", "story.tmpl"),
+    ("pages/*.md", "", "story.tmpl"),
 )
 
 
@@ -506,7 +500,7 @@ HIDDEN_AUTHORS = ["Guest"]
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
-# INDEX_PATH = ""
+INDEX_PATH = "noticias"
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -871,7 +865,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a>'
+CONTENT_FOOTER = 'Contenidos &copy; {date} <a href="mailto:{email}">{author}</a>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1129,12 +1123,12 @@ BODY_END = """
     <div class="modal-content">
         <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Search Results:</h4>
+        <h4 class="modal-title">Resultados:</h4>
         </div>
         <div class="modal-body" id="tipue_search_content" style="max-height: 600px; overflow-y: auto;">
         </div>
         <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
         </div>
     </div>
 
