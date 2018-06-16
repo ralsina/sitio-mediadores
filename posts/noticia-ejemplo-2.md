@@ -6,7 +6,7 @@ Esta es la noticia 2, que es mas nueva.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam et enim vel leo consectetur tristique. Donec vitae porta nulla, vel tempor ipsum. Aliquam suscipit maximus sagittis. Etiam vitae magna porta, placerat ante ut, iaculis justo. Donec porta nibh ac nunc convallis euismod at et felis. Sed faucibus posuere mauris, sit amet vehicula justo vestibulum eget. Sed sodales lacus a gravida ornare. Nam lobortis consequat ipsum quis placerat. Praesent nec molestie massa. Mauris congue dapibus posuere. Etiam non efficitur ipsum. Maecenas sit amet ex eros. Etiam fermentum aliquet accumsan. Vestibulum pulvinar enim non ante sollicitudin aliquam.
 
-<!--TEASER_END-->
+<!-- TEASER_END -->
 
 Maecenas a vulputate est, at sodales magna. Suspendisse luctus nunc id porta commodo. Donec tempor blandit fringilla. Donec mattis tellus nunc, aliquam porttitor nibh efficitur quis. In blandit augue non ex dignissim euismod. Morbi sed velit ut enim gravida sodales at in odio. Phasellus eget facilisis mi. Nulla eros turpis, vestibulum et eleifend id, euismod quis turpis. Integer sed nulla molestie massa luctus elementum. Vestibulum tempor mauris at arcu tincidunt ullamcorper.
 
