@@ -142,10 +142,15 @@ NAVIGATION_LINKS = {
             ("/pages/mision-y-valores", "Misión y Valores"),
         ), "Quienes Somos"),
         ("", "Encuentros"),
-        ("", "Material de Consulta"),
-        ("", "Noticias"),
-        ("", "Contacto"),
-        ("", "Links de Interés"),
+        ((
+            ("link://category/jurisprudencia"),
+            ("link://category/doctrina"),
+            ("link://category/legislacion"),
+            ("link://category/modelos-de-escritos"),
+        ), "Material de Consulta"),
+        ("link://category/noticias", "Noticias"),
+        ("/pages/contacto", "Contacto"),
+        ("/pages/links-de-interes", "Links de Interés"),
     )
 }
 
