@@ -25,4 +25,4 @@ Unidecode==0.4.21
 urllib3==1.22
 webassets==0.12.1
 Yapsy==1.11.223
-https://github.com/getnikola/nikola/archive/master.zip?egg=Nikola
+https://github.com/getnikola/nikola/archive/master.tar.gz?egg=Nikola
