@@ -1105,6 +1105,18 @@ COPY_SOURCES = False
 # <!-- End of custom search -->
 # """ % SITE_URL
 #
+
+SEARCH_FORM = """
+    <form class="navbar-form navbar-left" action="/search/" role="search">
+        <div class="form-group">
+            <input type="text" class="form-control" id="tipue_search_input" name="q" placeholder="Search" autocomplete="off">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+    </form>
+    """
+
+
+
 # If you prefer a Google search form, here's an example that should just work:
 # SEARCH_FORM = """
 # <!-- Google custom search -->
