@@ -1,5 +1,5 @@
 ---
-title: 'acuerdo conformado por fuera del proceso '
+title: 'Disposición N°193 /13 acuerdo conformado por fuera del proceso '
 ---
 La Plata, 23 de Mayo de 2013.-
 
