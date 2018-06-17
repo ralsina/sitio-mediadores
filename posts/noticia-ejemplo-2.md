@@ -1,6 +1,7 @@
 ---
 title: Noticia Ejemplo 2
 date: '2018-06-16T17:45:12-03:00'
+previewimage: /images/manos.png
 ---
 Esta es la noticia 2, que es mas nueva.
 
