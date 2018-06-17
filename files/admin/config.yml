@@ -6,7 +6,7 @@ media_folder: "images/uploads"
 public_folder: "/images/uploads"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
+    label: "Noticia" # Used in the UI
     description: >
       Posts (blog entries), visible in indexes and RSS feeds.
     folder: "posts" # The path to the folder where the documents are stored
@@ -19,7 +19,7 @@ collections:
       - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages" # Used in routes, e.g., /admin/collections/blog
-    label: "Pages" # Used in the UI
+    label: "Pagina" # Used in the UI
     description: >
       Pages (stories), used to display information outside of indexes/feeds.
       Great for an “About me” page, for example.
