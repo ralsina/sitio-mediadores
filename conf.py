@@ -209,6 +209,10 @@ POSTS = (
 )
 PAGES = (
     ("pages/*.md", "", "story.tmpl"),
+    ("doctrina/*.md", "doctrina", "story.tmpl"),
+    ("fallos/*.md", "fallos", "story.tmpl"),
+    ("legislacion/*.md", "legislacion", "story.tmpl"),
+    ("escritos/*.md", "escritos", "story.tmpl"),
 )
 
 

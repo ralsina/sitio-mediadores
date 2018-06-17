@@ -30,3 +30,47 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "fallos" # Used in routes, e.g., /admin/collections/blog
+    label: "Fallos" # Used in the UI
+    description: >
+      Fallos de interes para mediadores
+    folder: "fallos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "legislacion" # Used in routes, e.g., /admin/collections/blog
+    label: "Legislación" # Used in the UI
+    description: >
+      Legislación de interes para mediadores
+    folder: "legislacion" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "escritos" # Used in routes, e.g., /admin/collections/blog
+    label: "Escritos" # Used in the UI
+    description: >
+      Modelos de escritos para mediadores
+    folder: "escritos" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "doctrina" # Used in routes, e.g., /admin/collections/blog
+    label: "Doctrina" # Used in the UI
+    description: >
+      Doctrina para mediadores
+    folder: "doctrina" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Featured Image", name: "previewimage", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
