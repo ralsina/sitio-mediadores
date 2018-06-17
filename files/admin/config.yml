@@ -2,8 +2,8 @@ backend:
   name: git-gateway
   branch: master
 display_url: https://sitio-mediadores.netlify.com
-media_folder: "images/uploads"
-public_folder: "/images/uploads"
+media_folder: "images"
+public_folder: "/images"
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
