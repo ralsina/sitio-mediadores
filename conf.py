@@ -165,8 +165,8 @@ NAVIGATION_LINKS = {
             "Material de Consulta",
         ),
         ("link://index", "Noticias"),
-        ("/contacto", "Contacto"),
-        ("/links-de-interes", "Links de Interés"),
+        # ("/contacto", "Contacto"),
+        # ("/links-de-interes", "Links de Interés"),
     )
 }
 
@@ -838,7 +838,7 @@ IMAGE_FOLDERS = {"images": "images"}
 # }}                            A literal } (U+007D RIGHT CURLY BRACKET)
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
-INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
+INDEX_READ_MORE_LINK = '<div style="text-align:right;"><button type="button" class="btn btn-primary more"><a href="{link}">{read_more}</a></button></div>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
@@ -1107,7 +1107,7 @@ INDEX_TEASERS = True
 #
 
 SEARCH_FORM = """
-<input type="text" id="tipue_search_input" class="form-control searchform" placeholder="Search">
+<input type="text" id="tipue_search_input" class="form-control searchform" placeholder="Buscar">
 """
 
 EXTRA_HEAD_DATA = """

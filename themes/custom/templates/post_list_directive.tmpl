@@ -6,9 +6,11 @@
         % for post in posts:
             <div>
             <h3><a href="${post.permalink(lang)}">${post.title(lang)|h}</a></h3>
-            <li class="post-list-item">
-            ${post.formatted_date(date_format)|h}
+            ${post.formatted_date(date_format)|h}<br>
             &nbsp;
+            % if post.meta('previewimage'):
+                <img src="${post.meta('previewimage')}" style="float:left; margin: 0 1em 0 1em;">
+            % endif
             ${post.text(teaser_only=True)}
             </div>
         % endfor

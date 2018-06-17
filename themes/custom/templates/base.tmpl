@@ -12,22 +12,12 @@ ${template_hooks['extra_head']()}
 <a href="#content" class="sr-only sr-only-focusable">${messages("Skip to main content")}</a>
 
 <!-- Menubar -->
-<div class="d-flex flex-row bd-highlight mb-3 justify-content-center banner-row align-items-center">
+<div class="d-flex flex-row bd-highlight mb-3 justify-content-center banner-row">
   <div class="p-2 bd-highlight"><img src="/images/manos.png"></div>
   <div class="p-2 bd-highlight"><h1 class="bannertitle">ENCUENTROS DE MEDIADORES<br></b><small>Asociación Civil</small></h1></div>
-  <div class="p-2 bd-highlight">${search_form}</div>
 </div>
-<nav class="navbar navbar-expand-md navbar-dark bg-primary static-top mb-4">
+<nav class="navbar navbar-expand-md navbar-dark bg-dark static-top mb-4">
     <div class="container"><!-- This keeps the margins nice -->
-        <a class="navbar-brand" href="${abs_link(_link("root", None, lang))}">
-        %if logo_url:
-            <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
-        %endif
-
-        % if show_blog_title:
-            <span id="blog-title">${blog_title|h}</span>
-        % endif
-        </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -38,15 +28,13 @@ ${template_hooks['extra_head']()}
                 ${template_hooks['menu']()}
             </ul>
             <ul class="navbar-nav navbar-right">
+                ${search_form}
                 ${base.html_navigation_links_entries(navigation_alt_links)}
                 <%block name="belowtitle">
                 %if len(translations) > 1:
                     <li>${base.html_translations()}</li>
                 %endif
                 </%block>
-                % if show_sourcelink:
-                    <%block name="sourcelink"></%block>
-                %endif
                 ${template_hooks['menu_alt']()}
             </ul>
         </div><!-- /.navbar-collapse -->
@@ -54,18 +42,30 @@ ${template_hooks['extra_head']()}
 </nav>
 
 <!-- End of Menubar -->
-
 <div class="container" id="content" role="main">
-    <div class="body-content">
-        <!--Body content-->
-        ${template_hooks['page_header']()}
-        <%block name="content"></%block>
-        <!--End of body content-->
+    <div class="row">
+        <div class="col">
+            <div class="jumbotron">
+            Preasociate Aquí
+            </div>
+            <div class="jumbotron">
+            Suscribite a nuestro newsletter
+            </div>
+            <div class="jumbotron">
+            Links de Interés
+            </div>
+        </div>
+        <div class="body-content col-9">
+            <!--Body content-->
+            ${template_hooks['page_header']()}
+            <%block name="content"></%block>
+            <!--End of body content-->
 
-        <footer id="footer">
-            ${content_footer}
-            ${template_hooks['page_footer']()}
-        </footer>
+            <footer id="footer">
+                ${content_footer}
+                ${template_hooks['page_footer']()}
+            </footer>
+        </div>
     </div>
 </div>
 

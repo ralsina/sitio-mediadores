@@ -3,3 +3,12 @@ div.banner-row {
     color: #fffbe7;
     margin-bottom: 0 !important;
 }
+
+button.more a {
+    color: #fffbe7;
+}
+
+li a.nav-link {
+    font-size: 1.3em;
+    font-weight: 600;
+}
