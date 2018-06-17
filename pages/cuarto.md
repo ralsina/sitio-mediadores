@@ -1,6 +1,6 @@
 ---
 title: Cuarto Encuentro
-previewimage: /images/uploads/cuarto-encuentro.jpg
+previewimage: ''
 ---
 ![](/images/uploads/cuarto-encuentro.jpg)
 
