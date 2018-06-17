@@ -1,8 +1,6 @@
 ---
 title: Autoridades
 ---
-![null]()
-
 **PRESIDENTE** ENRIQUE LAPLANE (LM)
 
 **VICEPRESIDENTE 1º **SILVANA HANGLIN (AZ)
