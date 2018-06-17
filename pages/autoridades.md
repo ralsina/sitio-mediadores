@@ -2,6 +2,8 @@
 title: Autoridades
 date: '2018-06-16T00:00:00-03:00'
 ---
+![]()
+
 **PRESIDENTE** ENRIQUE LAPLANE
 
 **VICEPRESIDENTE 1º **SILVANA HANGLIN
