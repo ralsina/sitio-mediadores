@@ -6,7 +6,8 @@ title: La confusión en Mediacion
 Comentario al fallo "Asociación Civil Lineamiento Universal Superior c/Gosman, Eleonora s/Daños y Perjuicios
 " por Juana Dioguardi\[1]
 
-Publicación:	Revista de Negociación, Mediación, Conciliación y Métodos RAD - Número 1 - Junio 2013  Fecha:	04-06-2013	Cita:	IJ-LXVIII-102
+Publicación:	Revista de Negociación, Mediación, Conciliación y Métodos RAD - Número 1 - Junio 2013
+  Fecha:	04-06-2013	Cita:	IJ-LXVIII-102
 
 I. Introducción y resumen fallo  -  
 
@@ -102,3 +103,5 @@ audiencia de mediación y opera sólo contra quién va dirigida” Esta reforma 
 \[6] Proyecto de Unificación de Código Civil y Comercial del 7 de junio de 2012 Artículo 2544.- Efectos. El efecto de la interrupción de la prescripción es tener por no sucedido el lapso que la precede e iniciar un nuevo plazo. Artículo 2545.- Interrupción por reconocimiento. El curso de la prescripción se interrumpe por el reconocimiento que el deudor o poseedor efectúa del derecho de aquél contra quien prescribe. Artículo 2546.- Interrupción por petición judicial. El curso de la prescripción se interrumpe por toda petición del titular del derecho ante autoridad judicial que traduce la intención de no abandonarlo, contra el poseedor, su representante en la posesión, o el deudor, aunque sea defectuosa, realizada por persona incapaz, ante tribunal incompetente, o en el plazo de gracia previsto en el ordenamiento procesal aplicable. Los efectos interruptivos del curso de la prescripción permanecen hasta que deviene firme la resolución que pone fin a la cuestión, con autoridad de cosa juzgada formal. La interrupción del curso de la prescripción se tiene por no sucedida si se desiste del proceso o caduca la instancia.
 
 \[7] Decreto reglamentario 2530 Artículo 49: En las mediaciones voluntarias la prescripción liberatoria en los términos y con los efectos previstos en el segundo párrafo del artículo 3986 del Código Civil, se suspende desde la fecha del instrumento auténtico mediante el cual se notifica fehacientemente el requerimiento y la citación a la audiencia de mediación, y opera sólo contra quien va dirigido. Decreto reglamentario 1467/11 ARTICULO 1º.- Acreditación del cumplimiento de la instancia. La mediación obligatoria instituida por el artículo 1º de la Ley Nº 26.589, sólo puede ser cumplida ante un mediador registrado y habilitado por el MINISTERIO DE JUSTICIA Y DERECHOS HUMANOS en el marco de la citada norma.
+
+Tags: 	Excepción de Prescripción  Mediación Prescripción Prescripción Anual Prescripción Bienal Suspensión de la Prescripción
