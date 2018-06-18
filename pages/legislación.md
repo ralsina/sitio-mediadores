@@ -5,17 +5,9 @@ title: Legislación
 
 [Ley 13951. Mediacion previa obligatoria](http://www.gob.gba.gov.ar/legislacion/legislacion/l-13951.html)
 
-
-
-
-
 ## DECRETOS
 
-
-
-
-
-
+[Decreto 2530/10 Decreto Reglamentario](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
 
 ## DISPOSICIONES MINISTERIALES
 
