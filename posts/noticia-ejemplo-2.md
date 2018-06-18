@@ -1,7 +1,7 @@
 ---
 title: Noticia Ejemplo 2
 date: '2018-06-16T17:45:12-03:00'
-previewimage: /images/uploads/comision-2do-encuentro.jpg
+previewimage: /images/uploads/17634469_10203049700958828_1760193724470608393_n.jpg
 ---
 Esta es la noticia 2, que es mas nueva.
 
