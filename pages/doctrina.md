@@ -1,4 +1,4 @@
 ---
 title: Doctrina
 ---
-La confusion en mediacion - Juana Dioguardi
+La confusión en mediación - Juana Dioguardi
