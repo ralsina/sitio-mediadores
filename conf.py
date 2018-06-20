@@ -136,12 +136,13 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
             (
+                ("/quienes-somos", "Quienes Somos"),
                 ("/historia", "Historia"),
                 ("/autoridades", "Autoridades"),
                 ("/comisiones", "Comisiones"),
                 ("/mision-y-valores", "Misión y Valores"),
             ),
-            "Quienes Somos",
+            "Nosotros",
         ),
         (
             (
