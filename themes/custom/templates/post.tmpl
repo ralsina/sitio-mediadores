@@ -32,7 +32,9 @@
     ${pheader.html_post_header()}
     <div class="e-content entry-content" itemprop="articleBody text">
     % if post.meta('previewimage'):
-        <img src="${post.meta('previewimage')}" style="float:left; margin: 0 1em 0 1em;">
+        <a href="${post.meta('previewimage')}">
+        <img src="${post.meta('previewimage')}" style="margin: 0 auto 2em auto; display: block;">
+        </a>
     % endif
     ${post.text()}
     </div>

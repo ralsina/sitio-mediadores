@@ -27,3 +27,7 @@ div.delcostado {
     font-weight: 600;
     border: 3px solid #343a40;
 }
+
+aside.postpromonav {
+    margin-bottom: 1em;
+}
