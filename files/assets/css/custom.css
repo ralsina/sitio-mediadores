@@ -2,6 +2,11 @@ div.banner-row {
     background-color: #628f7b;
     color: #fffbe7;
     margin-bottom: 0 !important;
+    height: 10rem;
+}
+
+div.banner-logo img {
+    height: 100%;
 }
 
 button.more a {
