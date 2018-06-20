@@ -9,12 +9,13 @@
             ${post.formatted_date(date_format)|h}<br>
             &nbsp;
             % if post.meta('previewimage'):
-                <img src="${post.meta('previewimage')}" style="float:left; margin: 0 1em 0 1em;">
+                <img src="${post.meta('previewimage')}" style="margin: 0 auto 0 auto; display: block;">
             % endif
             ${post.text(teaser_only=True)}
             </div>
         % endfor
     %endif
 </div>
+<hr>
 <!-- End post-list ${post_list_id} -->
 </%block>
