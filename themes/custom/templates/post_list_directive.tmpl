@@ -4,12 +4,14 @@
 <div id="${post_list_id}" class="post-list">
     %if posts:
         % for post in posts:
-            <div>
+            <div style="clear: both;">
             <h3><a href="${post.permalink(lang)}">${post.title(lang)|h}</a></h3>
-            ${post.formatted_date(date_format)|h}<br>
+            <b>Fecha:</b> ${post.formatted_date(date_format)|h}<br>
             &nbsp;
             % if post.meta('previewimage'):
-                <img src="${post.meta('previewimage')}" style="margin: 0 auto 2em auto; display: block;">
+                <a href="${post.meta('previewimage')}">
+                <img src="${post.meta('previewimage')}" style="margin: 1em 2em 1em auto; display: block; float:left; max-width: 35%;">
+                </a>
             % endif
             ${post.text(teaser_only=True)}
             </div>
