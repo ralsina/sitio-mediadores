@@ -135,6 +135,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         (
+            ("/", "Inicio"),
             (
                 ("/quienes-somos", "Quienes Somos"),
                 ("/historia", "Historia"),
