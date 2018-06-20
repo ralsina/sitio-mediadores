@@ -1,5 +1,5 @@
 ---
-title: disp. 584/17 prorroga valor ius
+title: 'disp. 584/17 prorroga valor ius matrícula '
 ---
 La Plata,	21 nov 2017
 
