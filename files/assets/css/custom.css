@@ -5,6 +5,10 @@ div.banner-row {
     height: 10rem;
 }
 
+div.banner-logo {
+    text-align: right;
+}
+
 div.banner-logo img {
     height: 100%;
 }
