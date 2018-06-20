@@ -9,7 +9,7 @@
             ${post.formatted_date(date_format)|h}<br>
             &nbsp;
             % if post.meta('previewimage'):
-                <img src="${post.meta('previewimage')}" style="margin: 0 auto 0 auto; display: block;">
+                <img src="${post.meta('previewimage')}" style="margin: 0 auto 2em auto; display: block;">
             % endif
             ${post.text(teaser_only=True)}
             </div>

@@ -46,7 +46,7 @@
     %if index_teasers:
     <div class="p-summary entry-summary">
     % if post.meta('previewimage'):
-        <img src="${post.meta('previewimage')}" style="float:left; margin: 0 1em 0 1em;">
+        <img src="${post.meta('previewimage')}" style="margin: 0 auto 2em auto; display: block;">
     % endif
 
     ${post.text(teaser_only=True)}
