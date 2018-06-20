@@ -1,5 +1,5 @@
 ---
-title: Cuarto Encuentro
+title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
 previewimage: /images/uploads/10731190_10205220690259897_5173402138007278891_n.jpg
 ---
 ![null](/images/uploads/cuarto-encuentro.jpg)
