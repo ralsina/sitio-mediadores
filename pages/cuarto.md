@@ -4,9 +4,7 @@ previewimage: /images/uploads/10731190_10205220690259897_5173402138007278891_n.j
 ---
 ![null](/images/uploads/cuarto-encuentro.jpg)
 
-# El desafio: Escuchar y debatir
-
-CONCLUSIONES DEL IV ENCUENTRO CONURBANO NORTE.
+## CONCLUSIONES DEL IV ENCUENTRO CONURBANO NORTE.
 
 MODALIDAD DE TRABAJO
 
