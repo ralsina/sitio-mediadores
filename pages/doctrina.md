@@ -1,4 +1,4 @@
 ---
 title: Doctrina
 ---
-[La confusión en mediación - Juana Dioguardi](https://sitio-mediadores.netlify.com/doctrina/la-confusion-en-mediacion/index.html)
+[La confusión en mediación - Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
