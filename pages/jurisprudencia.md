@@ -12,4 +12,4 @@ title: Jurisprudencia
 [DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS
  ](https://sitio-mediadores.netlify.com/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
 
-CORDOVA MABEL GRACIELA C/ SILES CRISTIAN DANIEL S/EJECUCION DE HONORARIOS DE MEDIACIÓN Honorarios, control de constitucionalidad, presunción de legalidad, revoca inconstitucionalidad decretada en primera instancia. Lomas de Zamora, Marzo 2017
+[CORDOVA MABEL GRACIELA C/ SILES CRISTIAN DANIEL S/EJECUCION DE HONORARIOS DE MEDIACIÓN ](https://sitio-mediadores.netlify.com/fallos/cordova-mabel-graciela-c-siles-cristian-daniel-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html)Honorarios, control de constitucionalidad, presunción de legalidad, revoca inconstitucionalidad decretada en primera instancia. Lomas de Zamora, Marzo 2017
