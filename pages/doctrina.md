@@ -7,4 +7,4 @@ title: Doctrina
 
 Fundamentos de la Ley 13951
 
-Actualidad jurisprudencial bonaerense sobre la aplicación del prorrateo a la retribución del mediador. Por Juan Fernando Gouvert
+[Actualidad jurisprudencial bonaerense sobre la aplicación del prorrateo a la retribución del mediador.](/doctrina/actualidad-jurisprudencial-bonaerense-sobre-la-aplicacion-del-prorrateo-a-la-retribucion-del-mediador/index.html) Dr. Juan Fernando Gouvert
