@@ -17,3 +17,5 @@ title: Jurisprudencia
 [**SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO**](/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores. Mar del Plata, Mayo de 2014
 
 [**Tarjeta Naranja c/ Dilarregui EDUARDO LUIS S/ COBRO SUMARIO SUMAS DINERO**](/fallos/tarjeta-naranja-s-a-c-dilarregui-eduardo-luis-s-cobro-sumario-sumas-dinero/index.html)** **PLANTEO DE INCONSTITUCIONALIDAD EXTEMPORÁNEO - Mar del Plata - Junio 2018
+
+**Vitulllo, Mariano Matías c/ Bustos, Diego s/ Daños y Perjuicios, ** Seguros Bernardino Rivadavia Cooperativa Limitada Apela Honorarios por altos, aplicacion del art. 27 del decreto 2530/10, Confirma honorarios fijados en 1ra instancia.- San Isidro, junio de 2016
