@@ -18,4 +18,4 @@ title: Jurisprudencia
 
 [**Tarjeta Naranja c/ Dilarregui EDUARDO LUIS S/ COBRO SUMARIO SUMAS DINERO**](/fallos/tarjeta-naranja-s-a-c-dilarregui-eduardo-luis-s-cobro-sumario-sumas-dinero/index.html)** **PLANTEO DE INCONSTITUCIONALIDAD EXTEMPORÁNEO - Mar del Plata - Junio 2018
 
-**Vitullo, Mariano Matías c/ Bustos, Diego s/ Daños y Perjuicios, ** Seguros Bernardino Rivadavia Cooperativa Limitada Apela Honorarios por altos, aplicacion del art. 27 del decreto 2530/10, Confirma honorarios fijados en 1ra instancia.- San Isidro, junio de 2016
+[**Vitullo, Mariano Matías c/ Bustos, Diego s/ Daños  y Perjuicios**](fallos/vitullo-mariano-matias-c-bustos-diego-s-danos-y-perjuicios/index.html) Seguros Bernardino Rivadavia Cooperativa Limitada Apela Honorarios por altos, aplicación del art. 27 del decreto 2530/10, Confirma honorarios fijados en 1ra instancia.- San Isidro, junio de 2016
