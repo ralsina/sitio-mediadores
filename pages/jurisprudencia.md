@@ -10,7 +10,7 @@ title: Jurisprudencia
 [**DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS**
  ](/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
 
-INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
+[**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)** **FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
 [**RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.-**](/fallos/rodriguez-arabel-c-vitullo-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
 
