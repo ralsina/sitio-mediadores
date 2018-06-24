@@ -5,4 +5,4 @@ title: Jurisprudencia
 
 [SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO](https://sitio-mediadores.netlify.com/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores.  Mar del Plata, Mayo de 2014
 
-BOMBARA SANDRA D. C/ LOVERO NAHUEL M. y ot. S/ Ds y Ps  Nulidad de notificación - Lomas de Zamora, Agosto de 2016 .-
+BOMBARA SANDRA D. C/ LOVERO NAHUEL M. y ot. S/ Ds y Ps  Nulidad de notificación - No responde - Reapertura - Lomas de Zamora, Agosto de 2016 .-
