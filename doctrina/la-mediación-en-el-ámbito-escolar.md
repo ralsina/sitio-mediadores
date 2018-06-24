@@ -1,15 +1,13 @@
 ---
 title: La Mediación en el Ámbito Escolar
 ---
-# Dr. Ruben Veiga
+# [Dr. Ruben Veiga](https://www.mediate.com/articles/ruben_veiga1.cfm)
 
 ## Algunas aclaraciones preliminares
 
 Ante todo, conviene hacer una aclaración respecto del alcance de la expresión “ámbito”, toda vez que la doctrina no se termina de poner de acuerdo respecto de qué decimos cuando decimos “ámbitos de aplicación”; en principio escojo esta expresión porque si nos atenemos a una de las acepciones del Diccionario de la Lengua Española, vemos que ámbito es el “Espacio ideal configurado por las cuestiones y problemas de una o varias actividades o disciplinas…”; razón por la cual me inclino por seguir esta línea de pensamiento, independientemente de reconocer que el ámbito desde el punto de vista físico o geográfico (lugar o espacio donde se realiza o se lleva a cabo tal o cual cosa) nos resultaría insuficiente a la hora de pensar en la mediación, ya que en ese mismo lugar, imaginemos un estrado judicial para las mediaciones prejudiciales, pueden tratarse –por ejemplo- cuestiones o temas de familia (mediación familiar) o de violencia (mediación penal), aunque éstos escapen aún al terreno de la legislación nacional. Están aquellos que, por una u otra razón fundamentada por cierto, prefieren utilizar expresiones como “contextos” (Diez y Tapia, Duffy, Grosch y Olczak), “ambientes” (Folberg, Taylor),  “Áreas o temáticas” (Sparvieri),  “escenarios” (Jares, Bauman), etc.; sin perjuicio de ello, sigo inclinándome al igual que la mayoría de los autores, una vez formuladas estas aclaraciones, por la expresión que titula este tema. Finalmente, deseo asentar que tampoco hay acuerdo unánime respecto de cómo aludir al campo específico de cada uno de estos ámbitos, contextos, áreas…ello así, a lo que algunos les denominan –por ejemplo- mediación escolar, otros les llaman mediación educacional, otros mediación educativa.
 
 Sabido es que la mediación -tanto el proceso como sus principios y estrategias- se aplica en diversos espacios a la hora de colaborar en la tarea de resolver conflictos, de una manera creativa y no adversarial.           
-
-
 
 Estos lugares de aplicación son múltiples y polifacéticos, toda vez que abarcan desde cuestiones inherentes a lo familiar hasta los diferendos de convivencia internacional, desde la simple disputa en la comunidad de pertenencia hasta los mismos conflictos que se generan en situaciones extremas de riesgo.
 
@@ -67,15 +65,9 @@ Asimismo, dentro del modelo de Mediación Interna,  destaco cuatro programas:
 
 Mediación en el aula que consiste en educar, desde el mismo salón de clases, en valores pacíficos (como la justicia, la solidaridad, el respeto, la tolerancia, etc.) y enseñar técnicas de gestión de conflictos, ya que los mismos forman parte de nuestra vida cotidiana y también de la escolar. Estos programas los puede llevar a cabo el mismo maestro, cualquier profesor capacitado, un preceptor, etc.
 
- 
-
 Mediación entre pares o de dimensión horizontal, también llamada “mediación paritaria o entre iguales”; cuyas experiencias más tempranas se desarrollaron en sendas escuelas de San Francisco y Nueva York, Estados Unidos. Por su significación especial, desarrollaré esta variante específicamente en el siguiente punto.
 
- 
-
 Mediación con un mediador adulto o de dimensión vertical. En este caso el adulto pertenece al staff de la institución pudiendo o no ser docente. Se le llama “vertical” porque el mediador (o mediadores) que interviene pertenece a un nivel distinto -generalmente superior- en el organigrama institucional. Es de suma utilidad para trabajar los conflictos de los más pequeños (nivel inicial y primeros años de la escuela primaria). En todo caso, el adulto/docente deberá “despojarse” transitoriamente de ese rol para poder desempeñar con éxito este otro nuevo y, por supuesto, comunicárselo claramente a las partes. De no ocurrir esto, es muy probable que los mediantes confundan al mediador con alguien que detenta cierta autoridad legitimada en la escuela, que no se corresponde con la del conductor de este proceso.
-
- 
 
 Mediación global, integral, cruzada o “mix”. Tal como se infiere de sus denominaciones es el modelo más completo, ya que estarían en condiciones de participar del mismo cualquier actor de la comunidad educativa; esto incluye a alumnos, familiares, docentes, no docentes, directivos, etcétera. Pero atención, porque “completo y sencillo” no son sinónimos; habrá que estar muy atentos a cada caso particular: ¿entre quiénes se ha producido el conflicto?, ¿son o no pares entre sí?, ¿qué tipo de disputa los enfrenta?, ¿quién/es auspiciarán de mediadores? y, de tratarse de una co-mediación: ¿serán dos mediadores pares o de distinta dimensión? son algunas de las preguntas que deberemos saber responder “antes” de dar inicio a la mediación.
 
@@ -172,33 +164,7 @@ Estos Programas aplicados con seriedad y sostenidos en el tiempo, en general, ar
 
 La mediación puede  y “debe”  convertirse más que en un método de resolución alternativa o adecuada de conflictos (RAC), en una estrategia e instrumento pedagógico,  en un método de resolución educativa de conflictos; de allí pues es que prefiero utilizar la sigla REC cuando me refiero al ámbito escolar.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Biography
-
-  
-
-
-
-
-
-
-
-
-
-
 
 Es el 1º Doctor Universitario en Mediación y Mediación Educativa de Latinoamérica.
 
