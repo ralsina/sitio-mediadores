@@ -11,4 +11,4 @@ title: Doctrina
 
 [**La Mediación en el Ámbito Escolar**](/doctrina/la-mediacion-en-el-ambito-escolar/index.html) Dr. Ruben Veiga
 
-**Implementación de la ley 13.951 de mediación obligatoria en la provincia de Buenos Aires **Por Graciela Mabel Testa en La Ley Buenos Aires 2012 (junio), 482
+[**Implementación de la ley 13.951 de mediación obligatoria en la provincia de Buenos Aires **](/doctrina/implementacion-de-la-ley-13-951-de-mediacion-obligatoria-en-la-provincia-de-buenos-aires/index.html)Por Graciela Mabel Testa en La Ley Buenos Aires 2012 (junio), 482
