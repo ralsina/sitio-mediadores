@@ -1,15 +1,17 @@
 ---
 title: Segundo Encuentro
 ---
-\[TOC]
+
+<div style="float:right; width: 50%;">
+{{% slides "segundo encuentro" %}}
+</div>
+
+[TOC]
 
 ## Resumen
 
-texto texto 
+texto texto
 
-## Galería
-
-{{% slides "segundo encuentro" %}}
 
 ## Conclusiones
 
@@ -48,7 +50,7 @@ La falta de consenso se debió a que en el Plenario se planteó la situación de
 
 3.- Atento que en el transcurso de este Segundo Encuentro de Mediadores Abogados hemos podido tomar conocimiento e incluso en algunos casos analizar diferentes proyectos de modificación de los arts. 27 y 28 del Decreto Reglamentario 2530/2010 y art. 31 de la Ley 13.951, asi como de la existencia de un procedimiento de cobro de honorarios para las causas de beneficio de litigar sin gastos, que se diera a conocimiento solo en algunos ámbitos y a algunos colegas, es que venimos a reivindicar y reafirmar la importancia de estos Encuentros de Mediadores Prejudiciales, que suplen la falta o deficiencia de información por parte de las Instituciones Profesionales y Administrativas.-
 
-COMISION II:
+### COMISION II:
 
 1. Mediación en los aspectos patrimoniales de las relaciones de familia:
 
@@ -83,7 +85,7 @@ A los fines de la inclusión de las materias en cuestión, debería emitirse una
 
 En los últimos días ha sido publicado un fallo en el que se entiendo que la Consignación de sumas de dinero es materia mediable.-
 
-COMISION III:
+### COMISION III:
 
 1. Menores: Interpretación del art. 4 inc. 10 Ley 13951:
 
@@ -123,7 +125,7 @@ Dada la amplitud del tema se propone que éste sea tratado exhaustivamente en el
 
 Conforme la propuesta realizada, se deja conformada una comisión que confeccionará un temario de dichas contingencias, efectuará su análisis y elaborará propuestas para su tratamiento.-
 
-COMISION IV:
+### COMISION IV:
 
 Evaluación de las Jornadas de Capacitación Obligatoria. Planificación de la capacitación continua Obligatoria. Gratuidad de la capacitación. Especialización en la mediación.-
 

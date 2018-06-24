@@ -23,7 +23,9 @@ def image_list(gallery):
   % else:
     <div class="carousel-item">
   % endif
+      <a href="${img}">
       <img class="d-block w-100" src="${img}">
+      </a>
     </div>
   % endfor
   </div>
