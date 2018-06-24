@@ -1,8 +1,6 @@
 ---
 title: Segundo Encuentro
 ---
-[TOC]
-
 <div style="float:right; width: 50%;">
 {{% slides "segundo encuentro" %}}
 </div>
