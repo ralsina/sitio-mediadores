@@ -1,8 +1,16 @@
 ---
 title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
-previewimage: /images/uploads/10731190_10205220690259897_5173402138007278891_n.jpg
+previewimage: ''
 ---
 ![null](/images/uploads/cuarto-encuentro.jpg)
+
+
+
+## Ver fotos del Encuentro: 
+
+1er dia: [Debate en comisiones](https://www.facebook.com/media/set/?set=a.312237518963094&type=1&l=f6853b5a4b)
+
+2do día: [Paneles de debate](https://www.facebook.com/media/set/?set=a.312458938940952&type=1&l=9ea418092a)
 
 ## CONCLUSIONES DEL IV ENCUENTRO CONURBANO NORTE.
 
