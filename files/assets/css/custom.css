@@ -23,8 +23,8 @@ button.more a {
 }
 
 li a.nav-link {
-    font-size: 1.3em;
-    font-weight: 600;
+    font-size: 1.1em;
+    /* font-weight: 600; */
 }
 
 div.delcostado {
@@ -35,4 +35,8 @@ div.delcostado {
 
 aside.postpromonav {
     margin-bottom: 1em;
+}
+
+input#tipue_search_input {
+    padding: 3px;
 }
