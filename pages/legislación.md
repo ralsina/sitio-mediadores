@@ -3,7 +3,7 @@ title: Legislación
 ---
 ## LEYES
 
-[Ley 13951. Mediacion previa obligatoria](http://www.gob.gba.gov.ar/legislacion/legislacion/l-13951.html)
+[Ley 13951. Mediacion previa obligatoria](/legislacion/legislacion/l-13951.html)
 
 ## DECRETOS
 
@@ -13,4 +13,4 @@ title: Legislación
 
 Disposición N°193 /13 [Acuerdo conformado por fuera del proceso. ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
-Disposicion 584/17 [Prorroga valor ius matrícula](https://sitio-mediadores.netlify.com/legislacion/disp-584-17-prorroga-valor-ius/index.html)
+Disposicion 584/17 [Prorroga valor ius matrícula](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
