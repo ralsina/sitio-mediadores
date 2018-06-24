@@ -4,7 +4,7 @@ def image_list(gallery):
     imgs = []
     for img in os.listdir(os.path.join('albums', gallery)):
         imgs.append(f'/albums/{gallery}/{img}')
-    return imgs
+    return sorted(imgs)
 %>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
