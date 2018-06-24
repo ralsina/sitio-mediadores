@@ -10,7 +10,7 @@ title: Jurisprudencia
 [DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS
  ](https://sitio-mediadores.netlify.com/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
 
-RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.- Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
+[RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.-](https://sitio-mediadores.netlify.com/fallos/rodriguez-arabel-c-vitullo-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
 
 [SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO](https://sitio-mediadores.netlify.com/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores. Mar del Plata, Mayo de 2014
 
