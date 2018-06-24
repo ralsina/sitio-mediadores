@@ -9,4 +9,4 @@ title: Doctrina
 
 [Actualidad jurisprudencial bonaerense sobre la aplicación del prorrateo a la retribución del mediador.](/doctrina/actualidad-jurisprudencial-bonaerense-sobre-la-aplicacion-del-prorrateo-a-la-retribucion-del-mediador/index.html) Dr. Juan Fernando Gouvert
 
-La Mediación en el Ámbito Escolar Dr. Ruben Veiga
+[La Mediación en el Ámbito Escolar](/doctrina/la-mediacion-en-el-ambito-escolar/index.html) Dr. Ruben Veiga
