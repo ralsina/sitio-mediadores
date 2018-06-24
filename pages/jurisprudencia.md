@@ -9,4 +9,7 @@ title: Jurisprudencia
 
 [CASTRO CALDERON CARLOS ALBERTO y otro/a C/ CUADRA MARISA SILVIA y otro/a S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE](https://sitio-mediadores.netlify.com/fallos/castro-calderon-carlos-alberto-y-otro-a-c-cuadra-marisa-silvia-y-otro-a-s-danos-y-perj-autom/index.html) Honorarios - rechazo al prorrateo. San Isidro, Noviembre de 2016
 
-[DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS ](https://sitio-mediadores.netlify.com/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
+[DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS
+ ](https://sitio-mediadores.netlify.com/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
+
+CORDOVA MABEL GRACIELA C/ SILES CRISTIAN DANIEL S/EJECUCION DE HONORARIOS DE MEDIACIÓN Honorarios, control de constitucionalidad, presunción de legalidad, revoca inconstitucionalidad decretada en primera instancia. Lomas de Zamora, Marzo 2017
