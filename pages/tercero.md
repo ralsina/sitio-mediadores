@@ -1,5 +1,6 @@
 ---
 title: Tercer Encuentro
-date: '2018-06-16T16:44:51-03:00'
 ---
-Agregar contenido
+![](/images/uploads/980631_10202493717493294_2132302745_o.jpg)
+
+## Conclusiones
