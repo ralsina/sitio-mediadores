@@ -2,11 +2,16 @@ div.banner-row {
     background-color: #00aa7f;
     color: #fffbe7;
     margin-bottom: 0 !important;
-    height: 10rem;
+    height: 5rem;
+}
+
+div.banner-titulo h1 {
+    font-size: 18pt;
 }
 
 div.banner-logo {
-    text-align: right;
+    text-align: left;
+    width: 8rem;
 }
 
 div.banner-logo img {
