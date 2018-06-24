@@ -1,8 +1,6 @@
 ---
 title: Jurisprudencia
 ---
-
-
 [BOMBARA SANDRA D. C/ LOVERO NAHUEL M. y ot. S/ Ds y Ps  ](https://sitio-mediadores.netlify.com/fallos/bombara-sandra-d-c-lovero-nahuel-m-y-ot-s-ds-y-ps/index.html)Nulidad de notificación - No responde - Reapertura - Lomas de Zamora, Agosto de 2016 .-
 
 [CASTRO CALDERON CARLOS ALBERTO y otro/a C/ CUADRA MARISA SILVIA y otro/a S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE](https://sitio-mediadores.netlify.com/fallos/castro-calderon-carlos-alberto-y-otro-a-c-cuadra-marisa-silvia-y-otro-a-s-danos-y-perj-autom/index.html) Honorarios - rechazo al prorrateo. San Isidro, Noviembre de 2016
@@ -11,6 +9,8 @@ title: Jurisprudencia
 
 [DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS
  ](https://sitio-mediadores.netlify.com/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
+
+RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.- Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
 
 [SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO](https://sitio-mediadores.netlify.com/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores. Mar del Plata, Mayo de 2014
 
