@@ -1,10 +1,11 @@
 ---
 title: Segundo Encuentro
-date: '2018-06-16T16:44:51-03:00'
 ---
-[TOC]
+\[TOC]
 
 ## Resumen
+
+texto texto 
 
 ## Galería
 
@@ -27,7 +28,7 @@ Asimismo los Mediadores que suscribimos el presente documento asumimos el compro
 
 4. Como ya se expusiera se han abordado diversas problemáticas que hacen al quehacer de nuestra labor arribando a las siguientes conclusiones, propuestas y resoluciones:
 
-COMISION I:
+### COMISION I:
 
 Puestas las conclusiones a las que se arribaran a consideración del plenario, se resuelve:
 
