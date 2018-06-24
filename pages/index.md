@@ -1,5 +1,5 @@
 ---
-title: index
+title: Inicio
 ---
 Contenido. Aca se puede poner cualquier cosa.
 
