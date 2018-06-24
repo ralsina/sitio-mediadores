@@ -2,7 +2,15 @@
 title: Segundo Encuentro
 date: '2018-06-16T16:44:51-03:00'
 ---
-# CONCLUSIONES SEGUNDO ENCUENTRO DE MEDIADORES DE LA PROVINCIA DE BUENOS AIRES.-
+[TOC]
+
+## Resumen
+
+## Galería
+
+{{% slides "segundo encuentro" %}}
+
+## Conclusiones
 
 En la ciudad de Tandil a los 20 días del mes de Abril de 2013, los Mediadores Prejudiciales participantes del Segundo Encuentro de Mediadores de la Provincia de Buenos Aires, manifestamos lo siguiente:
 
