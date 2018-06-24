@@ -845,6 +845,7 @@ IMAGE_FOLDERS = {"images": "images"}
 
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<div style="text-align:right;"><button type="button" class="btn btn-primary more"><a href="{link}">{read_more}</a></button></div>'
+INDEX_READ_MORE_LINK = '<span class="boton-leer-mas">Leer Más</span>'
 # 'Read more...' for the feeds, if FEED_TEASERS is True (translatable)
 FEED_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
