@@ -10,7 +10,7 @@ title: Jurisprudencia
 [**DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS**
  ](/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
 
-ESPINDOLA SILVIA ANALIA C/ EXPRESO VILLA GALICIA SAN JOSE S.A. Y OTRO/A S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE , El juez no regula honorarios sino que al estar tabulados, solo los fija.NO puede asimilarse la situación del mediador con la de los auxiliares de justicia a los que si les aplica la regulación de honorarios.-Lomas de Zamora, abril de 2017
+[**ESPINDOLA SILVIA ANALIA C/ EXPRESO VILLA GALICIA SAN JOSE S.A. Y OTRO/A S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE **](https://sitio-mediadores.netlify.com/fallos/espindola-silvia-analia-c-expreso-villa-galicia-san-jose-s-a-y-otro-a-s-danos-y-perj-autom-c-les-o-muerte/index.html)**,** El juez no regula honorarios sino que al estar tabulados, solo los fija.NO puede asimilarse la situación del mediador con la de los auxiliares de justicia a los que si les aplica la regulación de honorarios.-Lomas de Zamora, abril de 2017
 
 [**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)\*\* \*\*FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
