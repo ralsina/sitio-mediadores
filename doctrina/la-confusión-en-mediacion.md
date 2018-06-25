@@ -1,6 +1,8 @@
 ---
 title: La confusión en Mediacion
 ---
+![](/images/uploads/confusion.jpg)
+
 [La confusión en mediación
 ](http://www.ijeditores.com.ar/articulos.php?idarticulo=65102&print=2#indice_0) 
 Comentario al fallo "Asociación Civil Lineamiento Universal Superior c/Gosman, Eleonora s/Daños y Perjuicios
