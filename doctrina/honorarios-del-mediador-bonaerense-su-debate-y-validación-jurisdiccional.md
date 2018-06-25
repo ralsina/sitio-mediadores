@@ -1,5 +1,5 @@
 ---
-title: 'AAHonorarios del mediador bonaerense: su debate y validación jurisdiccional '
+title: 'Aahonorarios del mediador bonaerense: su debate y validación jurisdiccional '
 ---
 ## Por Juan Fernando Gouvert
 
