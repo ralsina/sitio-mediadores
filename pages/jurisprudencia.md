@@ -10,12 +10,14 @@ title: Jurisprudencia
 [**DIAZ SILVANA DANIELA S/ DETERMINACIÓN JUDICIAL DE HONORARIOS**
  ](/fallos/diaz-silvana-daniela-s-determinacion-judicial-de-honorarios/index.html)Ejecución honorarios mediador NO paga bono e ius, La Plata, Diciembre 2017
 
-[**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)** **FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
+ESPINDOLA SILVIA ANALIA C/ EXPRESO VILLA GALICIA SAN JOSE S.A. Y OTRO/A S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE , El juez no regula honorarios sino que al estar tabulados, solo los fija.NO puede asimilarse la situación del mediador con la de los auxiliares de justicia a los que si les aplica la regulación de honorarios.-Lomas de Zamora, abril de 2017
+
+[**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)\*\* \*\*FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
 [**RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.-**](/fallos/rodriguez-arabel-c-vitullo-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
 
 [**SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO**](/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores. Mar del Plata, Mayo de 2014
 
-[**Tarjeta Naranja c/ Dilarregui EDUARDO LUIS S/ COBRO SUMARIO SUMAS DINERO**](/fallos/tarjeta-naranja-s-a-c-dilarregui-eduardo-luis-s-cobro-sumario-sumas-dinero/index.html)** **PLANTEO DE INCONSTITUCIONALIDAD EXTEMPORÁNEO - Mar del Plata - Junio 2018
+[**Tarjeta Naranja c/ Dilarregui EDUARDO LUIS S/ COBRO SUMARIO SUMAS DINERO**](/fallos/tarjeta-naranja-s-a-c-dilarregui-eduardo-luis-s-cobro-sumario-sumas-dinero/index.html)\*\* \*\*PLANTEO DE INCONSTITUCIONALIDAD EXTEMPORÁNEO - Mar del Plata - Junio 2018
 
 [**Vitullo, Mariano Matías c/ Bustos, Diego s/ Daños  y Perjuicios**](fallos/vitullo-mariano-matias-c-bustos-diego-s-danos-y-perjuicios/index.html) Seguros Bernardino Rivadavia Cooperativa Limitada Apela Honorarios por altos, aplicación del art. 27 del decreto 2530/10, Confirma honorarios fijados en 1ra instancia.- San Isidro, junio de 2016
