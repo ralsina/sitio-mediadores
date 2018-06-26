@@ -1,6 +1,8 @@
 ---
 title: Doctrina
 ---
+![](/images/uploads/doctrina.jpg)
+
 ## Publicada
 
 [**La confusión en mediación** - Dra. Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
@@ -24,4 +26,4 @@ title: Doctrina
 
 [**ASPECTOS EMOCIONALES EN LAS MEDIACIONES POR ACCIDENTES DE TRÁNSITO: CONSIDERACIONES PRÁCTICAS DE UN MEDIADOR**](/doctrina/yyy-aspectos-emocionales-en-las-mediaciones-por-accidentes-de-transito-consideraciones-practicas-de-un-mediador/index.html)**.** Dr. Juan Fernando Gouvert
 
-[**Apuntes para la inclusión en mediación de la acción de daños y perjuicios promovida por los representantes de un menor en el ámbito bonaerense.**](/doctrina/yyy-apuntes-para-la-inclusion-en-mediacion-de-la-accion-de-danos-y-perjuicios-promovida-por-los-representantes-de-un-menor-en-el-ambito-bonaerense/index.html)** **Dr. Juan Fernando Gouvert
+[**Apuntes para la inclusión en mediación de la acción de daños y perjuicios promovida por los representantes de un menor en el ámbito bonaerense.**](/doctrina/yyy-apuntes-para-la-inclusion-en-mediacion-de-la-accion-de-danos-y-perjuicios-promovida-por-los-representantes-de-un-menor-en-el-ambito-bonaerense/index.html)\*\* \*\*Dr. Juan Fernando Gouvert
