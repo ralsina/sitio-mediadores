@@ -5,7 +5,7 @@ title: Jurisprudencia
 
 [**BOMBARA SANDRA D. C/ LOVERO NAHUEL M. y ot. S/ Ds y Ps ** ](/fallos/bombara-sandra-d-c-lovero-nahuel-m-y-ot-s-ds-y-ps/index.html)Nulidad de notificación - No responde - Reapertura - Lomas de Zamora, Agosto de 2016 .-
 
-BRIGNOLES MARIA JUANA S/MATERIA A CATEGORIZAR. RECHAZA INCONSTITUCIONALIDAD. DESTACA LABOR DIFERENCIADA DEL MEDIADOR, Dolores, junio de 2018
+[**BRIGNOLES MARIA JUANA S/MATERIA A CATEGORIZAR.** ](/fallos/brignoles-maria-juana-s-materia-a-categorizar/index.html)RECHAZA INCONSTITUCIONALIDAD. DESTACA LABOR DIFERENCIADA DEL MEDIADOR, Dolores, junio de 2018
 
 [**CASTRO CALDERON CARLOS ALBERTO y otro/a C/ CUADRA MARISA SILVIA y otro/a S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE**](/fallos/castro-calderon-carlos-alberto-y-otro-a-c-cuadra-marisa-silvia-y-otro-a-s-danos-y-perj-autom/index.html) Honorarios - rechazo al prorrateo. San Isidro, Noviembre de 2016
 
