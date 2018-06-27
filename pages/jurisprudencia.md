@@ -18,6 +18,8 @@ title: Jurisprudencia
 
 [**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)\*\* \*\*FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
+Pereyra Juan Manuel 
+
 [**RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.-**](/fallos/rodriguez-arabel-c-vitullo-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
 
 [**SUAREZ DARIO V.y ot. c/ SUAREZ HUGO M. y ots. s/ HOMOLOGACION CONVENIO**](/fallos/suarez-dario-v-y-ot-c-suarez-hugo-m-y-ots-s-homologacion-convenio/index.html) Menores. Mar del Plata, Mayo de 2014
