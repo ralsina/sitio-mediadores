@@ -7,7 +7,7 @@ title: Jurisprudencia
 
 [**BRIGNOLES MARIA JUANA S/MATERIA A CATEGORIZAR.** ](/fallos/brignoles-maria-juana-s-materia-a-categorizar/index.html)RECHAZA INCONSTITUCIONALIDAD. DESTACA LABOR DIFERENCIADA DEL MEDIADOR, Dolores, junio de 2018
 
-CACACE GISELA LAURA C/ FEDERACION PATRONAL SEGUROS SA S/ EJECUCION DE HONORARIOS 
+**CACACE GISELA LAURA C/ FEDERACION PATRONAL SEGUROS SA S/ EJECUCION DE HONORARIOS ** APLICA LA ESCALA PREVISTA EN EL ARTICULO 27 DEL DECERTO LEY 2530/2010 Y DEL ARTICULO 31 DE LA LEY 13951, Avellaneda- Lanus, junio 2018
 
 [**CASTRO CALDERON CARLOS ALBERTO y otro/a C/ CUADRA MARISA SILVIA y otro/a S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE**](/fallos/castro-calderon-carlos-alberto-y-otro-a-c-cuadra-marisa-silvia-y-otro-a-s-danos-y-perj-autom/index.html) Honorarios - rechazo al prorrateo. San Isidro, Noviembre de 2016
 
