@@ -19,4 +19,5 @@ Disposicion 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-
 
 ## RESOLUCIONES
 
-RESOL-2018-299-GDEBA-MJGP **Apertura inscripción en el Registro Provincial de Mediadores**
+RESOL-2018-299-GDEBA-MJGP
+[ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
