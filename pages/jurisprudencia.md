@@ -20,6 +20,8 @@ title: Jurisprudencia
 
 [**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)\*\* \*\*FALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
+**PALAZZO GABRIELA C/ LAURORA MARIANO NICOLAS S/ EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951 **Determina honorarios segun art. 27 del decr. 2530/10, aplicando Fallo Morcillo Hugo Nestor C/ Provincia De Bs, As. S/ Inconst. Dec, Ley 9020" ( Scba, I 73016 Del Día 8/11/2017) Valor morigerado del ius. 
+
 [**PEREYRA JUAN MANUEL C/ ACEVEDO JORGE ESTEBAN S/ EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951**](https://sitio-mediadores.netlify.com/fallos/pereyra-juan-manuel-c-acevedo-jorge-esteban-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) FALLO QUE APLICA LOS 9 JUS MODIFICANDO LOS 4 JUS DE DE LA LEY DE 8904 APLICADA EN PRIMERA INSTANCIA, Lomas de Zamora, Junio de 2018
 
 [**RODRIGUEZ ARABEL C/ VITULLO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951.-**](/fallos/rodriguez-arabel-c-vitullo-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) Honorarios mediación  por falta de interposición de demanda, art. 27 Decreto 2530/10,  9 ius- Quilmes, Abril de 2013
