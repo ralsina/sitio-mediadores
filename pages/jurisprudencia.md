@@ -22,7 +22,13 @@ title: Jurisprudencia
 
 [**MORCILLO HUGO HECTOR C/ PROVINCIA DE BS. AS. S/ INCONST. DECR.-LEY 9020 **](https://sitio-mediadores.netlify.com/fallos/morcillo-hugo-hector-c-provincia-de-bs-as-s-inconst-decr-ley-9020/index.html) SOSTIENE QUE DEBE APLICARSE LA LEY 8904 Y NO LA NUEVA LEY 14967 EN SU ARTICULO 9 POR CONSIDERAR QUE NO ES RETROACTIVA LA LEY AL MOMENTO DE LA REGULACIÓN DE HONORARIOS PROFESIONALES DE LOS ABOGADOS Y MANTIENE EL VALOR DEL JUS A PESOS SEISCIENTOS SESENTA Y CUATRO ( $664) SCBA, Noviembre 2017
 
-[**PALAZZO GABRIELA C/ LAURORA MARIANO NICOLAS S/ EJECUCION DE HONORARIOS DE MEDIACION LEY 13.95**](fallos/palazzo-gabriela-c-laurora-mariano-nicolas-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html)**1 **Determina honorarios segun art. 27 del decr. 2530/10, aplicando Fallo Morcillo Hugo Nestor C/ Provincia De Bs, As. S/ Inconst. Dec, Ley 9020" ( Scba, I 73016 Del Día 8/11/2017) Valor morigerado del ius.  Lomas de Zamora, 
+[**PALAZZO GABRIELA C/ LAURORA MARIANO NICOLAS S/ EJECUCION DE HONORARIOS DE MEDIACION LEY 13.95**](fallos/palazzo-gabriela-c-laurora-mariano-nicolas-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html)**1 **Determina honorarios segun art. 27 del decr. 2530/10, aplicando Fallo Morcillo Hugo Nestor C/ Provincia De Bs, As. S/ Inconst. Dec, Ley 9020" ( Scba, I 73016 Del Día 8/11/2017) Valor morigerado del ius.  
+
+ATENTO AL INCUMPLIMIENTO DE LA COMPANIA FEDERACIÓN PATRONAL SA POR LA SENTENCIA DICTADA EN AUTOS POR VS. CON FECHA 27 DE ABRIL DE 2.018  SE SOLICITA OFICIO DE EMBARGO AL BANCO CENTRAL DE LA REPUBLICA ARGENTINA SA Y CON FECHA 27 DE JUNIO VS. OTORGA EL OFICIO DE EMBARGO AL BANCO CENTRAL 
+
+Lomas de Zamora, 
+
+
 
 [**PEREYRA JUAN MANUEL C/ ACEVEDO JORGE ESTEBAN S/ EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951**](https://sitio-mediadores.netlify.com/fallos/pereyra-juan-manuel-c-acevedo-jorge-esteban-s-ejecucion-de-honorarios-de-mediacion-ley-13-951/index.html) FALLO QUE APLICA LOS 9 JUS MODIFICANDO LOS 4 JUS DE DE LA LEY DE 8904 APLICADA EN PRIMERA INSTANCIA, Lomas de Zamora, Junio de 2018
 
