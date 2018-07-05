@@ -20,7 +20,7 @@ title: Jurisprudencia
 
 [**INSUA LEANDRO JAVIER C/ PEREIRA JOSEFINA PILAR S/COBRO SUMARIO SUMAS DINERO**](/fallos/insua-leandro-javier-c-pereira-josefina-pilar-s-cobro-sumario-sumas-dinero-exc-alquileres-etc/index.html)** F**ALLO REVOCA INCONSTITUCIONALIDAD HONORARIOS MEDIADOR; Lomas de Zamora, septiembre de 2016
 
-**MIRANDA JUAN DE DIOS C/ COLANERI HORACIO LUIS S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE **Los honorarios del mediador prejudicial no deben sumarse al tope del art. 730 CCCN, porque ese profesional no es parte del proceso judicial. Honorarios  deben sujetarse a la escala vigente del decreto 2530/2010. Junin, Marzo de 2017
+[**MIRANDA JUAN DE DIOS C/ COLANERI HORACIO LUIS S/DAÑOS Y PERJ.AUTOM. C/LES. O MUERTE **](/fallos/miranda-juan-de-dios-c-colaneri-horacio-luis-s-danos-y-perj-autom-c-les-o-muerte/index.html)Los honorarios del mediador prejudicial no deben sumarse al tope del art. 730 CCCN, porque ese profesional no es parte del proceso judicial. Honorarios  deben sujetarse a la escala vigente del decreto 2530/2010. Junin, Marzo de 2017
 
 [**MORCILLO HUGO HECTOR C/ PROVINCIA DE BS. AS. S/ INCONST. DECR.-LEY 9020 **](https://sitio-mediadores.netlify.com/fallos/morcillo-hugo-hector-c-provincia-de-bs-as-s-inconst-decr-ley-9020/index.html) SOSTIENE QUE DEBE APLICARSE LA LEY 8904 Y NO LA NUEVA LEY 14967 EN SU ARTICULO 9 POR CONSIDERAR QUE NO ES RETROACTIVA LA LEY AL MOMENTO DE LA REGULACIÓN DE HONORARIOS PROFESIONALES DE LOS ABOGADOS Y MANTIENE EL VALOR DEL JUS A PESOS SEISCIENTOS SESENTA Y CUATRO ( $664) SCBA, Noviembre 2017
 
