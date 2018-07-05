@@ -17,6 +17,8 @@ Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legisl
 
 Disposicion 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
 
+Exime guardias colegio
+
 ## RESOLUCIONES
 
 RESOL-2018-299-GDEBA-MJGP
