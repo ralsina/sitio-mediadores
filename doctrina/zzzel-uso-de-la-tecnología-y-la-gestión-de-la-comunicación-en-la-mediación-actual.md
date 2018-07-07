@@ -1,7 +1,5 @@
 ---
-title: >-
-  yyy El uso de la tecnología y la gestión de la comunicación en la mediación
-  actual
+title: El uso de la tecnología y la gestión de la comunicación en la mediación actual
 ---
 ## Juan Fernando Gouvert
 
