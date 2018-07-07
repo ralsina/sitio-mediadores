@@ -1,122 +1,62 @@
 ---
 title: >-
-  yyy Apuntes para la inclusión en mediación de la acción de daños y perjuicios
+  Apuntes para la inclusión en mediación de la acción de daños y perjuicios
   promovida por los representantes de un menor en el ámbito bonaerense.
 ---
 ## Por Juan Fernando Gouvert
 
-
+El derecho Legislación Argentina (EDLA), 12 de junio de 2017, boletín nº 6, sección doctrina, pags. 7 a 12.
 
 Anotaremos algunos pareceres acerca de si la acción de daños y perjuicios promovida por los representantes de un menor, por caso debido a un tristemente usual un accidente automovilístico sufrido por el incapaz resulta una materia excluida o no de la mediación previa obligatoria bonaerense. Visto que la gran proporción de casos tratados en mediación resultan siniestros viales y muchos de ellos damnifican a menores de edad, el tópico adquiere relevancia. 
 
-
-
 El art. 4, inciso 10 ley 13951 edicta que quedan exceptuados de la Mediación: “10. Las acciones promovidas por menores que requieran la intervención del Ministerio Público”; el decreto reglamentario 2530/2010 no brinda miga aclaratoria al respecto. Recurriendo a la Ley Nº 14.442 de Ministerio Público bonaerense su art. 38 inc. 1 establece que son deberes y atribuciones del Asesor de Incapaces “Intervenir en todo asunto judicial o extrajudicial que interese a la persona o bienes de los incapaces, cuando las leyes lo dispongan, so pena de nulidad de todo acto o proceso que tuviere lugar sin su participación, sin perjuicio de la responsabilidad de quienes - por acción u omisión- la hubieren impedido.” 
-
-
 
 Aquí en nudo del thema: ¿la acción indemnizatoria intentada por los padres de menor víctima de un choque automovilístico es o no materia excluida de mediación  previa obligatoria?¿El art. inc. 4 inc 10 de la ley 13951 dispone la intervención obligatoria del asesor de incapaces por imperio del 38 inc. 1 ley nº 14.442 de Ministerio Público? 
 
-
-
 Propugnamos la postura inclusiva, cimentando nuestro parecer en elucidaciones jurisdiccionales. 
-
-
 
 Resulta que la Alzada civil Mercedina  interpretó la extensión y alcance de la exclusión del art. 4º inciso 10 ley13951 en la petición indemnizatoria de daños y perjuicios que habiendo transitado las partes sin objeciones por mediación llegan a un acuerdo y, homologado el mismo, la Aseguradora se niega a abonar los honorarios de la mediadora correspondientes al monto resarcitorio del menor aludiendo a la exclusión art. 4º inciso 10 ley13951 y solo accede a abonar los estipendios referidos a los rubros de sus padres. El Juez de Grado accede a lo peticionado por la Aseguradora, validando el acuerdo; la Alzada revoca mandado a que regulen honorarios a la mediadora por el monto indemnizatorio total, incluido en el menor. 
 
-
-
 Razonan con justeza los revisores en que el objeto de la mediación trata de materia “disponible” por los por los particulares (art.1 ley 13951 y  art. Decreto Reglamentario 2530/10,), y que “los arts. 4° y 5° de la Ley 13.951 reglamentan aquellos temas que están exceptuados de la ley; importando señalar en este punto es que no es lo mismo decir que están 
-
-
-
-
 
 “exceptuados” a decir que “no son mediables”. En esta materia el legislador ha tenido en cuenta las normas de orden público y aquellos temas que no son disponibles para los particulares, y también ha querido proteger a quienes por sus condiciones personales (menores e incapacitados), no pueden por ellos mismos manifestar y defender en plenitud sus intereses”. Destaco que el magistrado se apoya aquí en el artículo de Graciela Mabel Testa intitulado “Implementación de la ley 13.951 de mediación obligatoria en la Provincia de Bs As”, pub. LL BA2012, Junio, p.482. 
 
-
-
 La diferenciación entre materias exceptuadas y no mediables también  ya había hallado eco tempranamente en el Segundo encuentro de mediadores de la provincia de Buenos Aires celebrado en Tandil  en Abril de 2013, donde en la Comisión nº III “Menores: Interpretación del art. 4 inc. 10 Ley 13951” acertadamente se dilucidó: “La ley establece que quedan exceptuadas de la mediación las acciones promovidas por menores que requieran la intervención del Ministerio Publico; que si bien el art. 4 inc. 10 exceptúa a los menores en la participación de la mediación, no está estrictamente prohibido, por tal motivo interpretamos que puede ser incorporado como causa mediable atento que en la práctica se sortean mediadores en causa en la que intervienen menores. Ello debido a que, decir que el tema esta exceptuado, no significa que no sea mediable; esta comisión concuerda con el criterio sustentado en el artículo de la Dra. Graciela Mabel Testa Implementación de la ley 13951 de mediación obligatoria en la Provincia de Buenos Aires, La Ley Buenos Aires junio 2012 Pág. 488. El criterio sustentado encuentra apoyo en la jurisprudencia de la Cámara Civil y Comercial de Junín en autos: “Sánchez Cintia Lilian c/ Club Social y Depor Atlanta Vedia s¬/ Daños y Perjuicios” (Expte. Ju-2509-2012).- No se debe perder de vista que la ley exceptúa de la mediación únicamente las mediaciones promovidas por menores, es decir cuando es requirente y las mismas requieren la intervención del Ministerio Público”. -
-
-
 
 Siendo que el art. 4 inc 10 de la ley 13951 indica que quedan exceptuadas de la mediación las acciones promovidas por menores que requieran “la intervención del Ministerio Público” y razona el Juez ad quem que “La frase entrecomillada está indicando un plus de exigencia, es decir, que no toda intervención de menores excluye la mediación”. Entiendo que el sentido e interpretación que debe darse al art. 4 apunta a las cuestiones indisponibles, toda vez que los conflictos mediables son solo aquellos en que la materia es disponible para los justiciables (art. 1º Dec. Reg. 2530/10 Ley 13951
 
-
-
 Entonces, y plegándose a un fallo de la Sala Tercera de la Cámara de La Plata (causa N° 115.406) donde también se dilucidó si un daño y perjuicios incoado por los padres en representación de hijos menores es materia disponible y si. como tal, permitía la mediación; se razonó: “ Se partió de que en la lógica de la ley, la razón de ser de la no aplicación de la mediación a cuestiones que involucran menores o que los tienen como partes, radica en la 
-
-
-
-
 
 indisponibilidad de algunos que hacen a su estado. Las cuestiones de que se trata se reconocen claramente y se exceptúan: son las causas sobre abrigo, tutela y filiación. Las distinciones que el fallo produce dan cuenta de que las acciones que ejerce el menor con intervención del Ministerio público no se encuentran sometidas a la mediación previa obligatoria (vgr., tutela, violencia familiar, abrigo, etc.) (art. 4º inc. 10 de la ley 13.951). Al identificar con la expresión “acciones” que ejerce el menor, se reconoce aquí una distinción con la materia venida en análisis. El fallo clarifica que la acción de daños y perjuicios que incoan los padres en representación de sus hijos menores, es una acción distinta de las previstas en el citado art. 4º inc. 10 de la ley 13.951. Estas últimas las ejerce el menor, con la intervención del Ministerio Público y no se encuentran sometidas a la mediación previa obligatoria.” 
 
-
-
 Concuerdo con la Alzada civil de Mercedes en que las “acciones excluidas” del procedimiento de mediación pautadas en el  art. 4 inc. 10 de la ley 13951 son las que ejerce el menor por sí con intervención del Ministerio público porque se tratan sobre una materia indisponible referida a su estado (vgr. abrigo, tutela y filiación, etc). Ciertamente, las acciones de daños y perjuicios promovidos por los padres de un menor contra un tercero, la pretensión la enarbolan los padres capaces – y no su hijo incapaz que es representado por ellos- por tratarse de una materia patrimonial disponible por las personas, que no requiere la intervención del Ministerio Público, y por tanto incluida dentro de la mediación previa obligatorias. 
-
-
 
 Idéntico parecer emitió la Alzada Civil platense:“ Ahora bien, en este proceso se han denunciado hechos que conllevan a delimitar la pretensión en el ámbito de los daños y perjuicios, dentro de un establecimiento educativo en los que el menor y sus progenitores resultarían ser los reclamantes, acción distinta de las previstas en el citado artículo 4 inciso 10 de la ley 13.951 (fs. 20/23, SCBA, Ac. 73622 del 21/3/01, 101349 del 13/7/11). Estas últimas las que ejerce el menor, con la intervención del Ministerio público, no se encuentran dentro de aquellas sometidas a la mediación previa obligatoria (vgr. tutela, violencia familiar, abrigo, etc.
 
-
-
 El sentido aquí brindado a la palabras de la excepción analizada en cuanto alude solo cuando “Las acciones promovidas por menores…”,y por ende no través de sus representantes, que además “requieran la intervención del Ministerio Público” , porque afecta peticiones referentes a su estado, respeta la manda exegética del art. 2 del Código Civil y Comercial de la Nación y es coherente con la finalidad global de la propia ley de mediación bonaerense.
-
-
 
 Otro orden de argumentos se yergue para concluir que la acción indemnizatoria impulsada por los padres de un menor resulta alcanzada por la mediación previa obligatoria y no está alcanzada por la excepción del art. 4 inc. 10  de ley 13951. Si se sostiene que la hipótesis analizada resulta incluida en 
 
-
-
-
-
 materia de mediación por ser esencialmente patrimonial y por tanto disponible por particulares, también lo debe ser que puede ser materia de transacción. Veamos.
-
-
 
 Así pues, si fuera es cierto que las acciones en las que interviene un menor están excluidas de mediación por ser materia indisponible por los particulares y por ende comprendida en el art. 4 inc. 10 de ley 13951, tampoco podría ser válidamente materia disponible en una transacción, pero esta tesitura no corresponde con el razonamiento aquí vertido con respaldo jurisdiccional. 
 
-
-
 En efecto, en la pretensión de daños y perjuicios el menor afectado de edad peticiona a través de sus padres -que pueden ser también afectados o no por el daño- es materia ínsitamente patrimonial y disponible por los particulares porque no se relaciona ni entraña cambio alguno en el estado del menor (cuestiones si indisponibles donde la acción la ejerce el mismo menor por sí con la intervención del asesor de incapaces) y sobre la cual las partes pueden transar y convenir.
-
-
 
 Resulta contradictorio entonces que si se pretende que la acción de daños y perjuicios entablada que los padres de un menor está alcanzada por la excepción del art. 4 inc. 10 de ley 13951 por tratarse de una materia indisponible por sus representantes al afectar el estado del menor y por ende ser de orden público, resulta incoherente que tal materia – con o sin intervención del asesor de incapaces- puede igualmente ser materia de transacción a pesar de las prohibiciones del art. 1644 del CC y CN  
 
-
-
 Menuda e insalvable contradicción: si la acción de daño y perjuicios iniciadas por los representantes de un menor de edad resultaría materia indisponible por los particulares, tampoco es admisible ninguna transacción, ya sea la materia esté o no excluida en el procedimiento de mediación, se trataría de cuestión de estado de las personas.
-
-
 
 Pero el propio texto del art. . 1644 del CC y CN ya hecha luz al respecto : “ Tampoco pueden ser objeto de transacción los derechos sobre las relaciones de familia o el estado de las personas, excepto que se trate de derechos patrimoniales derivados de aquéllos ...”. A todo evento ,el supuesto fáctico al que nos circunscribimos se trata de derechos patrimoniales puesto que los padres de un menor de edad damnificado por un siniestro vial reclaman el resarcimiento dinerario que lo indemnice de los daños que sufrió el incapaz que representan.  
 
-
-
  Este perece es respaldado pos en la jurisprudencia:“ Además si la materia no hubiera sido susceptible de mediación, tampoco sería disponible para los padres del menor realizar una transacción privada que no quedaría saneada por el mero acuerdo del Asesor. Es más, la homologación implica que el juez ha examinado la concurrencia de los requisitos exigidos por la ley para la validez de la transacción (art. 308 del CPCC) y 
-
-
-
-
 
 asimismo el reconocimiento del negocio celebrado extrajudicialmente”. 
 
-
-
 Por todo lo expuesto concluimos que la correcta hermenéutica de la excepción del art. 4 inc. 10 de la ley 13951 no alcanza la acción por daños y perjuicios impetrada por un menor de edad a través de sus representantes legales estando incluido el supuesto por el régimen de mediación previa obligatoria. Talla aquí el carácter patrimonial y disponible de la materia, sin mengua que además el incapaz acciona por intermedio representantes y no por sí, como cuando lo hace en los casos referidos a su estado donde actúa por sí con la necesaria intervención del Ministerio pupilar (vgr. casos de abrigo, tutela, etc.). 
-
-
 
 Va de suyo que desde su designación por sorteo, la intervención del mediador en estos casos donde existen menores brinda derecho a cobrar sus estipendios.
 
-
-
 En cavilación postrera, ¿debe intervenir el asesor de incapaces al momento de homologar ante un acuerdo celebrado en mediación en el supuesto tratado? Aunque la ley 13951 no se refiere expresamente al supuesto examinado, como sí lo hacen la legislación nacional y similares provinciales  que mandan unánimemente homologación obligatoria y con – en la mayoría de las jurisdicciones- la necesaria intervención del asesor de incapaces, entendemos que al resolver la homologación judicial del acuerdo donde interviene menores de edad, es imprescindible dar vista previo al Ministerio Pupilar en aseguramiento de la defensa del interés superior del incapaz para que realice las consideraciones pertinentes. No olvidar que, el Juez podrá rechazar la homologación porque considera que no contiene una “justa composición de los intereses de las partes”, formular observaciones al acuerdo con devolución de caso al mediador.
-
-
 
 Por tanto, y sin excluir otras intervenciones anteriores, estimamos indispensable la opinión fundada del Ministerio Pupilar para, dentro de su competencia, emita su necesario parecer fundado en torno a la faz minoril acuerdo indemnizatorio arribado, aunque no sea ni pueda ser vinculante para el Pretor que resuelva su venia jurisdiccional.
