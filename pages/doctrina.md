@@ -3,8 +3,6 @@ title: Doctrina
 ---
 ![null](/images/uploads/doctrina.jpg)
 
-## Publicada
-
 [**La confusión en mediación** - Dra. Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
 
 [**DETECCIÓN TEMPRANA DE LA VIOLENCIA.**](/doctrina/deteccion-temprana-de-la-violencia/index.html)  Dr. Enrique A. Laplane
@@ -18,8 +16,6 @@ title: Doctrina
 [**Honorarios del mediador bonaerense: su debate y validación jurisdiccional**](/doctrina/honorarios-del-mediador-bonaerense-su-debate-y-validacion-jurisdiccional/index.html) Dr. Juan Fernando Gouvert. junio 2017
 
 Apuntes para la inclusión en mediación de la acción de daños y perjuicios promovida por los representantes de un menor en el ámbito bonaerense. Dr. Juan Fernando Gouvert
-
-## Artículos de Opinión
 
 [**Actualidad jurisprudencial bonaerense sobre la aplicación del prorrateo a la retribución del mediador.**](/doctrina/actualidad-jurisprudencial-bonaerense-sobre-la-aplicacion-del-prorrateo-a-la-retribucion-del-mediador/index.html) Dr. Juan Fernando Gouvert
 
