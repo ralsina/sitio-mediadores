@@ -3,15 +3,21 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-## LEYES
+# LEYES
+
+## Buenos Aires
 
 [**Ley 13951. Mediacion previa obligatoria**](/legislacion/legislacion/l-13951.html)
 
-## DECRETOS
+## Rio Negro
+
+Ley P Nº3847 Ley de mediación prejudicial
+
+# DECRETOS
 
 [**Decreto 2530/10 Decreto Reglamentario**](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
 
-## DISPOSICIONES MINISTERIALES
+# DISPOSICIONES MINISTERIALES
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
