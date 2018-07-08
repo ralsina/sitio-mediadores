@@ -26,13 +26,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 ## ACORDADAS SCBA
 
-
-
-
-
-
-
-Acuerdos
+## Acuerdos
 
 3668/13: SCJBA, La Plata 6 de Noviembre de 2013
 
@@ -40,27 +34,25 @@ Acuerdos
 
  385/12:  Normas complementarias al Anexo reglamentario del Acuerdo 3585/12
 
-
-
-Disposiciones
+## Disposiciones
 
 650/15: Constitución de domicilio y número de matrícula para los nuevos mediadores
 
 383/14: Reapertura inscripción 18 al 25/08/14
 
-
-
 336/14: La Plata, 27 y 28/8/2014: 2° Jornadas Prov. de Mediac. Previa Obligat. y 2° Encuentro Federal de Mediadores
+
+131/14 Caducidad sello mediadores. 
+
+130/14 Modificacion del sistema Mediare
+
+129/14 Multas por incomparecencia
 
 117/14:  Ampliación plazos pago matrícula
 
 118/14:  Ampliación plazo para acreditar curso de capacitación continua
 
-
-
 46/14: Capacidad reducida. Matrícula anual: Un (1) jus arancelario
-
-
 
 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Obligatoria 2013
 
@@ -94,9 +86,7 @@ Disposiciones
 
 15/12: Denunciar domicilio del requirente y requerido
 
-
-
-Resoluciones 
+## Resoluciones 
 
 90/14: Convocatoria examen habilitante
 
