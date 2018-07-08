@@ -1,11 +1,13 @@
 ---
 title: Inicio
 ---
-## [Conocénos](/quienes-somos/). 
+![Encuentro](/images/uploads/manos.jpg)
+
+## [Conocénos](/quienes-somos/).
 
 Enterate más sobre nosotros.
 
-## [Colaborá](/colabora/). 
+## [Colaborá](/colabora/).
 
 Compartí con nosotros tus fallos, doctrina, modelos de escritos, etc. 
 
@@ -13,6 +15,6 @@ Compartí con nosotros tus fallos, doctrina, modelos de escritos, etc.
 
 Nuestra base de material de consulta, co-construida entre todos. 
 
-# Últimas Noticias: 
+# Últimas Noticias:
 
 {{% post_list %}}
