@@ -1,15 +1,15 @@
 ---
 title: Inicio
 ---
-## Conocénos. 
+## [Conocénos](/quienes-somos/). 
 
 Enteraté más sobre nosotros.
 
-## Colaborá. 
+## [Colaborá](/colabora/). 
 
 Compartí con nosotros tus fallos, doctrina, modelos de escritos, etc. 
 
-## Consultá
+## [Consultá](/jurisprudencia/)
 
 Nuestra base de material de consulta, co-construida entre todos. 
 
