@@ -1,7 +1,7 @@
 ---
 title: Sexto Encuentro “CONSOLIDANDO LOGROS Y PROYECTANDO EL FUTURO”
 ---
-# CONCLUSIONES
+# **CONCLUSIONES**
 
 ENCUENTRO DE MEDIADORES·JUEVES, 20 DE ABRIL DE 2017
 
@@ -23,7 +23,7 @@ El día 8 de Abril se desarrolló el Plenario con la concurrencia de todos los m
 
 Se transcribe a continuación las conclusiones de cada una de las Comisiones de Trabajo:
 
-# COMISION I: HONORARIOS: 
+# COMISION I: HONORARIOS:
 
 ## Jurisprudencia – Análisis de los Proyectos de Reforma del art. 27 del Decreto 2530/10 – Elaboración de Propuestas
 
@@ -221,7 +221,7 @@ Se informan las disidencias y observaciones presentadas por colegas concurrentes
 
 Las observaciones realizadas no cambian el fondo ni el espíritu del proyecto, pero en honor al trabajo desarrollado entendemos que es necesario dejarlas constar.
 
-# COMISION II: PRESCRIPCION Y CADUCIDAD: 
+# COMISION II: PRESCRIPCION Y CADUCIDAD:
 
 ## Análisis comparativo de la Ley 13.951 y el Código Civil y Comercial.-
 
@@ -257,7 +257,7 @@ Propuesta:
 
 Se sugiere la difusión de las modificaciones introducidas en el instituto de la prescripción respecto del inicio de la suspensión de la misma por pedido de mediación. 
 
-# COMISION III: MENORES EN MEDIACION – MEDIACION EN MATERIA DE FAMILIA: 
+# COMISION III: MENORES EN MEDIACION – MEDIACION EN MATERIA DE FAMILIA:
 
 ## Análisis del art. 4 inc. 10 de la Ley 13.951 – Derechos del niño – Funciones del Asesor de Menores. Análisis de las Resoluciones 275/17 y 276/17.-
 
