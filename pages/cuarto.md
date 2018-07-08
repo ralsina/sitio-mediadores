@@ -1,8 +1,11 @@
 ---
 title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
-previewimage: ''
 ---
-![null](/images/uploads/cuarto-encuentro.jpg)
+<div style="float:right; width: 50%;">
+{{% slides "cuarto-encuentro" %}}
+</div>
+
+[TOC]
 
 ## Ver fotos del Encuentro:
 
@@ -38,11 +41,11 @@ En ese marco, nos reunimos en la Casa Universitaria de General San Martín, conc
 
 Al tradicional trabajo en comisiones de debate se sumó en esta oportunidad la modalidad de paneles en los que participaron destacados expositores quienes compartieron sus vastos conocimientos en la materia y  brindaron a los participantes un panorama de la actualidad y avances en el campo de la mediación.
 
-En el primer panel  sobre “INCIDENCIA Y PERSPECTIVAS DE LA MEDIACION” en ámbitos como la defensa del consumidor, el derecho de familia y el fuero civil y comercial, se contó con la presencia del Dr. Mauricio Bianchi (Subsecretario de Defensa del Consumidor del Municipio de Tigre y Mediador de la Provincia de 
+En el primer panel  sobre “INCIDENCIA Y PERSPECTIVAS DE LA MEDIACION” en ámbitos como la defensa del consumidor, el derecho de familia y el fuero civil y comercial, se contó con la presencia del Dr. Mauricio Bianchi (Subsecretario de Defensa del Consumidor del Municipio de Tigre y Mediador de la Provincia de
 
 Buenos Aires); de la Dra. Gladys M. Zaldúa (titular del Juzgado de Primera Instancia en lo Civil y Comercial Nº5 del Departamento Judicial de Gral. San Martín); del Dr. Guillermo de la Cueva (titular del Juzgado de Familia Nº2 del Departamento Judicial de General San Martín), con la coordinación del Dr. Carlos Jesús Maffia.
 
-El segundo panel sobre “LA PRACTICA DE LA MEDIACION”, estuvo integrado por la Dra. Gladys Alvarez (Coordinadora de la Comisión Nacional de Acceso a la Justicia de la Corte Suprema de Justicia de la Nación y Directora Académica de Fundación Libra) quien disertó sobre  LA MEDIACION COMO SISTEMA DE ACCESO A JUSTICIA; el Dr. Guillermo González (Presidente de la Unión de Mediadores Prejudiciales -UMP-), sobre CONSTRUCCION DE ESPACIOS DE CO-APRENDIZAJE PARA EL FORTALECIMIENTO DE LA PRACTICA DE LA MEDIACION. LA EXPERIENCIA DE LA UNION DE MEDIADORES PREJUDICIALES (U.M.P.) ; y el Dr. Alejandro Nató (Mediador y Docente especializado en Gestión de Conflictos Públicos y Miembro Fundador de la Fundación Mediadores en Rd), quien expuso sobre LA MEDIACION EN EL ESCENARIO SOCIAL URBANO. POSIBILIDADES Y DESAFIOS,  coordinados por la Dra. Silvina Norma Caisson.  
+El segundo panel sobre “LA PRACTICA DE LA MEDIACION”, estuvo integrado por la Dra. Gladys Alvarez (Coordinadora de la Comisión Nacional de Acceso a la Justicia de la Corte Suprema de Justicia de la Nación y Directora Académica de Fundación Libra) quien disertó sobre  LA MEDIACION COMO SISTEMA DE ACCESO A JUSTICIA; el Dr. Guillermo González (Presidente de la Unión de Mediadores Prejudiciales -UMP-), sobre CONSTRUCCION DE ESPACIOS DE CO-APRENDIZAJE PARA EL FORTALECIMIENTO DE LA PRACTICA DE LA MEDIACION. LA EXPERIENCIA DE LA UNION DE MEDIADORES PREJUDICIALES (U.M.P.) ; y el Dr. Alejandro Nató (Mediador y Docente especializado en Gestión de Conflictos Públicos y Miembro Fundador de la Fundación Mediadores en Rd), quien expuso sobre LA MEDIACION EN EL ESCENARIO SOCIAL URBANO. POSIBILIDADES Y DESAFIOS,  coordinados por la Dra. Silvina Norma Caisson.
 
 El contenido de las exposiciones será difundido próximamente por nuestras vías habituales de comunicación.-
 
@@ -78,7 +81,7 @@ Todo lo expuesto nos habilitaría a invocar ante el Juez la Resolución Nº 3694
 
 A esta conclusión se arribó con el trabajo realizado en comisiones en las que  se procedió al análisis -entre otros-, del fallo “RUBINO RICARDO AMADEO C/ CLINICA DE FRACTURAS Y ORTOPEDIA S.A. S/ DAÑOS Y PERJ. RESP. PROFESIONAL (EXCLUIDO ESTADO)” (http://www.amaquilvbe.com.ar/fallo-mar-del-plata-caducidad-de-instancia-2/).
 
-Asimismo, es dable destacar que la Ley 13986 del 31/3/09 reformó los arts. 310 y 315 del código de rito en relación al modo y forma en que operan la caducidad de instancia y reestableciendo la operatividad de dicho instituto.    
+Asimismo, es dable destacar que la Ley 13986 del 31/3/09 reformó los arts. 310 y 315 del código de rito en relación al modo y forma en que operan la caducidad de instancia y reestableciendo la operatividad de dicho instituto.
 
 Finalmente, parte de la doctrina entiende que: “...debe reconocerse la atribución de pedir la perención de la instancia al Mediador, que es titular de un interés legítimo, aunque supeditado al resultado de la sentencia y que lo afecta como las partes principales -beneficiándose, por tanto, con la conclusión del pleito por una vía anormal-, máxime cuando, como hemos expresado, la ley no contiene una enumeración taxativa de los sujetos facultados al respecto … “ (Revista de Derecho Procesal-Sistemas Alternativos de Solución de Conflictos- Editorial Rubinzal-Culzoni-2010, pág.220).
 
@@ -94,7 +97,7 @@ Asimismo, cuando el beneficio de litigar sin gastos se iniciare de manera contem
 
 Se instruye al Comité de Seguimiento a fin de que solicite al Ministerio de Justicia de la Provincia de Buenos Aires, informe acerca de cómo se instrumentará el pago de los honorarios en el caso de los beneficios de litigar sin gastos.
 
-Recordamos que “ ... la operatividad del beneficio no puede retrotraerse más allá de la fecha en que se lo peticionó, so pena de violar el principio de preclusión de orden público” (conf. CC, Sala II MP RSD-338-95, RSI-135-02, CC, Sala II Quilmes, RSI-77-00), por lo que sugerimos para el caso en el que se pretenda oponer el 
+Recordamos que “ ... la operatividad del beneficio no puede retrotraerse más allá de la fecha en que se lo peticionó, so pena de violar el principio de preclusión de orden público” (conf. CC, Sala II MP RSD-338-95, RSI-135-02, CC, Sala II Quilmes, RSI-77-00), por lo que sugerimos para el caso en el que se pretenda oponer el
 
 beneficio de litigar sin gastos al Mediador, se solicite la certificación por el Sr. Actuario de la fecha de inicio del incidente del beneficio.
 
@@ -116,7 +119,7 @@ Esta disparidad de criterios nos afecta y  perjudica, por lo que nos enfocamos e
 
 Cuando ejecutamos nuestros honorarios consideramos que la ejecución debería llevarse adelante sin más. Pero, ante el caso de encontrarnos con un juzgado que considera que previamente deben ser notificados los honorarios, deberíamos solicitar que los mismos se fijen de acuerdo a la escala establecida por el art. 27 del Decreto 2530/10.
 
-Hemos podido advertir que el hecho de que algunas actas no contengan indicación  
+Hemos podido advertir que el hecho de que algunas actas no contengan indicación
 
 expresa de datos como fecha, monto y obligado al pago, ha hecho entender a algunos jueces que el acta no revestiría el carácter de título ejecutivo. Sin embargo, tal como lo han advertido los fallos que reseñamos, esos datos son determinables, supliendo la ley la eventual falta de mención expresa de dichos datos por parte del mediador.
 
@@ -154,7 +157,7 @@ COMITE DE SEGUIMIENTO - ELECCION
 
 INFORME DE LAS ACCIONES LLEVADAS A CABO POR EL COMITÉ DE SEGUIMIENTO DEL III ENCUENTRO DE MEDIADORES:
 
-El comité de seguimiento ha presentado las conclusiones del III Encuentro de Mediadores por ante los siguientes organismos: Ministerio de Justicia de la Provincia de Buenos Aires, Suprema Corte de Justicia de la Provincia de Buenos Aires,  Colegio de Abogados de la Provincia de Buenos Aires (COLPROBA),  ambas Cámaras Legislativas Provinciales, Colegios de Abogados  departamentales y Colegios de Magistrados y Funcionarios Judiciales de la Provincia de Buenos Aires.   
+El comité de seguimiento ha presentado las conclusiones del III Encuentro de Mediadores por ante los siguientes organismos: Ministerio de Justicia de la Provincia de Buenos Aires, Suprema Corte de Justicia de la Provincia de Buenos Aires,  Colegio de Abogados de la Provincia de Buenos Aires (COLPROBA),  ambas Cámaras Legislativas Provinciales, Colegios de Abogados  departamentales y Colegios de Magistrados y Funcionarios Judiciales de la Provincia de Buenos Aires.
 
 Asimismo se ha continuado con el seguimiento de los distintos expedientes iniciados oportunamente ante el Ministerio de Justicia de la Provincia y la Suprema Corte de Justicia bonaerense. Respecto a ésta última, la Secretaría de Planificación informó a principios de Noviembre 2014  que el expediente por el cual se solicita la incorporación de materias excluidas de la MPO se encuentra a resolución y firma de los Jueces.
 
@@ -164,7 +167,7 @@ ELECCION DEL COMITÉ DE SEGUIMIENTO DEL IV ENCUENTRO DE MEDIADORES
 
 Previo a la elección de los integrantes del nuevo Comité de Seguimiento, se resuelve modificar a partir del V Encuentro, el número de miembros a renovar en cada elección de la siguiente manera: los miembros del Comité de Seguimiento que se encuentra conformado por seis integrantes, será renovado por tercios en forma anual, al inicio del Plenario de cada Encuentro.
 
-Atento a la modificación realizada, los requisitos y forma de elección de los miembros del Comité de Seguimiento queda redactada de la siguiente forma: A partir del próximo Encuentro el Comité de Seguimiento se renovará por tercios, por voto de la mayoría de los presentes en el plenario, debiendo estar integrado por al menos dos Mediadores del interior de la Provincia de Buenos Aires y siendo requisito haber participado en por lo menos dos encuentros. La elección se llevará a cabo en la apertura del Plenario del Encuentro, momento en que se informará a los presentes quienes son las personas en condiciones de formar parte del Comité. 
+Atento a la modificación realizada, los requisitos y forma de elección de los miembros del Comité de Seguimiento queda redactada de la siguiente forma: A partir del próximo Encuentro el Comité de Seguimiento se renovará por tercios, por voto de la mayoría de los presentes en el plenario, debiendo estar integrado por al menos dos Mediadores del interior de la Provincia de Buenos Aires y siendo requisito haber participado en por lo menos dos encuentros. La elección se llevará a cabo en la apertura del Plenario del Encuentro, momento en que se informará a los presentes quienes son las personas en condiciones de formar parte del Comité.
 
 Seguidamente los miembros integrantes del Comité de Seguimiento del III Encuentro ponen a disposición sus renuncias y se procede a la elección de los nuevos miembros.
 
@@ -172,7 +175,7 @@ A propuesta realizada se resuelve por unanimidad la reelección de los siguiente
 
 En Plenario se resuelve asimismo encomendar al Comité de Seguimiento las siguientes acciones:
 
-Redaccion y presentación de las Conclusiones del IV Encuentro de Mediadores de la Provincia de Buenos Aires al Ministerio de Justicia provincial - Dirección de 
+Redaccion y presentación de las Conclusiones del IV Encuentro de Mediadores de la Provincia de Buenos Aires al Ministerio de Justicia provincial - Dirección de
 
 Resolución de Medios Alternativos de Resolución de Conflictos; Suprema Corte de Justicia de la Provincia de Buenos Aires, Colegio de Abogados de la Provincia de Buenos Aires; Colegios de Magistrados y Funcionarios Judiciales Departamentales, Colegios de Abogados Departamentales y Cámaras de Apelaciones Departamentales.
 

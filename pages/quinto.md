@@ -1,6 +1,13 @@
 ---
 title: Quinto Encuentro
 ---
+
+<div style="float:right; width: 50%;">
+{{% slides "quinto-encuentro" %}}
+</div>
+
+[TOC]
+
 ## Conclusiones
 
 V ENCUENTRO DE MEDIADORES ABOGADOS
@@ -59,7 +66,7 @@ Agradecemos también a la Universidad Nacional de Quilmes (UNQ) que nos cedió e
 
 
 
-El V Encuentro fue inaugurado con las palabras del Dr. Ricardo Bracamonte,  
+El V Encuentro fue inaugurado con las palabras del Dr. Ricardo Bracamonte,
 
 
 
@@ -67,7 +74,7 @@ Director Provincial de Métodos Alternativos de Resolución de Conflictos del Mi
 
 
 
-Del mismo modo, expresamos nuestro profundo agradecimiento a la Universidad Nacional del Centro (UNICEN), y en especial a las Dras. María Elena Dappello y Natalia Messineo quienes de manera totalmente desinteresada estuvieron a cargo del Taller de Casos que se desarrolló en el marco del Encuentro y que por Disposición Nº      de la DPMARC homologó 5 horas de la capacitación anual obligatoria.  
+Del mismo modo, expresamos nuestro profundo agradecimiento a la Universidad Nacional del Centro (UNICEN), y en especial a las Dras. María Elena Dappello y Natalia Messineo quienes de manera totalmente desinteresada estuvieron a cargo del Taller de Casos que se desarrolló en el marco del Encuentro y que por Disposición Nº      de la DPMARC homologó 5 horas de la capacitación anual obligatoria.
 
 
 
@@ -119,7 +126,7 @@ La práctica del mediador de la Provincia de Buenos Aires en temas de Familia co
 
 
 
-Legislación comparada en el territorio Nacional, analizando leyes de la Provincia del Chaco, Provincia de Santa Fe y Ley Nacional de Mediación. 
+Legislación comparada en el territorio Nacional, analizando leyes de la Provincia del Chaco, Provincia de Santa Fe y Ley Nacional de Mediación.
 
 
 
@@ -135,7 +142,7 @@ Consideramos que el programa de Formación de Mediadores de la provincia de Buen
 
 
 
-Partimos entonces del supuesto de que los mediadores de la Provincia de Buenos Aires contamos con herramientas esenciales para operar en conflicto familiares.- 
+Partimos entonces del supuesto de que los mediadores de la Provincia de Buenos Aires contamos con herramientas esenciales para operar en conflicto familiares.-
 
 
 
@@ -143,7 +150,7 @@ Sin perjuicio de ello, y entendiendo que es propio de esta y otras profesiones c
 
 
 
-En este sentido sugerimos que junto el programa que se establezca de capacitación continua de 30 horas anuales obligatoria, destine una propuesta de 10 horas dentro de las 30 horas ya citadas, de 
+En este sentido sugerimos que junto el programa que se establezca de capacitación continua de 30 horas anuales obligatoria, destine una propuesta de 10 horas dentro de las 30 horas ya citadas, de
 
 
 
@@ -151,11 +158,11 @@ capacitación específica en cuestiones familia.-
 
 
 
-Asimismo consideramos pertinente se disponga algún mecanismo de interacción con el Ministerio de la Nación, con el objetivo de tratar el reconocimiento de los cursos realizados en Universidades Nacionales y/o Provinciales homologados por dicho Ministerio.- Esto, y más específicamente en el área de Mediación Familiar que estamos tratando en la presente comisión, facilitaría muchísimo la especialización, y por ende la mejor producción de los mediadores que por territorio y/o cercanía puedan o ya hayan accedido a dichos cursos.-  
+Asimismo consideramos pertinente se disponga algún mecanismo de interacción con el Ministerio de la Nación, con el objetivo de tratar el reconocimiento de los cursos realizados en Universidades Nacionales y/o Provinciales homologados por dicho Ministerio.- Esto, y más específicamente en el área de Mediación Familiar que estamos tratando en la presente comisión, facilitaría muchísimo la especialización, y por ende la mejor producción de los mediadores que por territorio y/o cercanía puedan o ya hayan accedido a dichos cursos.-
 
 
 
-Desde esta comisión consideramos oportuno el establecimiento de una escala diferenciada para la determinación de los honorarios del Mediador interviniente en Materias de Familia, en cuestiones no susceptibles de apreciación pecuniaria, de modo análogo a la ley de honorarios profesionales de nuestra profesión de base y de los colegas abogados intervinientes en dichos conflictos, Decreto / Ley 8904/77, en dichos tópicos, lo que supone evitar a los requirentes una excesiva onerosidad, y preservando la proporcionalidad y justa retribución a la labor del profesional mediador actuante.- 
+Desde esta comisión consideramos oportuno el establecimiento de una escala diferenciada para la determinación de los honorarios del Mediador interviniente en Materias de Familia, en cuestiones no susceptibles de apreciación pecuniaria, de modo análogo a la ley de honorarios profesionales de nuestra profesión de base y de los colegas abogados intervinientes en dichos conflictos, Decreto / Ley 8904/77, en dichos tópicos, lo que supone evitar a los requirentes una excesiva onerosidad, y preservando la proporcionalidad y justa retribución a la labor del profesional mediador actuante.-
 
 
 
@@ -163,7 +170,7 @@ Este criterio adhiere a la solución que verifica en la Legislación comparada d
 
 
 
-Es insoslayable es este orden el atraso en materia de Mediación Familiar de nuestra Provincia de Buenos Aires, con relación a la gran mayoría de los sistemas de mediación adoptados en otras provincia e inclusive el Estado Nacional, que preveen en sus regulaciones procedimientos específicos tanto con relación a un registro y capacitación de Mediadores Familiares, como en sus honorarios, y todo ello sin perjuicio del respeto a singularidad e idiosincrasia.- 
+Es insoslayable es este orden el atraso en materia de Mediación Familiar de nuestra Provincia de Buenos Aires, con relación a la gran mayoría de los sistemas de mediación adoptados en otras provincia e inclusive el Estado Nacional, que preveen en sus regulaciones procedimientos específicos tanto con relación a un registro y capacitación de Mediadores Familiares, como en sus honorarios, y todo ello sin perjuicio del respeto a singularidad e idiosincrasia.-
 
 
 
@@ -171,7 +178,7 @@ Es insoslayable es este orden el atraso en materia de Mediación Familiar de nue
 
 
 
-Del análisis de las leyes elegidas al azar y tan solo con un acotamiento para el mejor debate, en comisión hemos concluido que receptando lo que el espíritu de todas ellas reflejaba, y tomando ideas madres que podrían coadyuvar a una mejor realización de la mediación familiar en la Provincia de Buenos Aires, que en todas ellas toman como contenido de desarrollo la realización de un registro de mediadores especializados en mediación familiar, un sistema de remuneraciones diferenciados de las mediaciones patrimoniales y un sistema de apoyo para recurrir a otros profesionales que solventen y sustenten el trabajo del mediador como consultores técnicos de éste 
+Del análisis de las leyes elegidas al azar y tan solo con un acotamiento para el mejor debate, en comisión hemos concluido que receptando lo que el espíritu de todas ellas reflejaba, y tomando ideas madres que podrían coadyuvar a una mejor realización de la mediación familiar en la Provincia de Buenos Aires, que en todas ellas toman como contenido de desarrollo la realización de un registro de mediadores especializados en mediación familiar, un sistema de remuneraciones diferenciados de las mediaciones patrimoniales y un sistema de apoyo para recurrir a otros profesionales que solventen y sustenten el trabajo del mediador como consultores técnicos de éste
 
 
 
@@ -179,7 +186,7 @@ Del análisis de las leyes elegidas al azar y tan solo con un acotamiento para e
 
 
 
-Por ello consideramos posible, la proposición a la Autoridad de Aplicación, Dirección Provincial de Resolución Alternativa de Conflictos, dependiente del Ministerio de Justicia de la Provincia, que considere la posibilidad referente a la conclusión del debate del primer ítem transcripto, en lo referente a estos temas con la argumentación de las legislaciones ya vigentes en nuestro país.- 
+Por ello consideramos posible, la proposición a la Autoridad de Aplicación, Dirección Provincial de Resolución Alternativa de Conflictos, dependiente del Ministerio de Justicia de la Provincia, que considere la posibilidad referente a la conclusión del debate del primer ítem transcripto, en lo referente a estos temas con la argumentación de las legislaciones ya vigentes en nuestro país.-
 
 
 
@@ -191,15 +198,15 @@ La inclusión de estos temas nos llevaron a pensar como poder arrimar una idea c
 
 
 
-MINISTERIO PUBLICO – DEFENSORÍA: Desde los organismos del estado, se espera una contribución para facilitar los mecanismos que permitan acceder al proceso de mediación a aquellas personas que por ley, les corresponde el patrocinio jurídico gratuito, dígase de los Colegios Profesionales de Abogados, Defensorías, toda vez que la mediación conforme al art. 1 de la ley 13951, es una Política Pública, establecida por ley provincial.- Consideramos que es viable la interacción de estos organismos con el proceso de Mediación, y que si se establecen pautas de colaboración entre los Patrocinios Jurídicos Gratuitos, los padrinazgos profesionales existentes en los diferentes colegios, se podría descongestionar el caudal de trabajo para la Defensorías y la concurrencia a las audiencias de mediación. Contando además que ante la posibilidad de que el tratamiento de la conflictiva familiar tratada en mediación tenga una posible resolución que concluya con la no judicialización del mismo, extrayendo un caudal importante de expedientes de las defensorías que habilitarían más tiempo para dichos profesionales para dedicar a aquellos que solo tenga como posibilidad un proceso judicial que requiera de sus servicios, haciendo de su tarea una mayor producción por dedicación propia a los temas que deba litigar, con una mejor optimización de su tarea.- 
+MINISTERIO PUBLICO – DEFENSORÍA: Desde los organismos del estado, se espera una contribución para facilitar los mecanismos que permitan acceder al proceso de mediación a aquellas personas que por ley, les corresponde el patrocinio jurídico gratuito, dígase de los Colegios Profesionales de Abogados, Defensorías, toda vez que la mediación conforme al art. 1 de la ley 13951, es una Política Pública, establecida por ley provincial.- Consideramos que es viable la interacción de estos organismos con el proceso de Mediación, y que si se establecen pautas de colaboración entre los Patrocinios Jurídicos Gratuitos, los padrinazgos profesionales existentes en los diferentes colegios, se podría descongestionar el caudal de trabajo para la Defensorías y la concurrencia a las audiencias de mediación. Contando además que ante la posibilidad de que el tratamiento de la conflictiva familiar tratada en mediación tenga una posible resolución que concluya con la no judicialización del mismo, extrayendo un caudal importante de expedientes de las defensorías que habilitarían más tiempo para dichos profesionales para dedicar a aquellos que solo tenga como posibilidad un proceso judicial que requiera de sus servicios, haciendo de su tarea una mayor producción por dedicación propia a los temas que deba litigar, con una mejor optimización de su tarea.-
 
 
 
-CONSEJERO DE FAMILIA: En esta comisión entendemos que la 
+CONSEJERO DE FAMILIA: En esta comisión entendemos que la
 
 
 
-Acordada de la Corte 3766/2015 del 15/07/2015 puso en vigencia la normativa imperante incluyendo los temas de familia dentro de la lista de materias mediables obligatorias.- Estamos ante una suspensión provisoria para revisar cuestiones para su mejor implementación. En este sentido, humildemente acercamos elementos que muestran como los distintos institutos procesalmente pensados, no son opuestos sino complementarios, lo que permite una diversidad de instrumentos y de roles, que ante la necesidad de cada caso en consonancia con el nuevo CODIGO CIVIL Y COMERCIAL , con respecto del reconocimiento de las nuevas realidades familiares , la autonomía de la voluntad conjuntamente con el protagonismo de sus miembros, y el derecho de los niños, niñas y adolescentes, nos atrevemos a analizar.-  
+Acordada de la Corte 3766/2015 del 15/07/2015 puso en vigencia la normativa imperante incluyendo los temas de familia dentro de la lista de materias mediables obligatorias.- Estamos ante una suspensión provisoria para revisar cuestiones para su mejor implementación. En este sentido, humildemente acercamos elementos que muestran como los distintos institutos procesalmente pensados, no son opuestos sino complementarios, lo que permite una diversidad de instrumentos y de roles, que ante la necesidad de cada caso en consonancia con el nuevo CODIGO CIVIL Y COMERCIAL , con respecto del reconocimiento de las nuevas realidades familiares , la autonomía de la voluntad conjuntamente con el protagonismo de sus miembros, y el derecho de los niños, niñas y adolescentes, nos atrevemos a analizar.-
 
 
 
@@ -211,15 +218,15 @@ Entendemos que el Consejero de Familia es un funcionario judicial que se desempe
 
 
 
-En tanto que en el ámbito de la mediación el ambiente descontracturado, favorece el diálogo basado en la confianza que se establece bajo el clima de confidencialidad.- La posibilidad del mediador de trabajar con sus herramientas en la comunicación, la posibilidad de introducir una mirada diferentes y la flexibilidad que da la posibilidad de realizar variadas reuniones de trabajo con las partes, hacen de éste sistema una posibilidad de labor distinta a la que debe realizar el consejero, con el resultado inevitable que se dividen tareas que permiten al funcionario establecido en el procedimiento judicial tener mayor y mejor tiempo para realizar las tareas que deba solventar . Consideramos que las tareas no se superponen, ni se excluyen. Se dividen tareas que favorecen a alivianar la agenda de audiencias de los consejeros, produciendo el efecto consecuente de darle la posibilidad a dicho funcionario de designar sus audiencia en tiempos más breves, y hasta poder realizar más de una audiencia si lo considerara pertinente en función de tener más tiempo al dividirse las tareas. 
+En tanto que en el ámbito de la mediación el ambiente descontracturado, favorece el diálogo basado en la confianza que se establece bajo el clima de confidencialidad.- La posibilidad del mediador de trabajar con sus herramientas en la comunicación, la posibilidad de introducir una mirada diferentes y la flexibilidad que da la posibilidad de realizar variadas reuniones de trabajo con las partes, hacen de éste sistema una posibilidad de labor distinta a la que debe realizar el consejero, con el resultado inevitable que se dividen tareas que permiten al funcionario establecido en el procedimiento judicial tener mayor y mejor tiempo para realizar las tareas que deba solventar . Consideramos que las tareas no se superponen, ni se excluyen. Se dividen tareas que favorecen a alivianar la agenda de audiencias de los consejeros, produciendo el efecto consecuente de darle la posibilidad a dicho funcionario de designar sus audiencia en tiempos más breves, y hasta poder realizar más de una audiencia si lo considerara pertinente en función de tener más tiempo al dividirse las tareas.
 
 
 
-INTERVENCIÓN DE EQUIPOS TÉCNICOS: Esta comisión entiende 
+INTERVENCIÓN DE EQUIPOS TÉCNICOS: Esta comisión entiende
 
 
 
-que para el hipotético caso que resultare útil y congruente con el devenir del proceso de mediación contar con expertos orientadores en temáticas referidas a la salud y/o asistencia social, como es habitual en el ámbito de la mediación familiar, consideramos que podrá contactarse con terceros que se citaran como consultores, ya sea solicitados por las propias partes, o por sugerencia del mediador, recurriendo a ONG reconocidas en el ámbito local y/o a los Consejos Locales y/o Zonales de niños, niñas y adolescentes y/o equipos técnicos del Juzgado sorteado en la mediación y/o Fundaciones que específicamente desarrollen apoyo a las problemáticas familiares, así como Asociaciones del estilo que puedan colaborar.- Consideramos que con este aporte podemos solventar las dudas ocasionadas a aquellos colegas abogados , funcionarios y familia judicial que al reflexionar sobre estas cuestiones puedan inferir alguna dificultad en la mediación familiar.- 
+que para el hipotético caso que resultare útil y congruente con el devenir del proceso de mediación contar con expertos orientadores en temáticas referidas a la salud y/o asistencia social, como es habitual en el ámbito de la mediación familiar, consideramos que podrá contactarse con terceros que se citaran como consultores, ya sea solicitados por las propias partes, o por sugerencia del mediador, recurriendo a ONG reconocidas en el ámbito local y/o a los Consejos Locales y/o Zonales de niños, niñas y adolescentes y/o equipos técnicos del Juzgado sorteado en la mediación y/o Fundaciones que específicamente desarrollen apoyo a las problemáticas familiares, así como Asociaciones del estilo que puedan colaborar.- Consideramos que con este aporte podemos solventar las dudas ocasionadas a aquellos colegas abogados , funcionarios y familia judicial que al reflexionar sobre estas cuestiones puedan inferir alguna dificultad en la mediación familiar.-
 
 
 
@@ -247,7 +254,7 @@ MEDIACIÓN VIRTUAL: situaciones de conflicto con personas en residencias muy lej
 
 
 
-FORO INTERACTIVO: La creación de un foro interactivo para tratar los temas que surgen en las comisiones y que por cuestión de tiempo y/o organización del debate quedan afuera y son de interés de los mediadores participantes del encuentro.- 
+FORO INTERACTIVO: La creación de un foro interactivo para tratar los temas que surgen en las comisiones y que por cuestión de tiempo y/o organización del debate quedan afuera y son de interés de los mediadores participantes del encuentro.-
 
 
 
@@ -283,7 +290,7 @@ entre capital reclamado y honorarios de las escalas actuales.
 
 
 
-Que los mediadores además de su condición de abogados en ejercicio de la profesión, deben contar con una especialización en la materia de comunicación, sistemas  estilos y tipos de negociación:, psicología, teoría de sistemas, teoría del conflicto, herramientas comunicacionales, técnicas de negociación, etc., por lo que somos profesionales calificados con solvencia acreditada. 
+Que los mediadores además de su condición de abogados en ejercicio de la profesión, deben contar con una especialización en la materia de comunicación, sistemas  estilos y tipos de negociación:, psicología, teoría de sistemas, teoría del conflicto, herramientas comunicacionales, técnicas de negociación, etc., por lo que somos profesionales calificados con solvencia acreditada.
 
 
 
@@ -299,15 +306,15 @@ Que las posibilidades tanto de sorteo de mediaciones como de cobro de las mismas
 
 
 
-Que  insistimos en la necesidad, de mantener la proporcionalidad vigente a  
+Que  insistimos en la necesidad, de mantener la proporcionalidad vigente a
 
 
 
-la fecha de publicacion de estas conclusiones, (2015) entre el monto reclamado y los honorarios establecidas en el Decreto Reglamentario 2530/10 , cualquiera sea el método, criterio o variable que una eventual reforma pudiera tomar ´para modificar la escala actual, 
+la fecha de publicacion de estas conclusiones, (2015) entre el monto reclamado y los honorarios establecidas en el Decreto Reglamentario 2530/10 , cualquiera sea el método, criterio o variable que una eventual reforma pudiera tomar ´para modificar la escala actual,
 
 
 
-Que teniendo presente todo lo mencionado esta Comisión considera que en función de las versiones existentes de intentos concretos de promover la reducción de los honorarios de los mediadores, se consensúa la necesidad de establecer acciones tendientes a que nuestra postura sea escuchada y tenida en cuenta por las autoridades de los Poderes Públicos, administrativos y de la colegiación, debido a que somos sujetos con interés legítimo y como tales deberíamos ser partícipes de cualquier proceso decisorio al respecto. 
+Que teniendo presente todo lo mencionado esta Comisión considera que en función de las versiones existentes de intentos concretos de promover la reducción de los honorarios de los mediadores, se consensúa la necesidad de establecer acciones tendientes a que nuestra postura sea escuchada y tenida en cuenta por las autoridades de los Poderes Públicos, administrativos y de la colegiación, debido a que somos sujetos con interés legítimo y como tales deberíamos ser partícipes de cualquier proceso decisorio al respecto.
 
 
 
@@ -399,7 +406,7 @@ Por último, a fin de retomar las sugerencias efectuadas en los párrafos anteri
 
 
 
-PLENARIO DEL V ENCUENTRO DE MEDIADORES 
+PLENARIO DEL V ENCUENTRO DE MEDIADORES
 
 
 
@@ -415,7 +422,7 @@ A continuación de procedió a la renovación del Comité de Seguimiento, que se
 
 
 
-En Plenario se aprobó que el Comité de Seguimiento fuera integrado a partir de la fecha por 7 Mediadores Abogados, entre los cuales debe mantenerse un mínimo de colegas del interior de la Provincia de Buenos Aires. Aceptada la renuncia que oportunamente presentara la Dra. Silvina Tettamanti Otamendi y puestas a disposición del auditorio las renuncias del resto de los 
+En Plenario se aprobó que el Comité de Seguimiento fuera integrado a partir de la fecha por 7 Mediadores Abogados, entre los cuales debe mantenerse un mínimo de colegas del interior de la Provincia de Buenos Aires. Aceptada la renuncia que oportunamente presentara la Dra. Silvina Tettamanti Otamendi y puestas a disposición del auditorio las renuncias del resto de los
 
 
 

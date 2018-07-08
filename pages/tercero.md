@@ -1,7 +1,12 @@
 ---
 title: Tercer Encuentro
 ---
-![null](/images/uploads/encuentro-matanza.jpg)
+
+<div style="float:right; width: 50%;">
+{{% slides "tercer-encuentro" %}}
+</div>
+
+[TOC]
 
 ## Conclusiones
 
@@ -35,7 +40,8 @@ Mención especial al Comité de Seguimiento del Segundo Encuentro, por su colabo
 
 CONCLUSIONES:
 
-**1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL**
+**1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
+**
 
 Conclusión: “La actividad que despliega el Mediador Prejudicial en la Mediación Previa Obligatoria es un SERVICIO PÚBLICO DE GESTIÓN PRIVADA y sus actos son atacables por vía de la redargución de falsedad.”
 
@@ -63,7 +69,8 @@ En la misma línea encontramos la Ley Nº 5931 (de Mediación de la Provincia de
 
 La Ley 7454 de la Provincia de San Juan también determina que cualquiera de las partes o el Mediador “pueden” solicitar la homologación del acuerdo.-
 
-Ley Nº IV-0700-2009 de San Luis, en el Título II de la Mediación en Sede Judicial expresa textualmente en su art. 24 que “Cualquiera de las partes podrá solicitar la homologación judicial del acuerdo” y en el Título III de la Mediación en Sede Extrajudicial dice que “El acuerdo a que se arribe tendrá el mismo efecto de un convenio entre partes ycualquiera de ellas podrá solicitar su homologación judicial” (art. 35).-
+Ley Nº IV-0700-2009 de San Luis, en el Título II de la Mediación en Sede Judicial expresa textualmente en su art. 24 que “Cualquiera de las partes podrá solicitar la homologación judicial del acuerdo” y en el Título III de la Mediación en Sede Extrajudicial dice que “El acuerdo a que se arribe tendrá el mismo efecto de un convenio entre partes y
+cualquiera de ellas podrá solicitar su homologación judicial” (art. 35).-
 
 Advertimos que, sin perjuicio de que cuando hablamos de Mediación todos sabemos de qué hablamos, en qué consiste, cuáles son sus características y sobre qué pilares o principios se sustenta, lo dicho en los párrafos precedentes nos refiere -de alguna manera-, que el carácter de obligatoriedad que se impone a la Mediación Previa a todo Juicio afecta de alguna forma a la naturaleza misma de la Mediación. Ello nos conduce a pensar que una cosa es la Mediación en si, como instituto; otra es la Ley de Mediación y otra es la realidad a la que nos enfrentamos cada día en nuestro quehacer como Mediadores. Y la pregunta es: ¿Cómo nos paramos frente a cada uno de ellos?. Dicho de otra manera, una cosa es la teoría y/o la Ley y otra es aquello con lo que nos encontramos en nuestra mesa de trabajo.-
 
@@ -119,9 +126,11 @@ Para ello solicitaremos ante quien corresponda el apoyo para que obtenga estado 
 
 Será necesario, también, adecuar el LIBRO QUINTO respecto de las infracciones cometidas por los Abogados Mediadores, el cual podría ser cumplido con un anexo al mismo. En cuanto al Decreto Ley 8904 y Ley 6716 también deberán adecuarse, incorporando la primera los honorarios del mediador, y la segunda sus aportes previsionales.-
 
-**3.- CUESTIONES PROCESALES DE LA MEDIACIÓN**
+**3.- CUESTIONES PROCESALES DE LA MEDIACIÓN
+**
 
-**SORTEOS**
+**SORTEOS
+**
 
 Conclusión: “Insistimos en la necesidad de implementación de alerta temprana del sorteo por mail al mediador, la transparencia de los sorteos e instamos a la implementación de un mecanismo de reincorporación a la lista de sorteo, en los casos en que el mediador no reciba la designación dentro del plazo de 60 días.”
 
@@ -143,7 +152,8 @@ En este mismo sentido, los integrantes del comité de seguimiento designado en o
 
 Como consecuencia de lo expresado, los Mediadores asistentes al Encuentro solicitamos la derogación de la Disposición Ministerial Nº 261/12; insistimos en la necesidad de que los sorteos sean informados al mediador vía mail y publicados en forma inmediata en el Mediare; requerimos que se arbitren por intermedio de quien corresponda, los medios que sean necesarios para que -vencido el plazo de 60 días de sorteados sin haber recibido la designación-, podamos solicitar por ante la RGE se nos vuelva a incluir en la lista de sorteo, siendo automáticamente agregados al listado oficial en la categoría y subcategoría que corresponda, y con prioridad en el sorteo.-
 
-**FONDO DE FINANCIAMIENTO – BENEFICIO DE LITIGAR SIN GASTOS**
+**FONDO DE FINANCIAMIENTO – BENEFICIO DE LITIGAR SIN GASTOS
+**
 
 Conclusión: “Instamos a que se dé cumplimiento al cobro de las multas por incomparecencia, y que se arbitren los mecanismos para que los expedientes administrativos para el cobro de los BLSG puedan ser iniciados por cada Mediador ante su Colegio Departamental”
 
@@ -151,7 +161,8 @@ Siendo que el Fondo de Financiamiento se encuentra creado por el art. 32 de la L
 
 Asimismo, habiendo informado públicamente el DPMARC, que a los fines del cobro de sus honorarios profesionales por su intervención en aquellas causas por las que se solicitara el beneficio de litigar sin gastos, los Mediadores de toda la Provincia de Buenos Aires deberían iniciar el correspondiente expediente administrativo por ante la sede del Ministerio de Justicia de la Provincia cita en la ciudad de La Plata, tornando absolutamente ilusorio dicho cobro ante las distancias que cada profesional debería sortear con la erogación de tiempo y dinero que ello implicaría, solicitamos a la Autoridad de Aplicación realice un convenio con las autoridades del COLPROBA para arbitrar los medios para que los expedientes administrativos referidos puedan ser iniciados por cada Profesional Mediador por ante el Colegio Profesional en el que se encuentra matriculado.-
 
-**MATERIAS MEDIABLES**
+**MATERIAS MEDIABLES
+**
 
 Conclusión: “Propugnamos: la incorporación de materias excluidas de la MPO; insistimos en el trámite de la MPO no contempladas, entre otras, los temas de familia, las acciones civiles resarcitorias que tramitan en el fuero penal, los temas en los que intervengan menores en los que no sea obligatoria la intervención del Ministerio Público, y las que tramitan ante los Juzgados de Paz. Asimismo, propugnamos que algunas de las materias que hoy están excluidas pasen a ser optativas para las partes y la incorporación de la figura de la derivación judicial”.
 

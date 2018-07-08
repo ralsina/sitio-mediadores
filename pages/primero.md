@@ -2,7 +2,14 @@
 title: Primer Encuentro
 date: '2018-06-16T16:44:51-03:00'
 ---
-# Conclusiones del Primer Encuentro de Mediadores 
+
+<div style="float:right; width: 50%;">
+{{% slides "primer-encuentro" %}}
+</div>
+
+[TOC]
+
+# Conclusiones del Primer Encuentro de Mediadores
 
 ·VIERNES, 23 DE DICIEMBRE DE 2016
 
@@ -72,7 +79,7 @@ Respecto de las Materias Mediables, realizamos una comparación exhaustiva entre
 2. Tambien deberían incluirse sin mas trámite en el Anexo para sorteo las siguientes materias NO EXCLUIDAS por la ley y que se designan por fuero y con su respectivo código: 2.1. Fuero Contencioso Administrativo: 395 IMPUGNAClON CONTRA RESOLS. DE COL. O CONS. PROFES.; 412 RECURSO DE REVISION COLEGIOS O CONSEJOS PROFESIONALES (No son Entes que ampare la excepción del art. 4 de la ley); 2.2. Fuero Civil y Comercial: 11 RECLAMO CONTRA ACTOS DE PARTICULARES (En este caso entraría cuestiones de vecindad como “Cese Ruidos Molestos”, etc.); 66 DISOLUCION Y LlQ. DE SOCIEDAD (INC.SOC. DE HECHO); 76 USO-ACCIONES DERIVADAS; 77 USUFRUCTO-ACCIONES DERIVADAS; 78 ACCION DE REDUCCION; 93 VICIOS REDHIBITORIOS; 111 CONSIGNACION MUEBLES Y LLAVES; 112 CONSIGNACION DE SUMAS DINERO, ALQ.,ARRENDAM.; 164 VENTA MERCADERIAS POR CUENTA DE TERCEROS; 281 HABEAS DATA (En este caso cuando se trate de bancos o Servicios de Informes Crediticios porqué no mediar  con Bancos, Fideicomisos y Veraz).; 178 HOMOLOGACION DE CONVENIO.-
 3. Por otra parte, se propone al Legislador incorporar como materias de mediación prejudicial obligatoria a las incluidas en el art. 835 del C.P.C.C, con excepción de las que determinan estado, teniendo en cuenta la experiencia a nivel de otras provincias y a nivel nacional, a la propia formación que hemos recibido en tal sentido los mediadores de la Provincia de Buenos Aires, a los acuerdos a los que se arriba en la etapa previa en Instancia Judicial y al hecho, de público y notorio, de que es en estas materias donde la Mediación ha obtenido, en todo su desarrollo,  mejores resultados. Ello sin perjuicio de la intervención del Ministerio Público, si correspondiere.-
 
-Instamos también a los Sres. Jueces a que -cuando así lo consideren oportuno,  
+Instamos también a los Sres. Jueces a que -cuando así lo consideren oportuno,
 
 y encuentren que la mediación podría ser útil como herramienta para resolver conflictos sobrevinientes en un proceso judicial- deriven los mismos a los mediadores prejudiciales que hayan intervenido, o -en su caso- soliciten a la receptoria general de expedientes el sorteo correspondiente, como en el caso de divisiones de condominio, concursos, sucesiones, etc..-
 
@@ -84,7 +91,7 @@ En virtud de ello, instamos al Legislador y a la Suprema Corte de Justicia de la
 
 Es de suma importancia definir un criterio en referencia a los Beneficios de Litigar sin Gastos, en este sentido consideramos que la falta de acreditación de la iniciación del Beneficio de Litigar sin Gastos y la falta del tilde correspondiente en el formulario de inicio por receptoría, implicará que el mediador tenga por no iniciado el beneficio. Por otra parte, solicitamos a la
 
-Suprema Corte de Justicia de la Provincia de Buenos Aires, que incorpore en el  
+Suprema Corte de Justicia de la Provincia de Buenos Aires, que incorpore en el
 
 formulario correspondiente al sorteo de mediador -además del casillero para tildar si tiene o no beneficio de litigar sin gastos- un casillero para incorporar el número de causa del beneficio iniciado.-
 
@@ -145,7 +152,7 @@ Habiendo debatido y concordado en que todos proceso de mediación realizado con 
 
 Reglamentario (2539/2010); a fin de evitar los inconvenientes que el sistema informático actual presenta al designar un nuevo mediador al momento del ingreso del formulario cuando las partes ya han cumplido con la etapa de la mediación : sugerimos, a fin de que dicho artículo cobre operatividad informática, se incorpore un nuevo casillero que contemple la opción de MEDIACIÓN PREVIA CUMPLIDA, con indicación del mediador judicial interviniente. La presentación del formulario, junto al acta de cierre de mediación labrada por el mediador judicial, sera suficiente para dejar expedita la vía judicial.-
 
-Fueron motivo también del debate en plenario dos temas además de las 
+Fueron motivo también del debate en plenario dos temas además de las
 
 conclusiones trabajadas en Comisiones. La primera, elección de fecha y lugar para realizar el segundo encuentro; la segunda, la forma en que divulgaríamos las conclusiones a las que se arribara.-
 

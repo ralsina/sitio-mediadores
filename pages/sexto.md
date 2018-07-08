@@ -1,7 +1,14 @@
 ---
 title: Sexto Encuentro “CONSOLIDANDO LOGROS Y PROYECTANDO EL FUTURO”
 ---
-# **CONCLUSIONES**
+<div style="float:right; width: 50%;">
+{{% slides "sexto-encuentro" %}}
+</div>
+
+[TOC]
+
+
+# CONCLUSIONES
 
 ENCUENTRO DE MEDIADORES·JUEVES, 20 DE ABRIL DE 2017
 
@@ -33,11 +40,11 @@ A continuación el texto aprobado por la Comisión de Honorarios del VI ENCUENTR
 
 PAUTAS PARA LA REFORMA DEL DECRETO 2530/2010,
 
-ARANCELES PARA LAS PROFESIONES DE MEDIADORES 
+ARANCELES PARA LAS PROFESIONES DE MEDIADORES
 
 Conforme a la necesidad de ajustar la realidad del sistema de mediación, desarrollamos el estudio de modificación art. Artículo 27 y 28: (Reglamenta artículo 31 Ley N° 13.951) Retribución del Mediador.
 
-GENERALIDADES. 
+GENERALIDADES.
 
 La Retribución Profesional de Abogados Mediadores devengados en gestiones de Mediación Previa Obligatoria, Mediación Voluntaria, y/o toda prestación que intervenga en favor de la Resolución de Conflictos y Prestaciones Extrajudiciales, deben considerarse como remuneraciones al trabajo personal del Abogado Mediador y se regirán por las disposiciones de la presente, y los mismos constituyen el salario del Abogado Mediador por lo cual los mismos tienen carácter alimentario.-
 
@@ -143,7 +150,7 @@ Los Jueces o Tribunales de la Provincia, no podrán aprobar o mandar a cumplir t
 
 El Abogado Mediador se encuentra facultado a solicitar los informes previstos en el artículo 57 de la ley 5177 a los fines de obtener información vinculada a los procesos en los que intervino en tal carácter.
 
-Anexo a las presentes Conclusiones se acompaña EXPOSICION DE MOTIVOS DEL PROYECTO DE MODIFICACION DE LOS ARTICULOS 27 Y 28 DEL DECRETO 2530/2010. 
+Anexo a las presentes Conclusiones se acompaña EXPOSICION DE MOTIVOS DEL PROYECTO DE MODIFICACION DE LOS ARTICULOS 27 Y 28 DEL DECRETO 2530/2010.
 
 En dicha exposición se formulan las aclaraciones que son necesarias para entender los porqués del proyecto aprobado en la Comisión de Honorarios del VI Encuentro de Mediadores.
 
@@ -151,41 +158,41 @@ Entendemos que el proyecto elaborado contempla lo que creemos, es una apreciaci�
 
 EXPOSICION DE MOTIVOS   DEL PROYECTO DE MODIFICACION DE LOS ARTICULOS 27 Y 28 DEL DECRETO 2530/2010
 
-\*1 Se busca de este modo reacomodar las   actuales escalas que han quedado desproporcionadas con el aumento del valor   del Jus. Siguiendo el criterio de reforma de la ley 8904, valoramos el activo   reclamado y lo transformamos en Jus, al cual se le aplica un porcentaje. La   variación del mismo variara conforme a los montos, defendiendo la retribución   del Mediador y respetando un principio de equidad con las partes. Hoy en   escalas de montos reclamados menores a 100 Jus vemos que el porcentaje puede   superar el 35%, lo cual entendemos debe ser ajustado, pero no   indiscriminadamente. Así las escalas menores si bien se disminuyen, lo hacen   a una cifra razonable para las partes y para el mediador. No bajas   discriminatorias, pero si un ajuste a la realidad de la Mediación. 
+\*1 Se busca de este modo reacomodar las   actuales escalas que han quedado desproporcionadas con el aumento del valor   del Jus. Siguiendo el criterio de reforma de la ley 8904, valoramos el activo   reclamado y lo transformamos en Jus, al cual se le aplica un porcentaje. La   variación del mismo variara conforme a los montos, defendiendo la retribución   del Mediador y respetando un principio de equidad con las partes. Hoy en   escalas de montos reclamados menores a 100 Jus vemos que el porcentaje puede   superar el 35%, lo cual entendemos debe ser ajustado, pero no   indiscriminadamente. Así las escalas menores si bien se disminuyen, lo hacen   a una cifra razonable para las partes y para el mediador. No bajas   discriminatorias, pero si un ajuste a la realidad de la Mediación.
 
-Se   toma un promedio entre el 9% y el 12%, conforme a un análisis de los valores   actuales y los mismos cuando comenzó la Mediación en la Provincia en el 2012.   
+Se   toma un promedio entre el 9% y el 12%, conforme a un análisis de los valores   actuales y los mismos cuando comenzó la Mediación en la Provincia en el 2012.
 
 El   cuadro porcentual en la escala para valores equivalentes a menos de 100 Jus   era en el año 2012 entre el 12% y el 18%, y si tomamos en el 2010 era un 11%,   por eso se tomó un referencial del 12%, entendiendo que se ahusta a una   realidad de trabajo en Mediación.
 
-Y   en cuanto a las escalas superiores hemos tenido en cuenta el mínimo que fija   la Ley 8904, es decir un 8% (nótese que el proyecto de modificación de la ley   8904 eleva este monto al 10%), a eso le agregamos un (1) punto suplementario   conforme a el hecho que el Mediador lleva consigo cargas que   ningún abogado debe soportar. 
+Y   en cuanto a las escalas superiores hemos tenido en cuenta el mínimo que fija   la Ley 8904, es decir un 8% (nótese que el proyecto de modificación de la ley   8904 eleva este monto al 10%), a eso le agregamos un (1) punto suplementario   conforme a el hecho que el Mediador lleva consigo cargas que   ningún abogado debe soportar.
 
-Pagamos DOBLE MATRICULA, una a los Colegios de Abogados, y otra al   Ministerio de Justicia. 
+Pagamos DOBLE MATRICULA, una a los Colegios de Abogados, y otra al   Ministerio de Justicia.
 
 Debemos tener estudio físico, con   comodidad para recepcionar un mínimo de 10 personas, recepción y una sala   contigua para "caucus o privadas", téngase presente que se nos   exige tener oficinas con un mínimo de 25 m2 un mediador, 50m2 cuando somos   dos mediadores y 100 m2 para oficinas de más de 5 mediadores.
 
-Estamos obligados a tener computadora con sistema “MEDIARE”,   disponibilidad de internet obligatoria. 
+Estamos obligados a tener computadora con sistema “MEDIARE”,   disponibilidad de internet obligatoria.
 
 Tenemos que tener una guardia diaria en nuestras oficinas.
 
-Hicimos una especialización a nuestro   costo para obtener la licencia con examen ante la Autoridad de aplicación. 
+Hicimos una especialización a nuestro   costo para obtener la licencia con examen ante la Autoridad de aplicación.
 
-Estamos obligados a realizar cursos de capacitación costosos para   mantener nuestra matricula. 
+Estamos obligados a realizar cursos de capacitación costosos para   mantener nuestra matricula.
 
 Y como profesionales debemos estar   actualizados en casi todas las materias Civiles y comerciales, ya que nos   desempeñamos con un abanico de alternativas dispar.
 
-A modo de ejemplificar este punto se adjunta una tabla comparativa de   la propuesta; 
+A modo de ejemplificar este punto se adjunta una tabla comparativa de   la propuesta;
 
  Código Procesal Civil y Comercial de nuestra Provincia, debe tener monto, salvo excepción expresa determinada por el art. 330 del mismo.
 
-\*3 En casos muy especiales los estudios que dispone la ley de mediación nos pueden quedar chicos ante la cantidad de participantes, obligándonos a recurrir a salones externos con costos adicionales. 
+\*3 En casos muy especiales los estudios que dispone la ley de mediación nos pueden quedar chicos ante la cantidad de participantes, obligándonos a recurrir a salones externos con costos adicionales.
 
-\*4 Se fundamenta en la necesidad de disuadir la realización de acuerdos sin conocimiento ni intervención del mediador designado, frustrando su derecho al cobro de su retribución y de la justicia a percibir la Tasa y Sobre Tasa de Justicia. 
+\*4 Se fundamenta en la necesidad de disuadir la realización de acuerdos sin conocimiento ni intervención del mediador designado, frustrando su derecho al cobro de su retribución y de la justicia a percibir la Tasa y Sobre Tasa de Justicia.
 
-\*5 El agregado del presente párrafo tiene la intencionalidad de evitar acuerdos espurios en detrimento de la mediación prejudicial. Con esto el Abogado Mediador que hubiera utilizado este medio será pasible de sanciones conforme a las normas de Ética Profesional del Abogado y Abogado Mediador. 
+\*5 El agregado del presente párrafo tiene la intencionalidad de evitar acuerdos espurios en detrimento de la mediación prejudicial. Con esto el Abogado Mediador que hubiera utilizado este medio será pasible de sanciones conforme a las normas de Ética Profesional del Abogado y Abogado Mediador.
 
 \*6 Con esto tratamos de introducir la necesidad que surge en algunas oportunidades de comediar, y por otra parte el hecho trascendental que la Mediación es un proceso basado en la Confidencialidad y Confianza de las partes con el Mediador o Mediadores, descubrir un velo de quien trabajo más o menos o como se desarrolló el proceso en si, es violar el sentido de la misma.
 
-\*7 Como siempre hemos sostenido que la mediación tiene un principio con la recepción de la misma, y es imposible develar que es lo que se hace dentro de ella, es más el tarifado establecido por el Decreto sobre la retribución del Mediador tiene en cuenta los factores especiales que hacen a esta actividad como dijéramos en las aclaraciones punto 1. 
+\*7 Como siempre hemos sostenido que la mediación tiene un principio con la recepción de la misma, y es imposible develar que es lo que se hace dentro de ella, es más el tarifado establecido por el Decreto sobre la retribución del Mediador tiene en cuenta los factores especiales que hacen a esta actividad como dijéramos en las aclaraciones punto 1.
 
 \*8 Se nos ha dicho que es de aplicación supletoria el Decreto Ley 8904/77. Conforme a la Ley 13.951, en su art. 35, quien nos remite a la ley de Honorarios de la Provincia de Buenos Aires, es decir el Decreto ley 8904/77, y el Decreto 2530/2010, en su art. 27 vuelve a remitir al Decreto Ley 8904/77, cuando habla de Retribución. Y visto que dicha disposición solo habla de aranceles al iniciarse una Mediación en el art. 51, cuando se refiere al cobro de los Centros de Mediación de un arancel que se cobrará por única vez al iniciarse el procedimiento de mediación. Evaluamos y reglado a derecho estamos que está reconocido por la Ley y su Decreto reglamentario el cobro de ese estipendio, que implica el reconocimiento de los gastos que posee el Centro y por ende el Mediador, al poner la fuerza operativa propia a favor de la Mediación. Conforme a esto en cuestión de gastos debemos tomar el art. 9 del Decreto Ley 8904, veamos que dice específicamente: TITULO III - DE LA UNIDAD DE MEDIDA ARANCELARIA ARTICULO 9°: Instituyese con la denominación de “Jus” la unidad de honorario profesional de Abogado o Procurador, que representará el uno (1) por ciento de la remuneración total asignada al cargo de Juez Letrado de Primera Instancia de la Provincia de Buenos Aires, entendiéndose por tal la suma de todos aquellos rubros, sea cual fuere su denominación, -incluida la bonificación por antigüedad por el tiempo exigido por el artículo 178 de la Constitución Provincial-, cuya determinación no dependa de la situación particular del Magistrado. La Suprema Corte de Justicia suministrará mensualmente el valor resultante, eliminando las fracciones decimales. (Párrafo incorporado por la ley 11.593). Sin perjuicio del sistema porcentual establecido en las disposiciones siguientes, las Retribuciones mínimas que corresponde percibir a los Abogados y Procuradores por su actividad profesional resultarán del número de “Jus” que a continuación se detalla: I - RETRIBUCION MINIMOS EN ASUNTOS JUDICIALES NO SUPCEPTIBLES DE APRECIACION PECUNIARIA… II - RETRIBUCION MINIMOS POR LA LABOR EXTRAJUDICIAL 1.  11. Por gastos administrativos de estudio para iniciación de juicios (fotocopias, abrir aportes de colegio, etc.) 1 “Jus”.
 
@@ -207,7 +214,7 @@ f. Firma y sello aclaratorio del profesional.
 
 \*10 Fijamos la pauta que entendemos debería estar aplicándose, ya que estas acciones de ejecución esta efectuada por abogados en causa propia. Y Estará exenta del pago de todo gravamen fiscal, esto no es una evasión fiscal sino diferir la misma para cuando el responsable de costas deba hacerlas efectivas, siempre con base en el hecho que la retribución del Abogado Mediador tiene carácter alimentario.
 
-\*11 Si bien esta entendida en la Ley y el Decreto esta obligación, su expresa incorporación desalienta discusiones sobre el mismo tema, por tanto, entendemos que es conveniente su incorporación. 
+\*11 Si bien esta entendida en la Ley y el Decreto esta obligación, su expresa incorporación desalienta discusiones sobre el mismo tema, por tanto, entendemos que es conveniente su incorporación.
 
 \*12 Esta obligación actúa como un derecho en defensa de la retribución del mediador, si bien por analogía se debe aplicar la ley 5177 y entenderse este honorario ajeno a la parte beneficiada, ha sido discutido por lo cual lo incorporamos.
 
@@ -237,13 +244,13 @@ La ley de mediación 13951 delineó en su artículo 40 conceptos sobre prescripc
 
 Art. 40 ley 13951: La mediación obligatoria prejudicial tendrá carácter de intimación con los efectos previstos en el segundo párrafo del art 3986 del Código Civil.
 
-Art. 31 del Decreto 2530/10: Titulado Suspensión de la prescripción reza que la suspensión de la prescripción liberatoria en los términos y con los efectos previstos en el 2do. Párrafo en el artículo 3986 del Código Civil, se cuentan desde que el reclamante formaliza su pretensión ante la Receptoría General de Expedientes o juzgado descentralizado y opera contra todos los requeridos. 
+Art. 31 del Decreto 2530/10: Titulado Suspensión de la prescripción reza que la suspensión de la prescripción liberatoria en los términos y con los efectos previstos en el 2do. Párrafo en el artículo 3986 del Código Civil, se cuentan desde que el reclamante formaliza su pretensión ante la Receptoría General de Expedientes o juzgado descentralizado y opera contra todos los requeridos.
 
-Con la sanción del nuevo CCC se modifica los principios enunciados precedentemente y en el art 2542 se prescribe la suspensión por pedido de mediación que sucede cuando el curso de la prescripción se suspende desde la expedición por medio fehaciente de la comunicación de la fecha de la audiencia de mediación o desde su celebración, lo que ocurra primero, y que el plazo de prescripción se reanuda a partir de los veinte días contados desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a disposición de las partes. 
+Con la sanción del nuevo CCC se modifica los principios enunciados precedentemente y en el art 2542 se prescribe la suspensión por pedido de mediación que sucede cuando el curso de la prescripción se suspende desde la expedición por medio fehaciente de la comunicación de la fecha de la audiencia de mediación o desde su celebración, lo que ocurra primero, y que el plazo de prescripción se reanuda a partir de los veinte días contados desde el momento en que el acta de cierre del procedimiento de mediación se encuentre a disposición de las partes.
 
 Dicho esto, podríamos concluir que evidenciamos una contradicción entre ambos plexos normativos, en tanto los diferentes puntos de partida indicados por la normativa del decreto 2530 y la ley 26994 del Código Civil y Comercial de la Nación, respecto del inicio de la suspensión de la prescripción por mediación.
 
-Contradicción que se resolvería en principio  por aplicación de la preeminencia de la ley sobre el decreto y del Código de Fondo dictado conforme las facultades delegadas del art 75 de la Constitución Nacional, sobre un decreto provincial. Por lo que podríamos colegir que la suspensión de la prescripción por mediación se produciría con la expedición de la notificación fehaciente de la fecha de audiencia, o celebración de la misma lo que ocurra primero, sin permitir en principio otra interpretación, salvo la creación jurisprudencial que podría surgir de los planteos respecto de la inconstitucionalidad de las normativas procesales incorporadas al Código de fondo. 
+Contradicción que se resolvería en principio  por aplicación de la preeminencia de la ley sobre el decreto y del Código de Fondo dictado conforme las facultades delegadas del art 75 de la Constitución Nacional, sobre un decreto provincial. Por lo que podríamos colegir que la suspensión de la prescripción por mediación se produciría con la expedición de la notificación fehaciente de la fecha de audiencia, o celebración de la misma lo que ocurra primero, sin permitir en principio otra interpretación, salvo la creación jurisprudencial que podría surgir de los planteos respecto de la inconstitucionalidad de las normativas procesales incorporadas al Código de fondo.
 
 Que con respecto al plazo de prescripción para la ejecución de los honorarios el CCC en el art. 2558 señala que el transcurso del plazo para reclamarlos por servicios que han sido prestados en procedimientos judiciales, arbitrales o de mediación, comienza a correr desde que vence el plazo fijado en resolución firme que los regula; si no regula plazo, desde que adquiere firmeza.
 
@@ -253,9 +260,9 @@ Por lo que si articulamos el art 2558 con el 2560 del CCC el plazo de prescripci
 
 El tema de caducidad fue trabajado en la Comisión acordándose que dado que los plazos de caducidad son impuestos por ley y la legislación vigente nada ha mencionado sobre el particular con respecto a la mediación prejudicial en la Provincia de Buenos Aires, no se puede avanzar en dicha temática, reconociéndose sólo que la ley 13.951 reconoce que si sorteada una causa para asignar mediador y juzgado no se iniciase dentro del año, el juzgado procederá a la destrucción del legajo, pero de ninguna manera se podría asimilar esto a un plazo de caducidad.
 
-Propuesta: 
+Propuesta:
 
-Se sugiere la difusión de las modificaciones introducidas en el instituto de la prescripción respecto del inicio de la suspensión de la misma por pedido de mediación. 
+Se sugiere la difusión de las modificaciones introducidas en el instituto de la prescripción respecto del inicio de la suspensión de la misma por pedido de mediación.
 
 # COMISION III: MENORES EN MEDIACION – MEDIACION EN MATERIA DE FAMILIA:
 
@@ -269,7 +276,7 @@ Los miembros de esta comisión hemos consensuado la siguiente agenda de trabajo 
 
 Previo a comenzar a desarrollar los temas que nos convocan surgió el siguiente interrogante: ¿Cómo nos vemos los Mediadores y cómo nos pensamos en el encuadre en el que se desarrolla nuestra tarea cotidiana? Irremediablemente nos llevó a otro interrogante: ¿Cómo nos ven a los Mediadores hoy en la Provincia de Buenos Aires?
 
-Mucho podríamos decir sobre la imagen que tenemos de nosotros mismos y mucho podríamos especular sobre la imagen que creemos que los demás tienen de nosotros y de nuestra tarea. Pero preferimos repensar este planteo  y preguntarnos entonces cómo queremos que nos vean a los Mediadores bonaerenses. 
+Mucho podríamos decir sobre la imagen que tenemos de nosotros mismos y mucho podríamos especular sobre la imagen que creemos que los demás tienen de nosotros y de nuestra tarea. Pero preferimos repensar este planteo  y preguntarnos entonces cómo queremos que nos vean a los Mediadores bonaerenses.
 
 Los Mediadores somos operadores de conflictos; pero no somos los únicos operadores. Estamos inmersos en un encuadre que nos define y que está dado no sólo por la norma que rige nuestra labor; sino también por otros actores  que directa o indirectamente atraviesan el desarrollo de nuestro rol. Actores algunos que nos anteceden y que han tenido y tienen que incorporarnos a sus propios encuadres.
 
@@ -297,7 +304,7 @@ Por el contrario, cuando la acción es promovida por los representantes legales 
 
 Por otro lado, y para una correcta interpretación de la norma, es indispensable conocer que el Ministerio Público tiene distintos niveles de intervención.-
 
-El art. 103 del Código Civil y Comercial establece que la actuación del Ministerio Público puede ser principal o complementaria.- 
+El art. 103 del Código Civil y Comercial establece que la actuación del Ministerio Público puede ser principal o complementaria.-
 
 Es complementaria en todos los procesos en los que estén involucrados los intereses de menores e incapaces.-
 
@@ -319,7 +326,7 @@ Por otro lado, la reforma del Código Civil y Comercial de la Nación ha exigido
 
 En este marco y a través de la Resolución 824/2015, la Suprema Corte creó una comisión de trabajo cuyo objeto fue el de implementar acciones tendientes a actualizar, interpretar, reflexionar, estudiar y modificar (eventualmente), los acuerdos y resoluciones que fuera necesario.-
 
-Esta comisión detectó la necesidad de actualizar el listado de materias de los fueros Civil, Comercial y de Familia contemplados en el anexo II del Acuerdo 3397, a la luz de los cambios generados por el nuevo Código de fondo. 
+Esta comisión detectó la necesidad de actualizar el listado de materias de los fueros Civil, Comercial y de Familia contemplados en el anexo II del Acuerdo 3397, a la luz de los cambios generados por el nuevo Código de fondo.
 
 El informe que elevó esta comisión, provocó el dictado de la Resolución N° 3766 de fecha 15 de julio de 2015 por la cual la SCJBA, en el ejercicio de sus atribuciones y reconociendo el contenido y fundamentos del informe de referencia, no sólo admitió la necesidad de actualizar los listados de las materias de los distintos fueros sino que además advirtió que como consecuencia de dicha modificación, correspondía asimismo modificar “ … el “Listado de materias sujetas a mediación prejudicial obligatoria…” previsto en el “… Anexo “A” del Acuerdo 3585”.-
 
@@ -329,11 +336,11 @@ En este contexto fue que algunos colegas de la provincia fueron sorteados para i
 
 Imprevistamente, el 19 de agosto de 2015 (un mes después de la resolución anterior), la misma Corte dicta el Acuerdo N° 3769, motivado por una presentación que  formalizaron “ … abogados de la matrícula, Jueces de Familia del Departamento Judicial Morón y la Señora Procuradora General …”; y por la cual decide en su artículo primero, “ … Suspender la aplicación del Acuerdo N° 3585, texto según Acuerdo 3766, únicamente respecto de las causas que se inicien en el Fuero de Familia, hasta tanto se resuelvan las cuestiones planteadas…”. ¿El fundamento de esta decisión?:  “… proceder a un análisis pormenorizado de las presentaciones y de las aristas que la temática conlleva, teniendo en cuenta que los derechos pretensamente comprometidos e invocados por los peticionarios podrían afectar el interés público, como así también el de los particulares involucrados… ”.-
 
-En resumidas cuentas, la Corte suspende la mediación familiar so pretexto de estudiar y analizar cuestiones que ya habían sido estudiadas y analizadas por una comisión ad-hoc.- 
+En resumidas cuentas, la Corte suspende la mediación familiar so pretexto de estudiar y analizar cuestiones que ya habían sido estudiadas y analizadas por una comisión ad-hoc.-
 
-Al día de hoy la SCJB no se ha expedido sobre este tema y la mediación en materias de familia continúa suspendida desde el 19 de agosto de 2015. 
+Al día de hoy la SCJB no se ha expedido sobre este tema y la mediación en materias de familia continúa suspendida desde el 19 de agosto de 2015.
 
-En este estado de cosas sorprende que la DPMARC  en distintos ámbitos  venga anunciando la pronta “ampliación de la Mediación a los temas de familia” cuando en realidad la implementación ya se efectivizó. No es necesario volver a implementarla; lo que resta es que la Corte se expida sobre la suspensión que oportunamente decidió.- 
+En este estado de cosas sorprende que la DPMARC  en distintos ámbitos  venga anunciando la pronta “ampliación de la Mediación a los temas de familia” cuando en realidad la implementación ya se efectivizó. No es necesario volver a implementarla; lo que resta es que la Corte se expida sobre la suspensión que oportunamente decidió.-
 
 Ahora bien al día de hoy, no sólo no se conoce cuánto tiempo más necesitará la Corte para decidir sobre este tema; sino que tampoco sabemos cuál va a ser el tenor de esa decisión.-
 
@@ -341,7 +348,7 @@ Sin embargo, la DPMARC ha dictado el día 30 de Marzo de este año dos disposici
 
 A través de la primera disposición, la DP en uso de las facultades que le confieren los arts. 30 de la Ley 13951 y 21 del Dec. Reg. 2530/10, homologa el “Programa de Especialización en Mediación Familiar” que será de carácter obligatorio para todos aquellos Mediadores que pretendan mediar en este campo, con una carga horaria de 60 horas.
 
-Por su lado, la segunda de las disposiciones citadas admite excepciones (totales o parciales) a esta capacitación, mediante la acreditación de determinada formación previa. 
+Por su lado, la segunda de las disposiciones citadas admite excepciones (totales o parciales) a esta capacitación, mediante la acreditación de determinada formación previa.
 
 El análisis de estas dos disposiciones y el contexto en que se dictan, nos genera las siguientes reflexiones en relación a los tiempos que impone la norma; a la carga horaria que prevé; y al contenido del programa.
 
@@ -349,11 +356,11 @@ En lo que hace a los tiempos que impone la norma, advertimos que:
 
 1.La DP nos impone capacitarnos para trabajar en un ámbito respecto del cual la Corte no sólo no se ha expedido, sino que es imposible prever el resultado de esa decisión;
 
-2.La DP dicta la resolución con fecha 30 de marzo y al día de hoy (7 de abril), no ha sido oficialmente notificada. Sin embargo, el inicio de su desarrollo está previsto para este mismo mes en curso (art.3 inc. a Disp.275/17). 
+2.La DP dicta la resolución con fecha 30 de marzo y al día de hoy (7 de abril), no ha sido oficialmente notificada. Sin embargo, el inicio de su desarrollo está previsto para este mismo mes en curso (art.3 inc. a Disp.275/17).
 
 3.La disposición admite excepciones a la capacitación, previa acreditación de antecedentes. La pregunta es: teniendo en cuenta la fecha de inicio de la capacitación, ¿En qué tiempo los Mediadores podríamos iniciar el trámite de excepción y esperar su resolución?
 
-En lo que hace a la carga horaria coincidimos en que la capacitación prevista de 60 horas a desarrollarse durante 5 meses, nos resulta a todas luces excesiva. Máxime si se tiene en cuenta que los Mediadores de la Provincia de Buenos Aires hemos sido formados con un nivel de excelencia, tal como las mismas autoridades lo han reconocido en distintos ámbitos; que la formación recibida (tanto la teoría como la práctica), se ha basado casi en su totalidad en temáticas del ámbito de la problemática familiar; y que se nos ha impuesto por ley una capacitación continua de 30 horas anuales que debemos cumplir como requisito para mantener activa nuestra matrícula. A ello hay que agregar la carga económica que implica una capacitación de estas características (no sólo por el costo del curso en si mismo, sino por el gasto en material, traslados, etc que implica un curso de esta envergadura; y por el tiempo material que nos insumiría y que se traduce en pérdida de horas reales de nuestro trabajo.- 
+En lo que hace a la carga horaria coincidimos en que la capacitación prevista de 60 horas a desarrollarse durante 5 meses, nos resulta a todas luces excesiva. Máxime si se tiene en cuenta que los Mediadores de la Provincia de Buenos Aires hemos sido formados con un nivel de excelencia, tal como las mismas autoridades lo han reconocido en distintos ámbitos; que la formación recibida (tanto la teoría como la práctica), se ha basado casi en su totalidad en temáticas del ámbito de la problemática familiar; y que se nos ha impuesto por ley una capacitación continua de 30 horas anuales que debemos cumplir como requisito para mantener activa nuestra matrícula. A ello hay que agregar la carga económica que implica una capacitación de estas características (no sólo por el costo del curso en si mismo, sino por el gasto en material, traslados, etc que implica un curso de esta envergadura; y por el tiempo material que nos insumiría y que se traduce en pérdida de horas reales de nuestro trabajo.-
 
 Tambièn cabría preguntarse la razón por la que una capacitación puntual sobre la temática de Familia tiene mayor carga horaria que por ejemplo la capacitación que hicieron los mediadores en los cursos de actualización. Otra cuestión a pensar es:  si los Mediadores cuya práctica en casos de familia en los Centros de Mediación de los Colegios Departamentales fueron considerados aptos oportunamente para intervenir en dichas mediaciones, y su derecho fue reconocido expresamente por el legislador, la Dirección Provincial y las entidades formadoras … ¿Por qué ahora no lo sería?
 
@@ -361,11 +368,11 @@ Especial análisis merece el programa previsto para esta capacitación ya que ad
 
 Resiste todo análisis el contenido del módulo 8: “La Acordada 3766/2015: materias mediables”; módulo al que se destina la carga de 5 horas de cursada; como también resiste todo análisis que a profesionales especializados en Mediación nos “recomienden” bibliografía que ha sido obligatoria en el marco de nuestra formación (“Mediación. Diseño de una Práctica” de Caram y Elbaum; “El proceso de Mediación” de Ch. Moore entre otros); y que a profesionales del derecho nos “recomienden” bibliografía como: Código Civil y Comercial de la Nación; Convenciones de los Derechos del Niño; Constitución de la Nación Argentina; Tratados Internacionales).-
 
-Una “mirada activa” de esta nueva capacitación que nos impone hoy la DP nos lleva a pensar que la misma tiene un fin netamente recaudatorio; ya que a las críticas esgrimidas hemos de sumarle la circunstancia de que los Mediadores de la Provincia de Buenos Aires estamos “cautivos” de las entidades formadoras que en un número limitado ha habilitado la autoridad provincial. 
+Una “mirada activa” de esta nueva capacitación que nos impone hoy la DP nos lleva a pensar que la misma tiene un fin netamente recaudatorio; ya que a las críticas esgrimidas hemos de sumarle la circunstancia de que los Mediadores de la Provincia de Buenos Aires estamos “cautivos” de las entidades formadoras que en un número limitado ha habilitado la autoridad provincial.
 
-Por todo lo expuesto solicitamos a la Dirección Provincial de Métodos Alternativos de Resolución de Conflictos: 
+Por todo lo expuesto solicitamos a la Dirección Provincial de Métodos Alternativos de Resolución de Conflictos:
 
-1. Que deje sin efecto la capacitación prevista en las normativas en análisis y  contemple la posibilidad de destinar parte de la carga horaria de nuestra capacitación anual, a temáticas relacionadas con la problemática familiar para quienes deseen trabajar en este ámbito; 
+1. Que deje sin efecto la capacitación prevista en las normativas en análisis y  contemple la posibilidad de destinar parte de la carga horaria de nuestra capacitación anual, a temáticas relacionadas con la problemática familiar para quienes deseen trabajar en este ámbito;
 2. Que arbitre los medios necesarios para peticionar a la Suprema Corte de Justicia que se expida y resuelva sobre la suspensión que ha dispuesto en el año 2015 para Mediación en cuestiones de temática familiar;
 3. Siendo que el art. 11 de la Resolución 462/12 refiere a la incompatibilidad entre el desempeño como Director o Director Provincial y el ejercicio como Mediador, solicitamos se aclare el inc.1 del art. 1 de la Disposición 276/17 en lo pertinente;
 4. En el entendimiento de que los Mediadores tenemos derechos adquiridos y que nuestra matrícula nos habilita para entender en todas las cuestiones que están previstas en la ley 13951 -que incluye las materias del fuero de familia-,  solicitamos a la Dirección Provincial de Mediación que arbitre los medios para se deje sin efecto lo relativo a los exámenes habilitantes y que la capacitación que se brinde sea acorde en cantidad de horas y contenidos a las herramientas que resulten de utilidad en la práctica diaria.-
@@ -376,17 +383,17 @@ Sin perjuicio de lo expuesto precedentemente no podemos ignorar la circunstancia
 
 No debemos soslayar asimismo que el art. 23 de la Ley 13951 impone –para el caso de incumplimiento del acuerdo homologado-, una multa del 30 % del monto conciliado a cargo del requerido y a favor del requirente, no existiendo razón alguna para privar al menor de la posibilidad de exigir esa multa.
 
-Como corolario resaltamos el hecho de que en la práctica diaria, quienes ejercemos la abogacía celebramos acuerdos en los que se encuentran involucrados intereses de menores; los que son presentados para su homologación previa vista al Sr. Asesor, no resultando impedimento alguno. Con más razón deben receptarse los acuerdos en los que están involucrados intereses de menores, y a los que se haya arribado en un proceso de Mediación cuyo encuadre ofrece mayores garantías a través de la presencia de un Mediador, y contando las partes con el debido asesoramiento legal.- 
+Como corolario resaltamos el hecho de que en la práctica diaria, quienes ejercemos la abogacía celebramos acuerdos en los que se encuentran involucrados intereses de menores; los que son presentados para su homologación previa vista al Sr. Asesor, no resultando impedimento alguno. Con más razón deben receptarse los acuerdos en los que están involucrados intereses de menores, y a los que se haya arribado en un proceso de Mediación cuyo encuadre ofrece mayores garantías a través de la presencia de un Mediador, y contando las partes con el debido asesoramiento legal.-
 
 Leídas las conclusiones de las tres Comisiones de Trabajo, previo a la elección de los miembros que integrarán el Comité de Seguimiento y a petición de los mediadores, Dr. Enrique Laplane y Dra. Silvina Caisson, quienes manifiestan la necesidad de definir los objetivos de ENCUENTROS DE MEDIADORES y otorgar mayor operatividad a las acciones posteriores que se resuelvan en lo sucesivo en plenario de cada Encuentro; se resuelve por unanimidad de los mediadores reunidos en el Plenario lo siguiente:
 
 1. El propósito de estos Encuentros es congregar a Mediadores Prejudiciales de la Provincia de Bs. As. promoviendo el encuentro, la unidad, la cooperación y el bien común de los Mediadores.
 2. Es su propósito promover el desarrollo y difundir en todas las formas la mediación en los ámbitos judicial y prejudicial.
-3. Proponer normativas y peticiones ante las autoridades gubernamentales, administrativas, y/o legislativas para que consideren la opinión de la mayoría de los mediadores a fin de que se sancionen leyes, reglamentaciones y otro tipo de normas que aseguren nuestra libertad de trabajo en condiciones y retribuciones dignas. 
-4. Representar a los mediadores y acompañarlos en la defensa de sus derechos e intereses ante personas físicas o entidades públicas o privadas, en cada oportunidad que resulte pertinente. 
+3. Proponer normativas y peticiones ante las autoridades gubernamentales, administrativas, y/o legislativas para que consideren la opinión de la mayoría de los mediadores a fin de que se sancionen leyes, reglamentaciones y otro tipo de normas que aseguren nuestra libertad de trabajo en condiciones y retribuciones dignas.
+4. Representar a los mediadores y acompañarlos en la defensa de sus derechos e intereses ante personas físicas o entidades públicas o privadas, en cada oportunidad que resulte pertinente.
 5. Defender los intereses de los Mediadores dentro de un marco ético de competencia profesional.
 6. Difundir información para que los Mediadores y la comunidad conozca la voluntad pensamiento y posicionamiento de Encuentro de Mediadores en referencia a la actividad en este ámbito desarrollado.
-7. A esos fines se decide que el actual Comité de Seguimiento pasará a conformar un Comité de Gestión y Seguimiento. El mismo tendrá las facultades y atribuciones arriba descriptas y por elección unánime de los asistentes al Plenario quedara integrado por: 
+7. A esos fines se decide que el actual Comité de Seguimiento pasará a conformar un Comité de Gestión y Seguimiento. El mismo tendrá las facultades y atribuciones arriba descriptas y por elección unánime de los asistentes al Plenario quedara integrado por:
 
 Silvina Caisson – San Martin, Giselle Suarez – Avellaneda/Lanus, Enrique Laplane – La Matanza, Georgina Saliani – Tandil, Norma Viviana Peñoñori – Dolores, Rosario Guerrero – San Martin.-
 
@@ -416,7 +423,7 @@ Finalmente se invita a los mediadores presentes a suscribir la siguiente documen
 2. Nota de repudio al Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10, elaborado por la Comisión de mediación de COLPROBA.
 3. Acta de delimitación de los objetivos y fines de Encuentros de Mediadores de la Provincia de Buenos Aires, creación del Comité de Gestión y Seguimiento y de elección de sus integrantes y de las Comisiones de Trabajo Permanentes.
 
-Previo al cierre del Plenario dirige unas palabras de despedida, el abogado mediador Dr. Juan Pablo Frolik, quien lo hace a su vez en su calidad de Presidente del Honorable Concejo de la ciudad de Tandil, quien agradece a los mediadores concurrentes al VI ENCUENTRO, elogiando la labor desarrollada por estos. 
+Previo al cierre del Plenario dirige unas palabras de despedida, el abogado mediador Dr. Juan Pablo Frolik, quien lo hace a su vez en su calidad de Presidente del Honorable Concejo de la ciudad de Tandil, quien agradece a los mediadores concurrentes al VI ENCUENTRO, elogiando la labor desarrollada por estos.
 
 Seguidamente se da por finalizado el Plenario y el VI Encuentro de Mediadores de la Provincia de Buenos Aires. En la ciudad de Tandil, a los 8  días del mes de abril de 2017.
 
