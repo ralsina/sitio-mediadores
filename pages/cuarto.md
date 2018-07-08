@@ -5,7 +5,7 @@ title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
 {{% slides "cuarto-encuentro" %}}
 </div>
 
-[TOC]
+\[TOC]
 
 ## Ver fotos del Encuentro:
 
@@ -13,17 +13,7 @@ title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
 
 2do día: [Paneles de debate](https://www.facebook.com/media/set/?set=a.312458938940952&type=1&l=9ea418092a)
 
-
-
-
-
 El IV Encuentro De Mediadores que se llevara a cabo los dias 7 y 8 de Noviembre en la Casa Universitaria de Gral. San Martin, ha sido declarado de interés Municipal por el Intendente de Gral. San Martin, Dr. Gabriel Katopodis, a traves del Decreto n 20526-2014.
-
-
-
-
-
-
 
 ## CONCLUSIONES DEL IV ENCUENTRO CONURBANO NORTE.
 
@@ -65,7 +55,7 @@ Cada uno de los temas propuestos fueron trabajados primero en comisiones y luego
 
 CONCLUSIONES:
 
-Casos de inactividad procesal- Caducidad:
+## Casos de inactividad procesal- Caducidad:
 
 Teniendo el Mediador un interés legitimo en la resolución del  proceso judicial, interés que ha adquirido con la realización de la mediación y con la decisión de las partes de someterse a juicio, ante la inactividad de las mismas podría poner de manifiesto dicha situación ante el Juez interviniente, a los fines de que las partes manifiesten si tienen intención de continuar o no con el proceso, y –eventualmente- si han llegado a un acuerdo, bajo apercibimiento de decretarse la caducidad y/o de determinarse los honorarios del Mediador tomando como base el monto del reclamo y la escala prevista en el art. 27 del Decr 2530/10. También consideramos que se encontraría habilitado para solicitarle al Juez que disponga que la Superintendencia de Seguros y/u  otras dependencias públicas o privadas en caso de corresponder, informen sobre la existencia de acuerdo extrajudicial.
 
@@ -89,7 +79,7 @@ En torno a este tema advertimos que en su mayoría, la jurisprudencia ha coincid
 
 En tal sentido se ha pronunciado el Juzgador en autos “BANCO MACRO SA C/ ZURITA JUAN MANUEL S/ COBRO SUMARIO SUMAS DINERO” donde además se ha establecido que: “se debe permitir su articulación (de la caducidad) a terceros interesados cuando de lo contrario pudiera resultar un perjuicio cierto e irreparable” (Código Procesal Civil y Comercial de la Pcia. de Buenos Aires. Anotado y comentado. 2º Edición ampliada y actualizada. Ronald Arazi. TºI Arts. 1º al 384 Pág. 670 quinto párrafo). En virtud de ello, y volviendo al caso de autos el mediador, si bien no reviste el carácter de parte en las presentes actuaciones, si posee el mismo, un interés patrimonial en el proceso, relacionado con el cobro de sus honorarios, derecho éste que ha adquirido con la realización de la mediación previa y obligatoria de las presentes Actuaciones. Es por ello, que su derecho a percibir la retribución en cuestión por la labor realizada, no puede quedar librada a la voluntad de las partes.” (http://www.amaquilvbe.com.ar/tag/ley-de-mediacion/)
 
-Beneficio de litigar sin gastos
+## Beneficio de litigar sin gastos
 
 Concluimos que el beneficio no nos es oponible cuando no es  iniciado contemporánea o anteriormente al sorteo de la Mediación, o cuando no sea otorgado (provisoria o definitivamente).-
 
@@ -103,7 +93,7 @@ beneficio de litigar sin gastos al Mediador, se solicite la certificación por e
 
 En tal sentido se han expedido los fallos Pereyra Juan Manuel c/ Carranza Sebastian Dario s/ Ejecucion de honorarios, del JCC 8 de  Lomas de Zamora y Guerrero Rosario Deniz c/ Rufat Laura Andrea s/Ejecucion Honorarios, del  JCC 11 San Martin (http://www.amaquilvbe.com.ar/tag/juan-manuel-pereyra/, http://www.amaquilvbe.com.ar/fallo-san-martin-beneficio-de-litigar-sin-gastos-alcance%E2%80%8F/ )
 
-Titulo ejecutivo y suficiente
+## Titulo ejecutivo y suficiente
 
 De la conjunción de las normas, art. 31 de la ley 13951 -que indica que el Mediador podrá EJECUTAR el pago de los honorarios que le corresponda ante el Juzgado que intervenga en el litigio- y art. 28 del decreto 2530/10 que lo reglamenta e indica que el acta final de la Mediación será título suficiente a los fines del cobro de los honorarios del Mediador, surge claramente el doble carácter del acta de cierre como título ejecutivo y suficiente.
 
@@ -123,7 +113,7 @@ Hemos podido advertir que el hecho de que algunas actas no contengan indicación
 
 expresa de datos como fecha, monto y obligado al pago, ha hecho entender a algunos jueces que el acta no revestiría el carácter de título ejecutivo. Sin embargo, tal como lo han advertido los fallos que reseñamos, esos datos son determinables, supliendo la ley la eventual falta de mención expresa de dichos datos por parte del mediador.
 
-Plazo y oportunidad de Reclamo de Honorarios:
+## Plazo y oportunidad de Reclamo de Honorarios:
 
 Vencido el año de cerrado el proceso de Mediación sin que se hubiera interpuesto la demanda, el Mediador puede reclamar la totalidad de sus honorarios.
 
@@ -163,7 +153,7 @@ Asimismo se ha continuado con el seguimiento de los distintos expedientes inicia
 
 El Comité de Seguimiento ha colaborado con la comisión organizadora del IV Encuentro de Mediadores tanto en la organización como en el desarrollo del mismo. Así también se ha encargado de la elaboración y redacción de las presentes conclusiones.
 
-ELECCION DEL COMITÉ DE SEGUIMIENTO DEL IV ENCUENTRO DE MEDIADORES
+## ELECCION DEL COMITÉ DE SEGUIMIENTO DEL IV ENCUENTRO DE MEDIADORES
 
 Previo a la elección de los integrantes del nuevo Comité de Seguimiento, se resuelve modificar a partir del V Encuentro, el número de miembros a renovar en cada elección de la siguiente manera: los miembros del Comité de Seguimiento que se encuentra conformado por seis integrantes, será renovado por tercios en forma anual, al inicio del Plenario de cada Encuentro.
 
