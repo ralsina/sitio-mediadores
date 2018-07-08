@@ -14,7 +14,7 @@ En este marco numerosos fueron los aportes realizados en los siete Encuentros de
 * ## [**III Encuentro La Matanza**](/tercero/)**, **
 * ## [**IV Encuentro San Martín**](/cuarto/)**, **
 * ## [**V Encuentro Quilmes,**](/quinto/)
-* ## [**VI Encuentro Tandil **](/sexto/)\*\* \*\*
+* ## [**VI Encuentro Tandil **](/sexto/)
 * ## [**VII Encuentro CABA**](<y VII Encuentro CABA(/septimo/>)
 
 Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y represente, porque sabemos que la participación de todos será fundamental para el enriquecimiento de la práctica y la defensa de nuestros derechos, es que existe y te invitamos a sumarte a 
@@ -23,7 +23,7 @@ Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y
 
 /
 
-## ASPECTOS DESTACADOS DE LAS CONCLUSIONES DE LOS ENCUENTROS DE MEDIADORES 
+## ASPECTOS DESTACADOS DE LAS CONCLUSIONES DE LOS ENCUENTROS DE MEDIADORES
 
 # FALTA COMPLETAR 5TO 6TO Y 7MO ENCUENTRO
 
