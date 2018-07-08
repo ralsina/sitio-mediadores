@@ -10,13 +10,13 @@ previewimage: ''
 
 2do día: [Paneles de debate](https://www.facebook.com/media/set/?set=a.312458938940952&type=1&l=9ea418092a)
 
-/
+
 
 
 
 El IV Encuentro De Mediadores que se llevara a cabo los dias 7 y 8 de Noviembre en la Casa Universitaria de Gral. San Martin, ha sido declarado de interés Municipal por el Intendente de Gral. San Martin, Dr. Gabriel Katopodis, a traves del Decreto n 20526-2014.
 
-/
+
 
 
 
