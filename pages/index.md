@@ -3,7 +3,7 @@ title: Inicio
 ---
 ## [Conocénos](/quienes-somos/). 
 
-Enteraté más sobre nosotros.
+Enterate más sobre nosotros.
 
 ## [Colaborá](/colabora/). 
 
