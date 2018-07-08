@@ -41,10 +41,14 @@ input#tipue_search_input {
     padding: 3px;
 }
 
-h1 {
+.h1, h1 {
     font-size: 20pt;
 }
 
-h2 {
+.h2, h2 {
     font-size: 16pt;
+}
+
+.h3, h3 {
+    font-size: 14pt;
 }
