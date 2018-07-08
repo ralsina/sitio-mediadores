@@ -1,11 +1,9 @@
 ---
 title: Sexto Encuentro “CONSOLIDANDO LOGROS Y PROYECTANDO EL FUTURO”
 ---
-# CONCLUSIONES VI ENCUENTRO DE MEDIADORES DE LA PROVINCIA DE BUENOS AIRES. “CONSOLIDANDO LOGROS Y PROYECTANDO EL FUTURO”
+# CONCLUSIONES 
 
 ENCUENTRO DE MEDIADORES·JUEVES, 20 DE ABRIL DE 2017
-
-  
 
 En los días 7 y 8 de Abril de 2017 se desarrolló en la ciudad de Tandil el VI ENCUENTRO DE MEDIADORES DE LA PROVINCIA DE BUENOS AIRES.-
 
@@ -151,8 +149,6 @@ En dicha exposición se formulan las aclaraciones que son necesarias para entend
 
 Entendemos que el proyecto elaborado contempla lo que creemos, es una apreciación justa de la labor del Mediador, respetando su confidencialidad y su especialización.
 
-  
-
 EXPOSICION DE MOTIVOS   DEL PROYECTO DE MODIFICACION DE LOS ARTICULOS 27 Y 28 DEL DECRETO 2530/2010
 
 \*1 Se busca de este modo reacomodar las   actuales escalas que han quedado desproporcionadas con el aumento del valor   del Jus. Siguiendo el criterio de reforma de la ley 8904, valoramos el activo   reclamado y lo transformamos en Jus, al cual se le aplica un porcentaje. La   variación del mismo variara conforme a los montos, defendiendo la retribución   del Mediador y respetando un principio de equidad con las partes. Hoy en   escalas de montos reclamados menores a 100 Jus vemos que el porcentaje puede   superar el 35%, lo cual entendemos debe ser ajustado, pero no   indiscriminadamente. Así las escalas menores si bien se disminuyen, lo hacen   a una cifra razonable para las partes y para el mediador. No bajas   discriminatorias, pero si un ajuste a la realidad de la Mediación. 
@@ -177,13 +173,7 @@ Estamos obligados a realizar cursos de capacitación costosos para   mantener nu
 
 Y como profesionales debemos estar   actualizados en casi todas las materias Civiles y comerciales, ya que nos   desempeñamos con un abanico de alternativas dispar.
 
- 
-
 A modo de ejemplificar este punto se adjunta una tabla comparativa de   la propuesta; 
-
-
-
-
 
  Código Procesal Civil y Comercial de nuestra Provincia, debe tener monto, salvo excepción expresa determinada por el art. 330 del mismo.
 
@@ -225,11 +215,9 @@ DISIDENCIAS Y OBSERVACIONES:
 
 Se informan las disidencias y observaciones presentadas por colegas concurrentes al Encuentro, las cuales se transcriben a continuación:
 
-1) La Dra. Mabel G. Cordova, LZ 061, planteo su disidencia con referencia al párrafo que decía “En ningún caso, la RETRIBUCION fijado podrá ser inferior a dos (2) "Jus", cualquiera sea el trámite de mediación en que se haya actuado”, ella propuso aplicar el mínimo que propone el proyecto de modificación de la Ley 8904, que tiene hoy aprobación del Senado Provincial.
-
-2) La misma observación la planteo la Dra, Catalina Lofrano, quien también agrego otra con referencia sobre el proyecto; la misma esta refería al hecho cuando el proyecto habla de la intervención de 2 mediadores, agregando al mismo un párrafo que debería decir; “Cuando en una Mediación intervenga más de un Abogado Mediador… “ la Dra. Lofrano agregaría “de una misma jurisdicción”.
-
-3) La Dra. Silvina Caisson realizó la siguiente observación: “La retribución del mediador nunca podrá ser inferior a 5 ius, puesto que la retribución mínima de un abogado sin especialización es de 4 ius y 2) En los casos que el número de requirentes y requeridos y/o terceros supere los 10 intervinientes en la mediación, sin contar los abogados de parte, se adicionara 1 Jus por cada interviniente extra como parte a partir del décimo primero en concepto de gastos administrativos.”
+1. La Dra. Mabel G. Cordova, LZ 061, planteo su disidencia con referencia al párrafo que decía “En ningún caso, la RETRIBUCION fijado podrá ser inferior a dos (2) "Jus", cualquiera sea el trámite de mediación en que se haya actuado”, ella propuso aplicar el mínimo que propone el proyecto de modificación de la Ley 8904, que tiene hoy aprobación del Senado Provincial.
+2. La misma observación la planteo la Dra, Catalina Lofrano, quien también agrego otra con referencia sobre el proyecto; la misma esta refería al hecho cuando el proyecto habla de la intervención de 2 mediadores, agregando al mismo un párrafo que debería decir; “Cuando en una Mediación intervenga más de un Abogado Mediador… “ la Dra. Lofrano agregaría “de una misma jurisdicción”.
+3. La Dra. Silvina Caisson realizó la siguiente observación: “La retribución del mediador nunca podrá ser inferior a 5 ius, puesto que la retribución mínima de un abogado sin especialización es de 4 ius y 2) En los casos que el número de requirentes y requeridos y/o terceros supere los 10 intervinientes en la mediación, sin contar los abogados de parte, se adicionara 1 Jus por cada interviniente extra como parte a partir del décimo primero en concepto de gastos administrativos.”
 
 Las observaciones realizadas no cambian el fondo ni el espíritu del proyecto, pero en honor al trabajo desarrollado entendemos que es necesario dejarlas constar.
 
@@ -378,11 +366,8 @@ Una “mirada activa” de esta nueva capacitación que nos impone hoy la DP nos
 Por todo lo expuesto solicitamos a la Dirección Provincial de Métodos Alternativos de Resolución de Conflictos: 
 
 1. Que deje sin efecto la capacitación prevista en las normativas en análisis y  contemple la posibilidad de destinar parte de la carga horaria de nuestra capacitación anual, a temáticas relacionadas con la problemática familiar para quienes deseen trabajar en este ámbito; 
-
 2. Que arbitre los medios necesarios para peticionar a la Suprema Corte de Justicia que se expida y resuelva sobre la suspensión que ha dispuesto en el año 2015 para Mediación en cuestiones de temática familiar;
-
 3. Siendo que el art. 11 de la Resolución 462/12 refiere a la incompatibilidad entre el desempeño como Director o Director Provincial y el ejercicio como Mediador, solicitamos se aclare el inc.1 del art. 1 de la Disposición 276/17 en lo pertinente;
-
 4. En el entendimiento de que los Mediadores tenemos derechos adquiridos y que nuestra matrícula nos habilita para entender en todas las cuestiones que están previstas en la ley 13951 -que incluye las materias del fuero de familia-,  solicitamos a la Dirección Provincial de Mediación que arbitre los medios para se deje sin efecto lo relativo a los exámenes habilitantes y que la capacitación que se brinde sea acorde en cantidad de horas y contenidos a las herramientas que resulten de utilidad en la práctica diaria.-
 
 Aporte de la Dra. Viviana Peñoñori:
@@ -395,19 +380,13 @@ Como corolario resaltamos el hecho de que en la práctica diaria, quienes ejerce
 
 Leídas las conclusiones de las tres Comisiones de Trabajo, previo a la elección de los miembros que integrarán el Comité de Seguimiento y a petición de los mediadores, Dr. Enrique Laplane y Dra. Silvina Caisson, quienes manifiestan la necesidad de definir los objetivos de ENCUENTROS DE MEDIADORES y otorgar mayor operatividad a las acciones posteriores que se resuelvan en lo sucesivo en plenario de cada Encuentro; se resuelve por unanimidad de los mediadores reunidos en el Plenario lo siguiente:
 
-1) El propósito de estos Encuentros es congregar a Mediadores Prejudiciales de la Provincia de Bs. As. promoviendo el encuentro, la unidad, la cooperación y el bien común de los Mediadores.
-
-2) Es su propósito promover el desarrollo y difundir en todas las formas la mediación en los ámbitos judicial y prejudicial.
-
-3) Proponer normativas y peticiones ante las autoridades gubernamentales, administrativas, y/o legislativas para que consideren la opinión de la mayoría de los mediadores a fin de que se sancionen leyes, reglamentaciones y otro tipo de normas que aseguren nuestra libertad de trabajo en condiciones y retribuciones dignas. 
-
-4) Representar a los mediadores y acompañarlos en la defensa de sus derechos e intereses ante personas físicas o entidades públicas o privadas, en cada oportunidad que resulte pertinente. 
-
-5) Defender los intereses de los Mediadores dentro de un marco ético de competencia profesional.
-
-6) Difundir información para que los Mediadores y la comunidad conozca la voluntad pensamiento y posicionamiento de Encuentro de Mediadores en referencia a la actividad en este ámbito desarrollado.
-
-7) A esos fines se decide que el actual Comité de Seguimiento pasará a conformar un Comité de Gestión y Seguimiento. El mismo tendrá las facultades y atribuciones arriba descriptas y por elección unánime de los asistentes al Plenario quedara integrado por: 
+1. El propósito de estos Encuentros es congregar a Mediadores Prejudiciales de la Provincia de Bs. As. promoviendo el encuentro, la unidad, la cooperación y el bien común de los Mediadores.
+2. Es su propósito promover el desarrollo y difundir en todas las formas la mediación en los ámbitos judicial y prejudicial.
+3. Proponer normativas y peticiones ante las autoridades gubernamentales, administrativas, y/o legislativas para que consideren la opinión de la mayoría de los mediadores a fin de que se sancionen leyes, reglamentaciones y otro tipo de normas que aseguren nuestra libertad de trabajo en condiciones y retribuciones dignas. 
+4. Representar a los mediadores y acompañarlos en la defensa de sus derechos e intereses ante personas físicas o entidades públicas o privadas, en cada oportunidad que resulte pertinente. 
+5. Defender los intereses de los Mediadores dentro de un marco ético de competencia profesional.
+6. Difundir información para que los Mediadores y la comunidad conozca la voluntad pensamiento y posicionamiento de Encuentro de Mediadores en referencia a la actividad en este ámbito desarrollado.
+7. A esos fines se decide que el actual Comité de Seguimiento pasará a conformar un Comité de Gestión y Seguimiento. El mismo tendrá las facultades y atribuciones arriba descriptas y por elección unánime de los asistentes al Plenario quedara integrado por: 
 
 Silvina Caisson – San Martin, Giselle Suarez – Avellaneda/Lanus, Enrique Laplane – La Matanza, Georgina Saliani – Tandil, Norma Viviana Peñoñori – Dolores, Rosario Guerrero – San Martin.-
 
@@ -421,25 +400,21 @@ Visto también la necesidad de dar difusión a las acciones que lleve a cabo el 
 
 Seguidamente y atento a las conclusiones arribadas por las Comisiones de Menores y Mediación Familiar y Honorarios y las informaciones de dominio público con relación a:
 
-1) Las Resoluciones 275/17 y 276/17, con relación a la capacitación para acceder al Registro de mediadores familiares y;
-
-2) Al Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10 por la Comisión de mediación dependiente de COLPROBA.
+1. Las Resoluciones 275/17 y 276/17, con relación a la capacitación para acceder al Registro de mediadores familiares y;
+2. Al Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10 por la Comisión de mediación dependiente de COLPROBA.
 
 Los mediadores reunidos en el plenario por unanimidad manifiestan su repudio, rechazo y oposición, encomendando al Comité de Gestión y Seguimiento la confección de las siguientes Notas:
 
-1) Nota al Sr. Presidente de COLPROBA, manifestando el repudio y rechazo al Proyecto de Reforma de los honorarios establecidos por el Decreto 2530/10, por considerar se afecta el derecho alimentario de los profesionales abogados – mediadores y;
-
-2) Nota al Sr. Ministro de Justicia de la Provincia de Buenos Aires manifestando el repudio, rechazo y oposición al Proyecto de modificación de los honorarios profesionales elevado por la Comisión de mediación de COLPROBA, como así también el rechazo a las Disposiciones 275/17 y 276/17, dictadas por la Directora Provincial de Métodos Alternativos de Resolución de Conflictos, en cuanto imponen una capacitación de 60 hs. de capacitación obligatoria y un examen habilitante a los mediadores para poder mediar en materia familiar.
+1. Nota al Sr. Presidente de COLPROBA, manifestando el repudio y rechazo al Proyecto de Reforma de los honorarios establecidos por el Decreto 2530/10, por considerar se afecta el derecho alimentario de los profesionales abogados – mediadores y;
+2. Nota al Sr. Ministro de Justicia de la Provincia de Buenos Aires manifestando el repudio, rechazo y oposición al Proyecto de modificación de los honorarios profesionales elevado por la Comisión de mediación de COLPROBA, como así también el rechazo a las Disposiciones 275/17 y 276/17, dictadas por la Directora Provincial de Métodos Alternativos de Resolución de Conflictos, en cuanto imponen una capacitación de 60 hs. de capacitación obligatoria y un examen habilitante a los mediadores para poder mediar en materia familiar.
 
 Se resuelve que dichas notas deberán ser suscriptas individualmente por cada mediador matriculado que así lo deseen, encomendándose al Comité de Gestión y Seguimiento su presentación y seguimiento del trámite administrativo por ante el Ministerio de Justicia Provincial y el COLPROBA.
 
 Finalmente se invita a los mediadores presentes a suscribir la siguiente documentación:
 
-1) Copia del Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10 elaborado por la Comisión de Honorarios del Encuentro.
-
-2) Nota de repudio al Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10, elaborado por la Comisión de mediación de COLPROBA.
-
-3) Acta de delimitación de los objetivos y fines de Encuentros de Mediadores de la Provincia de Buenos Aires, creación del Comité de Gestión y Seguimiento y de elección de sus integrantes y de las Comisiones de Trabajo Permanentes.
+1. Copia del Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10 elaborado por la Comisión de Honorarios del Encuentro.
+2. Nota de repudio al Proyecto de modificación de los arts. 27 y 28 del Decreto 2530/10, elaborado por la Comisión de mediación de COLPROBA.
+3. Acta de delimitación de los objetivos y fines de Encuentros de Mediadores de la Provincia de Buenos Aires, creación del Comité de Gestión y Seguimiento y de elección de sus integrantes y de las Comisiones de Trabajo Permanentes.
 
 Previo al cierre del Plenario dirige unas palabras de despedida, el abogado mediador Dr. Juan Pablo Frolik, quien lo hace a su vez en su calidad de Presidente del Honorable Concejo de la ciudad de Tandil, quien agradece a los mediadores concurrentes al VI ENCUENTRO, elogiando la labor desarrollada por estos. 
 
