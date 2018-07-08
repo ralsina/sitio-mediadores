@@ -5,12 +5,7 @@ title: Segundo Encuentro
 {{% slides "segundo encuentro" %}}
 </div>
 
-[TOC]
-
-## Resumen
-
-texto texto
-
+\[TOC]
 
 ## Conclusiones
 
