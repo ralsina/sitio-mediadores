@@ -1114,8 +1114,14 @@ INDEX_TEASERS = True
 #
 
 SEARCH_FORM = """
-<input type="text" id="tipue_search_input" class="form-control searchform" placeholder="Buscar">
+<form class="navbar-form navbar-left" action="/resultados/" role="search">
+    <input type="text" class="form-control" id="tipue_search_input" name="q" placeholder="Buscar" autocomplete="off">
+</form>
 """
+
+# SEARCH_FORM = """
+# <input type="text" id="tipue_search_input" class="form-control searchform" placeholder="Buscar">
+# """
 
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
