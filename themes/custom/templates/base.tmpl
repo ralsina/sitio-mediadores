@@ -30,7 +30,6 @@ ${template_hooks['extra_head']()}
                 ${template_hooks['menu']()}
             </ul>
             <ul class="navbar-nav navbar-right">
-                ${search_form}
                 ${base.html_navigation_links_entries(navigation_alt_links)}
                 <%block name="belowtitle">
                 %if len(translations) > 1:
@@ -58,6 +57,16 @@ ${template_hooks['extra_head']()}
             </footer>
         </div>
         <div class="col">
+            <div>
+                <form class="navbar-form navbar-left" action="/resultados/" role="search">
+                <div class="input-group mb-8">
+                    <input type="text" class="form-control" id="tipue_search_input" name="q" placeholder="Buscar" autocomplete="off">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="submit"><i class="fas fa-search"></i></button>
+                    </div>
+                </div>
+                </form>
+            </div>
             <div class="delcostado">
             <a href="/colabora">Colaborá con jurisprudencia</a>
             </div>

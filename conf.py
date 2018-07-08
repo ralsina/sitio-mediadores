@@ -1114,9 +1114,6 @@ INDEX_TEASERS = True
 #
 
 SEARCH_FORM = """
-<form class="navbar-form navbar-left" action="/resultados/" role="search">
-    <input type="text" class="form-control" id="tipue_search_input" name="q" placeholder="Buscar" autocomplete="off">
-</form>
 """
 
 # SEARCH_FORM = """
@@ -1125,6 +1122,7 @@ SEARCH_FORM = """
 
 EXTRA_HEAD_DATA = """
 <link rel="stylesheet" type="text/css" href="/assets/css/tipuesearch.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 """
 
 BODY_END = """
