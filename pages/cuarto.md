@@ -5,7 +5,7 @@ title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
 {{% slides "cuarto-encuentro" %}}
 </div>
 
-[TOC]
+\[TOC]
 
 ## Ver fotos del Encuentro:
 
@@ -143,9 +143,9 @@ Plazo de la prescripción en materia de reclamo de pago de honorarios del mediad
 
 Plazo y oportunidad para el pago de los honorarios del mediador.
 
-COMITE DE SEGUIMIENTO - ELECCION
+**COMITE DE SEGUIMIENTO - ELECCION**
 
-INFORME DE LAS ACCIONES LLEVADAS A CABO POR EL COMITÉ DE SEGUIMIENTO DEL III ENCUENTRO DE MEDIADORES:
+**INFORME DE LAS ACCIONES LLEVADAS A CABO POR EL COMITÉ DE SEGUIMIENTO DEL III ENCUENTRO DE MEDIADORES:**
 
 El comité de seguimiento ha presentado las conclusiones del III Encuentro de Mediadores por ante los siguientes organismos: Ministerio de Justicia de la Provincia de Buenos Aires, Suprema Corte de Justicia de la Provincia de Buenos Aires,  Colegio de Abogados de la Provincia de Buenos Aires (COLPROBA),  ambas Cámaras Legislativas Provinciales, Colegios de Abogados  departamentales y Colegios de Magistrados y Funcionarios Judiciales de la Provincia de Buenos Aires.
 
