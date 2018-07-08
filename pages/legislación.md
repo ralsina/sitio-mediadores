@@ -15,7 +15,6 @@ title: Legislación
 
 [**Ley 13951. Mediacion previa obligatoria**](/legislacion/legislacion/l-13951.html)
 
-## 
 
 ### DECRETOS
 
@@ -95,7 +94,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 15/12: Denunciar domicilio del requirente y requerido
 
-## Resoluciones
+### Resoluciones
 
 90/14: Convocatoria examen habilitante
 
