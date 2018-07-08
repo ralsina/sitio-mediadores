@@ -1138,7 +1138,8 @@ $(document).ready(function() {
 
         $('#tipue_search_input').tipuesearch({
             'mode': 'json',
-            'contentLocation': '/assets/js/tipuesearch_content.json'
+            'contentLocation': '/assets/js/tipuesearch_content.json',
+            'wholeWords': false
         });
     });
 });
