@@ -1,5 +1,5 @@
 ---
-title: 'Nuevo fallo en la Seccion Jurisprudencia. '
+title: 'Nuevo fallo en la Sección Jurisprudencia. '
 date: '2018-06-27T10:36:22-03:00'
 ---
 Aplica los 9 ius, por falta de presentación de demanda, revoca los 4 ius fijados en primera instancia, basados en la aplicación de la ley 8904.  Lomas de Zamora, Junio de 2018
