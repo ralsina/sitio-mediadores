@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -17,11 +17,11 @@ title: Legislación
 
 ## 
 
-# DECRETOS
+## DECRETOS
 
 [**Decreto 2530/10 Decreto Reglamentario**](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
 
-# DISPOSICIONES MINISTERIALES
+## DISPOSICIONES MINISTERIALES
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
