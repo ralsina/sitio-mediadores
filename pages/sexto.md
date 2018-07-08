@@ -419,3 +419,7 @@ Finalmente se invita a los mediadores presentes a suscribir la siguiente documen
 Previo al cierre del Plenario dirige unas palabras de despedida, el abogado mediador Dr. Juan Pablo Frolik, quien lo hace a su vez en su calidad de Presidente del Honorable Concejo de la ciudad de Tandil, quien agradece a los mediadores concurrentes al VI ENCUENTRO, elogiando la labor desarrollada por estos. 
 
 Seguidamente se da por finalizado el Plenario y el VI Encuentro de Mediadores de la Provincia de Buenos Aires. En la ciudad de Tandil, a los 8  días del mes de abril de 2017.
+
+
+
+**Para  ver las tablas que se mencionan en las conclusiones, puede ver la publicacion completa**, [**aqui**](https://www.facebook.com/notes/encuentro-de-mediadores/conclusiones-vi-encuentro-de-mediadores-de-la-provincia-de-buenos-aires-consolid/663675817152594/)
