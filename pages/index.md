@@ -3,17 +3,7 @@ title: Inicio
 ---
 ![Encuentro](/images/uploads/manos.jpg)
 
-## [Conocénos](/quienes-somos/).
-
-Enterate más sobre nosotros.
-
-## [Colaborá](/colabora/).
-
-Compartí con nosotros tus fallos, doctrina, modelos de escritos, etc. 
-
-## [Consultá](/jurisprudencia/)
-
-Nuestra base de material de consulta, co-construida entre todos. 
+## [**Conocénos**](/quienes-somos/)**.          **[**Col**](/colabora/)[**aborá**](/colabora/)**.          **[**Consultá**](/jurisprudencia/)
 
 # Últimas Noticias:
 
