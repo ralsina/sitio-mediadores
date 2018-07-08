@@ -422,4 +422,4 @@ Seguidamente se da por finalizado el Plenario y el VI Encuentro de Mediadores de
 
 
 
-**Para  ver las tablas que se mencionan en las conclusiones, puede ver la publicacion completa**, [**aqui**](https://www.facebook.com/notes/encuentro-de-mediadores/conclusiones-vi-encuentro-de-mediadores-de-la-provincia-de-buenos-aires-consolid/663675817152594/)
+**publicación**, [**aqui**](https://www.facebook.com/notes/encuentro-de-mediadores/conclusiones-vi-encuentro-de-mediadores-de-la-provincia-de-buenos-aires-consolid/663675817152594/)
