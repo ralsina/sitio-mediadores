@@ -728,7 +728,7 @@ GALLERY_FOLDERS = {"albums": "albums"}
 # (the thumbnail has ``.thumbnail`` added before the file extension).
 # The format is a dictionary of {source: relative destination}.
 
-IMAGE_FOLDERS = {"images": "images"}
+IMAGE_FOLDERS = {"images": "images", "legislacion": "legislacion"}
 # IMAGE_THUMBNAIL_SIZE = 400
 
 # #############################################################################
