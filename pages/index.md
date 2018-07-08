@@ -13,6 +13,6 @@ Compartí con nosotros tus fallos, doctrina, modelos de escritos, etc.
 
 Nuestra base de material de consulta, co-construida entre todos. 
 
-# Ultimas Noticias: 
+# Últimas Noticias: 
 
 {{% post_list %}}
