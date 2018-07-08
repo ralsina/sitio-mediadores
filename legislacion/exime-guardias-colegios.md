@@ -1,5 +1,5 @@
 ---
-title: Exime guardias colegios
+title: 245/13 Exime guardias colegios
 ---
 La Plata, 18 de junio de 2013.-
 
