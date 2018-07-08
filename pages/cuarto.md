@@ -153,7 +153,7 @@ Asimismo se ha continuado con el seguimiento de los distintos expedientes inicia
 
 El Comité de Seguimiento ha colaborado con la comisión organizadora del IV Encuentro de Mediadores tanto en la organización como en el desarrollo del mismo. Así también se ha encargado de la elaboración y redacción de las presentes conclusiones.
 
-## ELECCION DEL COMITÉ DE SEGUIMIENTO DEL IV ENCUENTRO DE MEDIADORES
+## ELECCION DEL COMITÉ DE SEGUIMIENTO 
 
 Previo a la elección de los integrantes del nuevo Comité de Seguimiento, se resuelve modificar a partir del V Encuentro, el número de miembros a renovar en cada elección de la siguiente manera: los miembros del Comité de Seguimiento que se encuentra conformado por seis integrantes, será renovado por tercios en forma anual, al inicio del Plenario de cada Encuentro.
 
