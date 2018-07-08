@@ -17,11 +17,11 @@ title: Legislación
 
 ## 
 
-## DECRETOS
+### DECRETOS
 
 [**Decreto 2530/10 Decreto Reglamentario**](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
 
-## DISPOSICIONES MINISTERIALES
+### DISPOSICIONES MINISTERIALES
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
@@ -29,14 +29,13 @@ Disposicion 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-
 
 Exime guardias colegio
 
-## RESOLUCIONES
+### RESOLUCIONES
 
 RESOL-2018-299-GDEBA-MJGP
 [ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
 
-## ACORDADAS SCBA
+### ACORDADAS SCBA
 
-## Acuerdos
 
 3668/13: SCJBA, La Plata 6 de Noviembre de 2013
 
@@ -44,7 +43,7 @@ RESOL-2018-299-GDEBA-MJGP
 
  385/12:  Normas complementarias al Anexo reglamentario del Acuerdo 3585/12
 
-## Disposiciones
+### Disposiciones
 
 650/15: Constitución de domicilio y número de matrícula para los nuevos mediadores
 
@@ -120,7 +119,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 //
 
-## OTRAS:
+# OTRAS:
 
 ## Rio Negro
 
