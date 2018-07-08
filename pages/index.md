@@ -1,6 +1,6 @@
 ---
 title: Inicio
 ---
-Conocénos. Colabora. Consulta
+## Conocénos. Colaborá. Consultá
 
 {{% post_list %}}
