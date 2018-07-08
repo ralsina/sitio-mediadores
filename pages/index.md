@@ -3,7 +3,7 @@ title: Inicio
 ---
 ![Encuentro](/images/uploads/manos.jpg)
 
-## [**Conocénos**](/quienes-somos/)**.          **[**Col**](/colabora/)[**aborá**](/colabora/)**.          **[**Consultá**](/jurisprudencia/)
+## [**Conocénos**](/quienes-somos/)**..................        **[**Colaborá**](/colabora/)**..................          **[**Consultá**](/jurisprudencia/)
 
 # Últimas Noticias:
 
