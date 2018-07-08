@@ -1126,25 +1126,6 @@ EXTRA_HEAD_DATA = """
 """
 
 BODY_END = """
-<!-- Modal -->
-<div id="search-results" class="modal fade" role="dialog" style="height: 80%;">
-    <div class="modal-dialog">
-
-    <!-- Modal content-->
-    <div class="modal-content">
-        <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal">&times;</button>
-        <h4 class="modal-title">Resultados:</h4>
-        </div>
-        <div class="modal-body" id="tipue_search_content" style="max-height: 600px; overflow-y: auto;">
-        </div>
-        <div class="modal-footer">
-        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
-        </div>
-    </div>
-
-    </div>
-</div>
 <script>
 $(document).ready(function() {
     $.when(
@@ -1158,11 +1139,6 @@ $(document).ready(function() {
         $('#tipue_search_input').tipuesearch({
             'mode': 'json',
             'contentLocation': '/assets/js/tipuesearch_content.json'
-        });
-        $('#tipue_search_input').keyup(function (e) {
-            if (e.keyCode == 13) {
-                $('#search-results').modal()
-            }
         });
     });
 });
