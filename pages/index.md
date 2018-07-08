@@ -1,7 +1,6 @@
 ---
 title: Inicio
 ---
-Contenido. Aca se puede poner cualquier cosa.
-
+Conocénos. Colabora. Consulta
 
 {{% post_list %}}
