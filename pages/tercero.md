@@ -1,14 +1,13 @@
 ---
 title: Tercer Encuentro
 ---
-
 <div style="float:right; width: 50%;">
 {{% slides "tercer-encuentro" %}}
 </div>
 
-[TOC]
+\[TOC]
 
-## Conclusiones
+# Conclusiones
 
 ENCUENTRO DE MEDIADORES·VIERNES, 23 DE DICIEMBRE DE 2016
 
@@ -28,19 +27,16 @@ En ese marco, nos reunimos en la sede de la Universidad Nacional de La Matanza (
 
 A propuesta de los presentes se consensuó una modalidad de trabajo diferente a la del trabajo en comisiones de los anteriores encuentros. Las jornadas se desarrollaron en plenario, previa definición de los temas a tratarse, los cuales también se pautaron por consenso. Ellos fueron:
 
-1) Naturaleza Jurídica de la Mediación, del Mediador y del Mediador Prejudicial.
-
-2) La Actividad de Mediar en la MPO como una de las actividades típicas del ejercicio profesional de la Abogacía.
-
-3) Cuestiones Procesales de la Mediación: Sorteos – Análisis del artículo 4 de la ley 13951 y propuestas para su modificación – Fondo de Financiamiento/Beneficio de Litigar sin Gastos
-
-4) PROPUESTAS PARA EL IV ENCUENTRO DE MEDIADORES: Nueva Modalidad – Comité de Seguimiento –
+1. Naturaleza Jurídica de la Mediación, del Mediador y del Mediador Prejudicial.
+2. La Actividad de Mediar en la MPO como una de las actividades típicas del ejercicio profesional de la Abogacía.
+3. Cuestiones Procesales de la Mediación: Sorteos – Análisis del artículo 4 de la ley 13951 y propuestas para su modificación – Fondo de Financiamiento/Beneficio de Litigar sin Gastos
+4. PROPUESTAS PARA EL IV ENCUENTRO DE MEDIADORES: Nueva Modalidad – Comité de Seguimiento –
 
 Mención especial al Comité de Seguimiento del Segundo Encuentro, por su colaboración desinteresada, desde ya gracias por su esfuerzo.
 
 CONCLUSIONES:
 
-**1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
+## **1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
 **
 
 Conclusión: “La actividad que despliega el Mediador Prejudicial en la Mediación Previa Obligatoria es un SERVICIO PÚBLICO DE GESTIÓN PRIVADA y sus actos son atacables por vía de la redargución de falsedad.”
@@ -108,7 +104,7 @@ En síntesis, los Mediadores Prejudiciales, no ponemos nuestro saber al servicio
 
 Este análisis brevemente resumido es lo que derivó en la conclusión referida respecto de que nuestra actuación es la de un servicio público de gestión privada, cuyas actas, notificaciones, e intervenciones, hacen plena fe y son equiparables a los instrumentos públicos, siendo atacables únicamente por vía de redargución de falsedad.-
 
-**2) LA ACTIVIDAD DE MEDIAR EN LA MPO COMO INCUMBENCIA DEL EJERCICIO PROFESIONAL DE LA ABOGACÍA.-**
+## **2) LA ACTIVIDAD DE MEDIAR EN LA MPO COMO INCUMBENCIA DEL EJERCICIO PROFESIONAL DE LA ABOGACÍA.-**
 
 Conclusión: “La actividad del abogado que interviene como mediador en la MPO, es decir del Mediador Prejudicial, como incumbencia especifica de la abogacía, debería ser incluida en forma expresa en la ley 5177, imponiéndose consecuentemente la adecuación del Decreto Ley 8904 y de la Ley 6716”
 
@@ -126,11 +122,11 @@ Para ello solicitaremos ante quien corresponda el apoyo para que obtenga estado 
 
 Será necesario, también, adecuar el LIBRO QUINTO respecto de las infracciones cometidas por los Abogados Mediadores, el cual podría ser cumplido con un anexo al mismo. En cuanto al Decreto Ley 8904 y Ley 6716 también deberán adecuarse, incorporando la primera los honorarios del mediador, y la segunda sus aportes previsionales.-
 
-**3.- CUESTIONES PROCESALES DE LA MEDIACIÓN
-**
+## 3.- CUESTIONES PROCESALES DE LA MEDIACIÓN
 
-**SORTEOS
-**
+
+### SORTEOS
+
 
 Conclusión: “Insistimos en la necesidad de implementación de alerta temprana del sorteo por mail al mediador, la transparencia de los sorteos e instamos a la implementación de un mecanismo de reincorporación a la lista de sorteo, en los casos en que el mediador no reciba la designación dentro del plazo de 60 días.”
 
@@ -152,8 +148,8 @@ En este mismo sentido, los integrantes del comité de seguimiento designado en o
 
 Como consecuencia de lo expresado, los Mediadores asistentes al Encuentro solicitamos la derogación de la Disposición Ministerial Nº 261/12; insistimos en la necesidad de que los sorteos sean informados al mediador vía mail y publicados en forma inmediata en el Mediare; requerimos que se arbitren por intermedio de quien corresponda, los medios que sean necesarios para que -vencido el plazo de 60 días de sorteados sin haber recibido la designación-, podamos solicitar por ante la RGE se nos vuelva a incluir en la lista de sorteo, siendo automáticamente agregados al listado oficial en la categoría y subcategoría que corresponda, y con prioridad en el sorteo.-
 
-**FONDO DE FINANCIAMIENTO – BENEFICIO DE LITIGAR SIN GASTOS
-**
+### FONDO DE FINANCIAMIENTO – BENEFICIO DE LITIGAR SIN GASTOS
+
 
 Conclusión: “Instamos a que se dé cumplimiento al cobro de las multas por incomparecencia, y que se arbitren los mecanismos para que los expedientes administrativos para el cobro de los BLSG puedan ser iniciados por cada Mediador ante su Colegio Departamental”
 
@@ -161,8 +157,8 @@ Siendo que el Fondo de Financiamiento se encuentra creado por el art. 32 de la L
 
 Asimismo, habiendo informado públicamente el DPMARC, que a los fines del cobro de sus honorarios profesionales por su intervención en aquellas causas por las que se solicitara el beneficio de litigar sin gastos, los Mediadores de toda la Provincia de Buenos Aires deberían iniciar el correspondiente expediente administrativo por ante la sede del Ministerio de Justicia de la Provincia cita en la ciudad de La Plata, tornando absolutamente ilusorio dicho cobro ante las distancias que cada profesional debería sortear con la erogación de tiempo y dinero que ello implicaría, solicitamos a la Autoridad de Aplicación realice un convenio con las autoridades del COLPROBA para arbitrar los medios para que los expedientes administrativos referidos puedan ser iniciados por cada Profesional Mediador por ante el Colegio Profesional en el que se encuentra matriculado.-
 
-**MATERIAS MEDIABLES
-**
+### MATERIAS MEDIABLES
+
 
 Conclusión: “Propugnamos: la incorporación de materias excluidas de la MPO; insistimos en el trámite de la MPO no contempladas, entre otras, los temas de familia, las acciones civiles resarcitorias que tramitan en el fuero penal, los temas en los que intervengan menores en los que no sea obligatoria la intervención del Ministerio Público, y las que tramitan ante los Juzgados de Paz. Asimismo, propugnamos que algunas de las materias que hoy están excluidas pasen a ser optativas para las partes y la incorporación de la figura de la derivación judicial”.
 
@@ -173,27 +169,16 @@ Incluso el proyecto de modificación del art. 4 de la Ley 13951 redactado por la
 ARTICULO 4º: Quedan exceptuados de la Mediación:
 
 1. Causas Penales, las que regirán de acuerdo a la Ley 13.433, excepto las acciones civiles resarcitorias tramitadas en fuero penal, en cuyo supuesto el organismo interviniente derivará a mediación la cuestión patrimonial;
-
 2. Acciones de separación personal y divorcio, nulidad de matrimonio, filiación y patria potestad, guardas y adopciones, con excepción de las cuestiones patrimoniales derivadas de estas. El juez deberá dividir los procesos, derivando a mediación la parte patrimonial;
-
 3. Procesos de declaración de incapacidad y de rehabilitación;
-
 4. Causas en las que el Estado Nacional, Provincial, Municipal o los Entes Descentralizados sean parte, con excepción de bancos y entes financieros estatales en su relación con sus clientes como particulares;
-
 5. Amparo, Habeas Corpus e interdictos no contemplados en el art. 5;
-
 6. Medidas cautelares hasta que se encuentren firmes;
-
 7. Diligencias preliminares y prueba anticipada;
-
 8. Juicios sucesorios hasta la declaratoria de herederos y voluntarios.
-
 9. Concursos preventivos y quiebras.
-
 10. DEROGADO.
-
 11. Causas que tramiten ante los Tribunales Laborales.
-
 12. Causas que tramiten ante los Juzgados de Paz Letrados, salvo las incluidas en su competencia de naturaleza Civil y Comercial y en tanto no se hallen excluidas por los incisos anteriores.
 
 También proponemos la modificación del actual art. 5 de la Ley 13951, el que quedaría redactado de la siguiente manera:
@@ -206,7 +191,7 @@ Instamos desde este espacio, la incorporación de la figura de la Derivación Ju
 
 El comité de seguimiento informó que con fecha 3 de julio se inició -tal como se resolviera en el II Encuentro-, un expediente administrativo por ante la SCJBA solicitando la inclusión de aquellas materias que la ley no excluye del trámite de la Mediación, pero que no fueron incluídas dentro de las que exigen el sorteo de un Mediador. Dicho expediente se encuentra a resolución por los Ministros de la Corte. Por decisión unánime de los participantes del Encuentro y para el caso de que no haya sido resuelto para el mes de Febrero de 2014, se interpondrá un amparo por mora o recurso pertinente.-
 
-**4) IV ENCUENTRO DE MEDIADORES: Nueva Modalidad – Comité de Seguimiento** -
+### 4) IV ENCUENTRO DE MEDIADORES: Nueva Modalidad – Comité de Seguimiento-
 
 El IV Encuentro de Mediadores se llevará a cabo los días 5 y 6 de Septiembre del año 2014, en el Conurbano Norte (San Martín/San Isidro), creándose una comisión organizadora que trabajará en conjunto con el comité de seguimiento,
 
