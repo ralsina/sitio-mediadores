@@ -23,3 +23,5 @@ Exime guardias colegio
 
 RESOL-2018-299-GDEBA-MJGP
 [ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
+
+## ACORDADAS SCBA
