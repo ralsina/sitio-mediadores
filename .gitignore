@@ -2,6 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.doit.db
+.vscode/
+.venv
+cache/
+output/
 
 # C extensions
 *.so
