@@ -1,7 +1,7 @@
 ---
 title: Inicio
 ---
-## [**Conocénos**](/quienes-somos/)**.                    **[**Colaborá**](/colabora/)**.       **[**Consultá**](/jurisprudencia/)**. **[**Contactános. **](/contacto/)
+## [**Conocénos**](/quienes-somos/)**.                    **[**Colaborá**](/colabora/)**.       **[**Consultá**](/jurisprudencia/)**. **[**Contactanos. **](/contacto/)
 
 ![null](/images/uploads/manos.jpg)
 
