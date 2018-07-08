@@ -1,7 +1,7 @@
 ---
 title: Sexto Encuentro “CONSOLIDANDO LOGROS Y PROYECTANDO EL FUTURO”
 ---
-# CONCLUSIONES 
+# CONCLUSIONES
 
 ENCUENTRO DE MEDIADORES·JUEVES, 20 DE ABRIL DE 2017
 
@@ -23,9 +23,9 @@ El día 8 de Abril se desarrolló el Plenario con la concurrencia de todos los m
 
 Se transcribe a continuación las conclusiones de cada una de las Comisiones de Trabajo:
 
-COMISION I:
+# COMISION I: HONORARIOS: 
 
-HONORARIOS: Jurisprudencia – Análisis de los Proyectos de Reforma del art. 27 del Decreto 2530/10 – Elaboración de Propuestas
+## Jurisprudencia – Análisis de los Proyectos de Reforma del art. 27 del Decreto 2530/10 – Elaboración de Propuestas
 
 En la Comisión de Honorarios se trabajó en la elaboración y discusión de un Proyecto de Reforma del Decreto 2530/10, con relación a la retribución profesional de los mediadores.-
 
@@ -221,9 +221,9 @@ Se informan las disidencias y observaciones presentadas por colegas concurrentes
 
 Las observaciones realizadas no cambian el fondo ni el espíritu del proyecto, pero en honor al trabajo desarrollado entendemos que es necesario dejarlas constar.
 
-COMISION II:
+# COMISION II: PRESCRIPCION Y CADUCIDAD: 
 
-PRESCRIPCION Y CADUCIDAD: Análisis comparativo de la Ley 13.951 y el Código Civil y Comercial.-
+## Análisis comparativo de la Ley 13.951 y el Código Civil y Comercial.-
 
 La labor de la Comisión de Prescripción y Caducidad desarrollada en el VI Encuentro de Mediadores de la Provincia de Buenos Aires se focalizó en el análisis de la contradicción respecto del modo de suspender la prescripción existente entre la ley 13951 y su decreto reglamentario y las normas vigentes, a partir de la sanción del Código Civil y Comercial de la Nación, y proponer su divulgación.
 
@@ -257,9 +257,9 @@ Propuesta:
 
 Se sugiere la difusión de las modificaciones introducidas en el instituto de la prescripción respecto del inicio de la suspensión de la misma por pedido de mediación. 
 
-COMISION III:
+# COMISION III: MENORES EN MEDIACION – MEDIACION EN MATERIA DE FAMILIA: 
 
-MENORES EN MEDIACION – MEDIACION EN MATERIA DE FAMILIA: Análisis del art. 4 inc. 10 de la Ley 13.951 – Derechos del niño – Funciones del Asesor de Menores. Análisis de las Resoluciones 275/17 y 276/17.-
+## Análisis del art. 4 inc. 10 de la Ley 13.951 – Derechos del niño – Funciones del Asesor de Menores. Análisis de las Resoluciones 275/17 y 276/17.-
 
 Coordinación: Blanca Priotti (Bahía Blanca) – Giselle Suarez (Avellaneda/Lanús) – Sandra Conti (Quilmes)
 
