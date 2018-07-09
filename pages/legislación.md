@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -11,12 +11,11 @@ title: Legislación
 
 # PROVINCIAL
 
-## Buenos Aires
+## **Buenos Aires**
 
 ### LEYES
 
 [**Ley 13951. Mediacion previa obligatoria**](/legislacion/legislacion/l-13951.html)
-
 
 ### DECRETOS
 
@@ -36,7 +35,6 @@ RESOL-2018-299-GDEBA-MJGP
 [ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
 
 ### ACORDADAS SCBA
-
 
 3668/13: SCJBA, La Plata 6 de Noviembre de 2013
 
@@ -122,6 +120,6 @@ RESOL-2018-299-GDEBA-MJGP
 
 # OTRAS:
 
-## Rio Negro
+## **Rio Negro**
 
 Ley P Nº3847 Ley de mediación prejudicial
