@@ -3,9 +3,10 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
+
 ## CABA
 
 ### Normativa
@@ -52,7 +53,7 @@ Disposición 130/14 Modificacion del sistema Mediare
 
 Disposición 129/14 Multas por incomparecencia
 
-Disposición 117/14:  Ampliación plazos pago matrícula
+Disposición 117/14:  [Ampliación plazos pago matrícula](/legislacion/11714/index.html)
 
 Disposición 118/14:  Ampliación plazo para acreditar curso de capacitación continua
 
