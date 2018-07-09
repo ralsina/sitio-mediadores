@@ -29,7 +29,7 @@ Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y
 
 ## FALTA COMPLETAR 5TO 6TO Y 7MO ENCUENTRO
 
-## **I  ENCUENTRO - SANTA TERESITA - SEPTIEMBRE 2012**
+## **I  ENCUENTRO - Santa Teresita- Septiembre 2012**
 
 \* SORTEOS:  Se instó a la alerta temprana al Mediador mediante correo electrónico y a su PUBLICIDAD de los mismos en las Receptorías General de Expedientes.-
 
@@ -53,7 +53,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* COBRO DE GASTOS: implementación del cobro de 1 jus arancelario en concepto de gastos administrativos.-
 
-## **II ENCUENTRO DE MEDIADORES - TANDIL - ABRIL 2013**
+## **II ENCUENTRO - Tandil - Abril 2013**
 
 \* SORTEOS:  reclamo al Ministerio para se efectivice la notificación de los sorteos y revisión del sistema de sorteos de las RGE.-
 
@@ -69,7 +69,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* REUNIONES CON LOS JUECES:  promover reuniones periódicas con los jueces de las distintas departamentales con la finalidad de aunar criterios.-
 
-## **III  ENCUENTRO  - LA MATANZA - NOVIEMBRE 2013**
+## **III  ENCUENTRO  - La Matanza - Noviembre 2013**
 
 \* SORTEOS: Se insiste con la alerta temprana a través de la notificación al Mediador mediante correo electrónico.-
 
@@ -85,7 +85,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* BENEFICIO:  insistencia en el cobro de las multas por incomparecencia y habilitar el trámite del cobro de honorarios en los casos de los beneficios de litigar sin gastos en cada colegio departamental.-
 
-## **IV ENCUENTRO DE MEDIADORES - CONURBANO NORTE - NOVIEMBRE 2014**
+## **IV ENCUENTRO - Conurbano Norte - Noviembre 2014**
 
 \* BENEFICIO:  pedido de informe al Ministerio sobre el mecanismo para el cobro de los honorarios.-
 
@@ -94,3 +94,15 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 \* DAÑOS Y PERJUICIOS: petición al Juez de pedidos de informes a la Superintendencia Nacional de Seguros.- 
 
 \* ANALISIS DE FALLOS.-
+
+## V ENCUENTRO - Conurbano Sur - Quilmes 
+
+%%%%
+
+## VI ENCUENTRO - Tandil - Abril 2017
+
+%%%%
+
+## VII ENCUENTRO CABA - Junio 2018
+
+%%%%%
