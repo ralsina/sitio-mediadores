@@ -46,16 +46,20 @@ input#tipue_search_input {
 
 .h1, h1 {
     font-size: 20pt;
+    font-weight: 800;
 }
 
 .h2, h2 {
-    font-size: 16pt;
+    font-size: 18pt;
+    font-weight: 600;
 }
 
 .h3, h3 {
-    font-size: 14pt;
+    font-size: 16pt;
+    font-weight: 600;
 }
 
 .h4, h4 {
-    font-size: 12pt;
+    font-size: 14pt;
+    font-weight: 600;
 }
