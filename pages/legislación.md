@@ -67,7 +67,7 @@ Disposición 245/13: [**Recepción de documentación en los colegios. Exime guar
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
-Disposición 93/13: Plazos para los Mediadores Prejudiciales para constituir domicilio
+Disposición 93/13: [**Plazos para los Mediadores Prejudiciales para constituir domicilio**](/legislacion/9313)
 
 Disposición 79/13: Avala potestad de mediadores para suspender y postergar audiencias
 
