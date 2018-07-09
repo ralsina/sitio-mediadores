@@ -9,27 +9,25 @@ title: Legislación
 
 ### LEYES
 
-Ley 26589 Mediación y Conciliación.  %%%
+Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html) 
 
 DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
 
 DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unidad de honorario profesional denominada "Unidad de Honorarios de Mediación" (UHOM)
 
-
-
 # PROVINCIAL
 
-## **Buenos Aires**
+## **BUENOS AIRES**
 
-### LEYES
+### Leyes
 
 [**Ley 13951. Mediacion previa obligatoria**](/legislacion/legislacion/l-13951.html)
 
-### DECRETOS
+### Decretos
 
 [**Decreto 2530/10 Decreto Reglamentario**](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
 
-### ACORDADAS SCBA
+### Acordadas SCBA
 
 3668/13: SCJBA, La Plata 6 de Noviembre de 2013
 
@@ -118,6 +116,6 @@ RESOL-2018-299-GDEBA-MJGP
 
 # OTRAS:
 
-## **Rio Negro**
+## **RIO NEGRO**
 
-Ley P Nº3847 Ley de mediación prejudicial
+Ley P Nº3847 [Ley de mediación prejudicial](/legislacion/ley-de-mediacion-prejudicial-de-rio-negro/index.html)
