@@ -1,6 +1,10 @@
 ---
 title: Historia
 ---
+\[TOC]
+
+# Nuestros Origenes
+
 En el año 2012 ante la necesidad de los mediadores de intercambiar experiencias, conocer las distintas realidades, aprender de nosotros mismos y  del colectivo y desde allí generar propuestas, nació **Encuentro de Mediadores**. El primero de ellos se llevó a cabo en la ciudad de Santa Teresita en septiembre de 2012, a solo 5 meses de la implementación de la Ley 13951.
 
 Asumimos el compromiso de trabajar por la Mediación, superando cualquier obstáculo que nos impusieron. Estudiamos, pensamos y analizamos la normativa vigente y la jurisprudencia, los proyectos e iniciativas sobre nuestra materia y la viabilidad de su aplicación práctica. 
@@ -17,17 +21,15 @@ En este marco numerosos fueron los aportes realizados en los siete Encuentros de
 * ## [**VI Encuentro Tandil **](/sexto/)
 * ## [**VII Encuentro CABA**](<y VII Encuentro CABA(/septimo/>)
 
-Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y represente, porque sabemos que la participación de todos será fundamental para el enriquecimiento de la práctica y la defensa de nuestros derechos, es que existe y te invitamos a sumarte a 
-
-## ENCUENTRO DE MEDIADORES:  un espacio de y para los mediadores.
+Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y represente, porque sabemos que la participación de todos será fundamental para el enriquecimiento de la práctica y la defensa de nuestros derechos, es que existe y te invitamos a sumarte a **ENCUENTRO DE MEDIADORES:  un espacio de y para los mediadores.**
 
 /
 
-## ASPECTOS DESTACADOS DE LAS CONCLUSIONES DE LOS ENCUENTROS DE MEDIADORES
+# ASPECTOS DESTACADOS DE LAS CONCLUSIONES DE LOS ENCUENTROS DE MEDIADORES
 
-# FALTA COMPLETAR 5TO 6TO Y 7MO ENCUENTRO
+## FALTA COMPLETAR 5TO 6TO Y 7MO ENCUENTRO
 
-**I  ENCUENTRO - SANTA TERESITA - SEPTIEMBRE 2012**
+## **I  ENCUENTRO - SANTA TERESITA - SEPTIEMBRE 2012**
 
 \* SORTEOS:  Se instó a la alerta temprana al Mediador mediante correo electrónico y a su PUBLICIDAD de los mismos en las Receptorías General de Expedientes.-
 
@@ -51,7 +53,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* COBRO DE GASTOS: implementación del cobro de 1 jus arancelario en concepto de gastos administrativos.-
 
-**II ENCUENTRO DE MEDIADORES - TANDIL - ABRIL 2013**
+## **II ENCUENTRO DE MEDIADORES - TANDIL - ABRIL 2013**
 
 \* SORTEOS:  reclamo al Ministerio para se efectivice la notificación de los sorteos y revisión del sistema de sorteos de las RGE.-
 
@@ -67,7 +69,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* REUNIONES CON LOS JUECES:  promover reuniones periódicas con los jueces de las distintas departamentales con la finalidad de aunar criterios.-
 
-**III  ENCUENTRO  - LA MATANZA - NOVIEMBRE 2013**
+## **III  ENCUENTRO  - LA MATANZA - NOVIEMBRE 2013**
 
 \* SORTEOS: Se insiste con la alerta temprana a través de la notificación al Mediador mediante correo electrónico.-
 
@@ -83,7 +85,7 @@ financiamiento y promover el cobro de multas por incomparecencia.-
 
 \* BENEFICIO:  insistencia en el cobro de las multas por incomparecencia y habilitar el trámite del cobro de honorarios en los casos de los beneficios de litigar sin gastos en cada colegio departamental.-
 
-**IV ENCUENTRO DE MEDIADORES - CONURBANO NORTE - NOVIEMBRE 2014**
+## **IV ENCUENTRO DE MEDIADORES - CONURBANO NORTE - NOVIEMBRE 2014**
 
 \* BENEFICIO:  pedido de informe al Ministerio sobre el mecanismo para el cobro de los honorarios.-
 
