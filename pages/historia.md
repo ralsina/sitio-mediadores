@@ -1,7 +1,7 @@
 ---
 title: Historia
 ---
-[TOC]
+\[TOC]
 
 # Nuestros Origenes
 
@@ -13,13 +13,13 @@ Entendiendo siempre que la labor que emprendimos conlleva un **fuerte compromiso
 
 En este marco numerosos fueron los aportes realizados en los siete Encuentros de Mediadores  algunos de los cuales han sido receptados y/o implementados por  los distintos ámbitos pertinentes. 
 
-* ## [**I Encuentro Santa Teresita,**](/primero/)
-* ## [**II Encuentro Tandil,**](/segundo/)
-* ## [**III Encuentro La Matanza**](/tercero/)**, **
-* ## [**IV Encuentro San Martín**](/cuarto/)**, **
-* ## [**V Encuentro Quilmes,**](/quinto/)
-* ## [**VI Encuentro Tandil **](/sexto/)
-* ## [**VII Encuentro CABA**](<y VII Encuentro CABA(/septimo/>)
+* [**I Encuentro Santa Teresita,**](/primero/)
+* [**II Encuentro Tandil,**](/segundo/)
+* [**III Encuentro La Matanza**](/tercero/)**, **
+* [**IV Encuentro San Martín**](/cuarto/)**, **
+* [**V Encuentro Quilmes,**](/quinto/)
+* [**VI Encuentro Tandil **](/sexto/)
+* [**VII Encuentro CABA**](<y VII Encuentro CABA(/septimo/>)
 
 Porque entendemos que los mediadores debíamos tener un espacio que nos nuclee y represente, porque sabemos que la participación de todos será fundamental para el enriquecimiento de la práctica y la defensa de nuestros derechos, es que existe y te invitamos a sumarte a **ENCUENTRO DE MEDIADORES:  un espacio de y para los mediadores.**
 
