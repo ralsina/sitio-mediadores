@@ -5,7 +5,7 @@ title: Tercer Encuentro
 {{% slides "tercer-encuentro" %}}
 </div>
 
-\[TOC]
+[TOC]
 
 # Conclusiones
 
