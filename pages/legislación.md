@@ -116,7 +116,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 67/10:  Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio
 
-//
+
 
 # OTRAS:
 
