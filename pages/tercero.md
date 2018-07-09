@@ -5,7 +5,7 @@ title: Tercer Encuentro
 {{% slides "tercer-encuentro" %}}
 </div>
 
-[TOC]
+\[TOC]
 
 # Conclusiones
 
@@ -34,10 +34,9 @@ A propuesta de los presentes se consensuó una modalidad de trabajo diferente a 
 
 Mención especial al Comité de Seguimiento del Segundo Encuentro, por su colaboración desinteresada, desde ya gracias por su esfuerzo.
 
-CONCLUSIONES:
+## CONCLUSIONES:1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
 
-## **1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
-**
+\*\*
 
 Conclusión: “La actividad que despliega el Mediador Prejudicial en la Mediación Previa Obligatoria es un SERVICIO PÚBLICO DE GESTIÓN PRIVADA y sus actos son atacables por vía de la redargución de falsedad.”
 
@@ -124,9 +123,7 @@ Será necesario, también, adecuar el LIBRO QUINTO respecto de las infracciones 
 
 ## 3.- CUESTIONES PROCESALES DE LA MEDIACIÓN
 
-
 ### SORTEOS
-
 
 Conclusión: “Insistimos en la necesidad de implementación de alerta temprana del sorteo por mail al mediador, la transparencia de los sorteos e instamos a la implementación de un mecanismo de reincorporación a la lista de sorteo, en los casos en que el mediador no reciba la designación dentro del plazo de 60 días.”
 
@@ -150,7 +147,6 @@ Como consecuencia de lo expresado, los Mediadores asistentes al Encuentro solici
 
 ### FONDO DE FINANCIAMIENTO – BENEFICIO DE LITIGAR SIN GASTOS
 
-
 Conclusión: “Instamos a que se dé cumplimiento al cobro de las multas por incomparecencia, y que se arbitren los mecanismos para que los expedientes administrativos para el cobro de los BLSG puedan ser iniciados por cada Mediador ante su Colegio Departamental”
 
 Siendo que el Fondo de Financiamiento se encuentra creado por el art. 32 de la Ley 13951 y que el mismo debe integrarse entre otras cosas por las multas que el art. 14 impone a quienes injustificadamente incomparecieren a las primeras audiencias de Mediación (art. 33 inc. b del mismo cuerpo legal), solicitamos expresamente se dé estricto cumplimiento con lo que establece el art. 15 de la ley citada, verificando el incumplimiento del pago de la multa -previa intimación de ley-, y persiguiendo su cobro por la vía de apremio con la debida intervención del Fiscal de Estado (art. 15 D.R. 2530/10), habilitando en el Sistema Mediare el informe del estado en el que se encuentra el trámite respectivo.-
@@ -158,7 +154,6 @@ Siendo que el Fondo de Financiamiento se encuentra creado por el art. 32 de la L
 Asimismo, habiendo informado públicamente el DPMARC, que a los fines del cobro de sus honorarios profesionales por su intervención en aquellas causas por las que se solicitara el beneficio de litigar sin gastos, los Mediadores de toda la Provincia de Buenos Aires deberían iniciar el correspondiente expediente administrativo por ante la sede del Ministerio de Justicia de la Provincia cita en la ciudad de La Plata, tornando absolutamente ilusorio dicho cobro ante las distancias que cada profesional debería sortear con la erogación de tiempo y dinero que ello implicaría, solicitamos a la Autoridad de Aplicación realice un convenio con las autoridades del COLPROBA para arbitrar los medios para que los expedientes administrativos referidos puedan ser iniciados por cada Profesional Mediador por ante el Colegio Profesional en el que se encuentra matriculado.-
 
 ### MATERIAS MEDIABLES
-
 
 Conclusión: “Propugnamos: la incorporación de materias excluidas de la MPO; insistimos en el trámite de la MPO no contempladas, entre otras, los temas de familia, las acciones civiles resarcitorias que tramitan en el fuero penal, los temas en los que intervengan menores en los que no sea obligatoria la intervención del Ministerio Público, y las que tramitan ante los Juzgados de Paz. Asimismo, propugnamos que algunas de las materias que hoy están excluidas pasen a ser optativas para las partes y la incorporación de la figura de la derivación judicial”.
 
