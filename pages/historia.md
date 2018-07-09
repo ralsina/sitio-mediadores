@@ -1,7 +1,7 @@
 ---
 title: Historia
 ---
-\[TOC]
+[TOC]
 
 # Nuestros Origenes
 
