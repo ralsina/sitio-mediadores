@@ -10,7 +10,7 @@ title: Legislación
 
 ### Normativa
 
-Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html) 
+Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html)
 
 DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
 
@@ -18,7 +18,7 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 # PROVINCIAL
 
-## **BUENOS AIRES**
+## BUENOS AIRES
 
 ### Leyes
 
@@ -46,7 +46,7 @@ Disposición 383/14: Reapertura inscripción 18 al 25/08/14
 
 Disposición 336/14: La Plata, 27 y 28/8/2014: 2° Jornadas Prov. de Mediac. Previa Obligat. y 2° Encuentro Federal de Mediadores
 
-Disposición 131/14 Caducidad sello mediadores. 
+Disposición 131/14 Caducidad sello mediadores.
 
 Disposición 130/14 Modificacion del sistema Mediare
 
@@ -62,7 +62,7 @@ Disposición 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Oblig
 
 Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
 
-Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://sitio-mediadores.netlify.com/legislacion/24513/index.html). 
+Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://sitio-mediadores.netlify.com/legislacion/24513/index.html).
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
@@ -117,6 +117,6 @@ RESOL-2018-299-GDEBA-MJGP
 
 # OTRAS:
 
-## **RIO NEGRO**
+## RIO NEGRO
 
 Ley P Nº3847 [Ley de mediación prejudicial](/legislacion/ley-de-mediacion-prejudicial-de-rio-negro/index.html)
