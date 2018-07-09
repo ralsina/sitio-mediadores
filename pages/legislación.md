@@ -3,13 +3,15 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-\[TOC]
+[TOC]
 
 # NACIONAL
 
-### LEYES
+### Normativa
 
 Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html) 
+
+
 
 DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
 
