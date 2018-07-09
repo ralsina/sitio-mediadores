@@ -85,11 +85,11 @@ Disposición 261/12: Carácter meramente informativo de las listas de designacio
 
 Disposición 20/12: Imposibilidad de Notificar al Mediador
 
-Disposición 19/12: Plazo para solicitar exclusión de sorteo
+Disposición 19/12:[ **Plazo para solicitar exclusión de sorteo**](/legislacion/1912/index.html)
 
-Disposición 18/12: [Acta Final por imposibilidad de notificación](/legislacion/1812/index.html)
+Disposición 18/12: [**Acta Final por imposibilidad de notificación**](/legislacion/1812/index.html)
 
-Disposición 15/12: [Denunciar domicilio del requirente y requerido](/legislacion/1512/index.html)
+Disposición 15/12: [**Denunciar domicilio del requirente y requerido**](/legislacion/1512/index.html)
 
 ### Resoluciones
 
@@ -104,7 +104,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 462/12: Ámbito de actuación de los mediadores debidamente matriculados será exclusivamente en el Dpto. Judicial donde se encuentre inscripto
 
-1906/12: Convenio entre la SCJBA y el Colegio de Abogados de la Provincia de Buenos Aires (Anexo I)
+1906/12: [**Convenio entre la SCJBA y el Colegio de Abogados de la Provincia de Buenos Aires (Anexo I)**](/legislacion/1906/index.html)
 
 2513/12: SCJBA, 26/09/2012- Aprobación del modelo de cédula de notificación
 
