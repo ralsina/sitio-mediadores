@@ -3,11 +3,19 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
 ### LEYES
+
+Ley 26589 Mediación y Conciliación.  %%%
+
+DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
+
+DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unidad de honorario profesional denominada "Unidad de Honorarios de Mediación" (UHOM)
+
+
 
 # PROVINCIAL
 
@@ -51,7 +59,7 @@ Disposición 118/14:  Ampliación plazo para acreditar curso de capacitación co
 
 Disposición 46/14: Capacidad reducida. Matrícula anual: Un (1) jus arancelario
 
-Disposición 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Obligatoria 2013 \-Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas
+Disposición 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Obligatoria 2013 -Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas
 
 Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
 
@@ -84,6 +92,7 @@ Disposición 18/12: Acta Final por imposibilidad de notificación
 Disposición 15/12: Denunciar domicilio del requirente y requerido
 
 ### Resoluciones
+
 RESOL-2018-299-GDEBA-MJGP
 [ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
 
