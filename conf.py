@@ -163,6 +163,7 @@ NAVIGATION_LINKS = {
                 ("/doctrina", "Doctrina"),
                 ("/legislacion", "Legislación"),
                 ("/modelos-de-escritos", "Modelos de Escritos"),
+                ("/proyectos", "Proyectos"),
             ),
             "Material de Consulta",
         ),
