@@ -3,15 +3,13 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
 ### Normativa
 
 Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html) 
-
-
 
 DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
 
@@ -63,7 +61,7 @@ Disposición 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Oblig
 
 Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
 
-Disposición 245/13: Recepción de documentación. Exime guardias. 
+Disposición 245/13: [Recepción de documentación. Exime guardias](https://sitio-mediadores.netlify.com/legislacion/24513/index.html). 
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
