@@ -33,7 +33,7 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 3668/13: SCJBA, La Plata 6 de Noviembre de 2013
 
-3585/12: Aprobación del Reglamento para la designación de Mediadores
+3585/12: [Aprobación del Reglamento para la designación de Mediadores](/legislacion/358512)
 
  385/12:  Normas complementarias al Anexo reglamentario del Acuerdo 3585/12
 
@@ -59,7 +59,7 @@ Disposición 118/14:  [**Ampliación plazo para acreditar curso de capacitación
 
 Disposición 46/14: Capacidad reducida. Matrícula anual: Un (1) jus arancelario
 
-Disposición 497/13: Prórroga hasta 28/2/14 pago matrícula Mediac.Prejud.Obligatoria 2013 -Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas
+Disposición 497/13: [Prórroga hasta 28/2/14 pago matrícula Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas](/legislacion/49713)
 
 Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
 
@@ -102,13 +102,13 @@ RESOL-2018-299-GDEBA-MJGP
 
 2251/12: Inscripción on line de aspirantes: 27/11/2012 hasta 20/12/2012
 
-462/12: Ámbito de actuación de los mediadores debidamente matriculados será exclusivamente en el Dpto. Judicial donde se encuentre inscripto
+462/12:  [Reglamentación Registro de Mediadores. Requisitos - Matricula](/legislacion/462)
 
 1906/12: [**Convenio entre la SCJBA y el Colegio de Abogados de la Provincia de Buenos Aires (Anexo I)**](/legislacion/1906/index.html)
 
 2513/12: SCJBA, [Aprobación del modelo de cédula de notificación](/legislacion/513)
 
-3832/11: Homologación de listas de aspirantes, mediadores, formadores y evaluadores
+3832/11:[ Homologación de listas de aspirantes, mediadores, formadores y evaluadores](/legislacion/2)
 
 2763/11: Primera inscripción on line de aspirantes: 25/07/2011 hasta 19/08/2011
 
