@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -39,13 +39,7 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 ### Disposiciones
 
-
-
-Disposicion DI-2018-1-gdeba-ssajmjgp	Disposicion DI-2018-1-gdeba-ssajmjgp	
-
-Disp. 584	Disposicion Prorroga valor IUS matricula	 
-
-Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
+ Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
 
 Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
 
