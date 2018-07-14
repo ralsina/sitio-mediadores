@@ -1,5 +1,6 @@
 ---
-title: LEGISLACION LISTA (DEL CASI)
+title: 'LEGISLACION LISTA '
+linked: true
 ---
 <li style="text-align: justify;"><strong>Acuerdos</strong></li>
 </ul>
