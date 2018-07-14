@@ -35,29 +35,27 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 3585/12: [**Aprobación del Reglamento para la designación de Mediadores**](/legislacion/358512)
 
- 385/12:  Normas complementarias al Anexo reglamentario del Acuerdo 3585/12
+ 385/12:  [Normas complementarias al Anexo reglamentario del Acuerdo 3585/12](/legislacion/38512)
 
 ### Disposiciones
 
-Fecha	Numero	Descripción	
 
-21/06/18	Disposicion DI-2018-1-gdeba-ssajmjgp	Disposicion DI-2018-1-gdeba-ssajmjgp	
 
-2/05/18	RS-2018-04971281	RS-2018-04971281-GDEBA-MJGP Apertura inscripción Registro Provincial de Mediadores. 2018	 
+Disposicion DI-2018-1-gdeba-ssajmjgp	Disposicion DI-2018-1-gdeba-ssajmjgp	
 
-2/01/18	Disp. 584	Disposicion Prorroga valor IUS matricula	 
+Disp. 584	Disposicion Prorroga valor IUS matricula	 
 
-21/12/17	Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
+Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
 
-24/05/17	Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
+Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
 
-28/04/17	Disp. 380/17	Capacitacion Sistema MEDIARE	 
+Disp. 380/17	Capacitacion Sistema MEDIARE	 
 
-17/04/17	Disposicion 276/17	Disposición 276/17 Excepcion Capacitacion para Mediacion Familiar	
+Disposicion 276/17	Disposición 276/17 Excepcion Capacitacion para Mediacion Familiar	
 
-7/04/17	Mediación Familiar	Disposición respecto a la Mediación Familiar	 
+Mediación Familiar	Disposición respecto a la Mediación Familiar	 
 
-22/02/17	Disp. 127-07	Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.
+Disp. 127-17	Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.
 
 Disposición 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
 
@@ -65,7 +63,7 @@ Disposición 650/15: [**Constitución de domicilio y número de matrícula para 
 
 Disposición 383/14: [Reapertura inscripción 18 al 25/08/14](/legislacion/38314)
 
-Disposición 336/14: La Plata, 27 y 28/8/2014: 2° Jornadas Prov. de Mediac. Previa Obligat. y 2° Encuentro Federal de Mediadores
+Disposición 336/14: [Aumento de horas de capacitación anual a 30](/legislacion/33614)
 
 Disposición 131/14 Caducidad sello mediadores. 
 
@@ -111,8 +109,7 @@ Disposición 15/12: [**Denunciar domicilio del requirente y requerido**](/legisl
 
 ### Resoluciones
 
-RESOL-2018-299-GDEBA-MJGP
-[ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
+RS-2018-04971281-GDEBA-MJGP[ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
 
 90/14: Convocatoria examen habilitante
 
