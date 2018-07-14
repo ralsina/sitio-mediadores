@@ -125,9 +125,9 @@ RS-2018-04971281-GDEBA-MJGP[ **Apertura inscripción en el Registro Provincial d
 
 3832/11:[ **Homologación de listas de aspirantes, mediadores, formadores y evaluadores**](/legislacion/2)
 
-2763/11: Primera inscripción on line de aspirantes: 25/07/2011 hasta 19/08/2011
+2763/11: [**Primera inscripción on line de aspirantes: 25/07/2011 hasta 19/08/2011**](/legislacion/276311)
 
-2441/10: Homologación de los modelos de certificados de capacitación en mediación y conformación del "Comité de Evaluación"
+2441/10: [**Homologación de los modelos de certificados de capacitación en mediación y conformación del "Comité de Evaluación"**](/legislacion/2441)
 
 67/10:  [**Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio**](/legislacion/6710)
 
