@@ -65,7 +65,7 @@ Disposición 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17
 
 Disposición 650/15: [**Constitución de domicilio y número de matrícula para los nuevos mediadores**](/legislacion/65015)
 
-Disposición 383/14: Reapertura inscripción 18 al 25/08/14
+Disposición 383/14: [Reapertura inscripción 18 al 25/08/14](/legislacion/38314)
 
 Disposición 336/14: La Plata, 27 y 28/8/2014: 2° Jornadas Prov. de Mediac. Previa Obligat. y 2° Encuentro Federal de Mediadores
 
@@ -79,11 +79,11 @@ Disposición 117/14:  [**Ampliación plazos pago matrícula**](/legislacion/1171
 
 Disposición 118/14:  [**Ampliación plazo para acreditar curso de capacitación continua**](/legislacion/11814/index.html)
 
-Disposición 46/14: Capacidad reducida. Matrícula anual: Un (1) jus arancelario
+Disposición 46/14: 	[**Beneficio "capacidad reducida"**](/legislacion/4614)
 
 Disposición 497/13: [**Prórroga hasta 28/2/14 pago matrícula Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas**](/legislacion/49713)
 
-Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
+Disposición 405/13: Nuevo sello de mediadores
 
 Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://sitio-mediadores.netlify.com/legislacion/24513/index.html). 
 
@@ -93,9 +93,9 @@ Disposición 93/13: [**Plazos para los Mediadores Prejudiciales para constituir 
 
 Disposición 79/13: Avala potestad de mediadores para suspender y postergar audiencias
 
-Disposición 45/13: Rectificación art.1  de disp. 38/13
+Disposición 45/13: [Capacitacion  Anual Obligatoria - año 2013](/legislacion/4513)
 
-Disposición 40/13: Rectificación art.1 de disp. 38/13
+Disposición 40/13: [Rectificación art.1 de disp. 38/13](/legislacion/4013)
 
 Disposición 38/13: Obligatoriedad de las Jornadas Provinciales de Mediación Previa Obligatoria
 
@@ -105,7 +105,7 @@ Disposición 364/12: Exámenes finales entre los días 15 a 22 de febrero de 201
 
 Disposición 261/12: Carácter meramente informativo de las listas de designaciones proporcionadas por la Autoridad de Apicación
 
-Disposición 20/12: Imposibilidad de Notificar al Mediador
+Disposición 20/12: [Imposibilidad de Notificar al Mediador](/legislacion/2012)
 
 Disposición 19/12:[ **Plazo para solicitar exclusión de sorteo**](/legislacion/1912/index.html)
 
