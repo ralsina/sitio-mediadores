@@ -11,7 +11,7 @@ title: Legislación
 
 ### Normativa
 
-Ley 26589 [Mediación y Conciliación. ](/legislacion/ley-26589-mediacion-y-conciliacion/index.html) 
+Ley 26589 [**Mediación y Conciliación. **](/legislacion/ley-26589-mediacion-y-conciliacion/index.html)\*\* \*\*
 
 DECRETO NACIONAL 1.467/2011 REGLAMENTACIÓN DE LA LEY 26.589 DE MEDIACION Y CONCILIACION.
 
@@ -31,17 +31,39 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 ### Acordadas SCBA
 
-3668/13: SCJBA, La Plata 6 de Noviembre de 2013
+3668/13: Modificación del Anexo I del Acuerdo 3585 -  Modificación del mecanismo de compensación
+de causas asignadas a los mediadores que se incorporan a la lista de mediadores
+ habilitados.
 
-3585/12: [Aprobación del Reglamento para la designación de Mediadores](/legislacion/358512)
+3585/12: [**Aprobación del Reglamento para la designación de Mediadores**](/legislacion/358512)
 
  385/12:  Normas complementarias al Anexo reglamentario del Acuerdo 3585/12
 
 ### Disposiciones
 
+Fecha	Numero	Descripción	
+
+21/06/18	Disposicion DI-2018-1-gdeba-ssajmjgp	Disposicion DI-2018-1-gdeba-ssajmjgp	
+
+2/05/18	RS-2018-04971281	RS-2018-04971281-GDEBA-MJGP Apertura inscripción Registro Provincial de Mediadores. 2018	 
+
+2/01/18	Disp. 584	Disposicion Prorroga valor IUS matricula	 
+
+21/12/17	Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
+
+24/05/17	Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
+
+28/04/17	Disp. 380/17	Capacitacion Sistema MEDIARE	 
+
+17/04/17	Disposicion 276/17	Disposición 276/17 Excepcion Capacitacion para Mediacion Familiar	
+
+7/04/17	Mediación Familiar	Disposición respecto a la Mediación Familiar	 
+
+22/02/17	Disp. 127-07	Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.
+
 Disposición 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
 
-Disposición 650/15: [Constitución de domicilio y número de matrícula para los nuevos mediadores](/legislacion/65015)
+Disposición 650/15: [**Constitución de domicilio y número de matrícula para los nuevos mediadores**](/legislacion/65015)
 
 Disposición 383/14: Reapertura inscripción 18 al 25/08/14
 
@@ -59,7 +81,7 @@ Disposición 118/14:  [**Ampliación plazo para acreditar curso de capacitación
 
 Disposición 46/14: Capacidad reducida. Matrícula anual: Un (1) jus arancelario
 
-Disposición 497/13: [Prórroga hasta 28/2/14 pago matrícula Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas](/legislacion/49713)
+Disposición 497/13: [**Prórroga hasta 28/2/14 pago matrícula Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas**](/legislacion/49713)
 
 Disposición 405/13: Ministerio de Justicia y Seguridad. La Plata, 17 de octubre de 2013
 
@@ -102,22 +124,22 @@ RESOL-2018-299-GDEBA-MJGP
 
 2251/12: Inscripción on line de aspirantes: 27/11/2012 hasta 20/12/2012
 
-462/12:  [Reglamentación Registro de Mediadores. Requisitos - Matricula](/legislacion/462)
+462/12:  [**Reglamentación Registro de Mediadores. Requisitos - Matricula**](/legislacion/462)
 
 1906/12: [**Convenio entre la SCJBA y el Colegio de Abogados de la Provincia de Buenos Aires (Anexo I)**](/legislacion/1906/index.html)
 
-2513/12: SCJBA, [Aprobación del modelo de cédula de notificación](/legislacion/513)
+2513/12: SCJBA, [**Aprobación del modelo de cédula de notificación**](/legislacion/513)
 
-3832/11:[ Homologación de listas de aspirantes, mediadores, formadores y evaluadores](/legislacion/2)
+3832/11:[ **Homologación de listas de aspirantes, mediadores, formadores y evaluadores**](/legislacion/2)
 
 2763/11: Primera inscripción on line de aspirantes: 25/07/2011 hasta 19/08/2011
 
 2441/10: Homologación de los modelos de certificados de capacitación en mediación y conformación del "Comité de Evaluación"
 
-67/10:  [Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio](/legislacion/6710)
+67/10:  [**Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio**](/legislacion/6710)
 
 # OTRAS:
 
 ## **RIO NEGRO**
 
-Ley P Nº3847 [Ley de mediación prejudicial](/legislacion/ley-de-mediacion-prejudicial-de-rio-negro/index.html)
+Ley P Nº3847 [**Ley de mediación prejudicial**](/legislacion/ley-de-mediacion-prejudicial-de-rio-negro/index.html)
