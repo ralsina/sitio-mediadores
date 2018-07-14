@@ -99,11 +99,11 @@ Disposición 40/13: [Rectificación art.1 de disp. 38/13](/legislacion/4013)
 
 Disposición 38/13: [Jornadas Provinciales de Mediación Previa Obligatoria](/legislacion/3813)
 
-Disposición 23/13: Pago de la matrícula correspondiente al ejercicio de los Mediadores. Cta. Puente Recaudadora Bco. Bs. As.
+Disposición 23/13: [Pago de la matrícula correspondiente al ejercicio de los Mediadores. Cta. Puente Recaudadora Bco. Bs. As.](/legislacion/2313)
 
 Disposición 364/12: Exámenes finales entre los días 15 a 22 de febrero de 2013
 
-Disposición 261/12: Carácter meramente informativo de las listas de designaciones proporcionadas por la Autoridad de Apicación
+Disposición 261/12: [Carácter meramente informativo de las listas de designaciones proporcionadas por la Autoridad de Aplicación](/legislacion/26112)
 
 Disposición 20/12: [Imposibilidad de Notificar al Mediador](/legislacion/2012)
 
