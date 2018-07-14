@@ -49,13 +49,13 @@ Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.
 
 Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
 
-Disp. 380/17	Capacitacion Sistema MEDIARE	 
+Disp. 380/17	[Capacitacion Sistema MEDIARE	 ](http://www.mediaciones-ba.org.ar/documentos/disposiciones/CAPACITACION_MEDIARE.pdf)
 
-Disposicion 276/17	Disposición 276/17 Excepcion Capacitacion para Mediacion Familiar	
+Disposición 276/17 [Excepcion Capacitacion para Mediacion Familiar](http://www.mediaciones-ba.org.ar/documentos/disposiciones/Disp-276-17.pdf)	
 
-Mediación Familiar	Disposición respecto a la Mediación Familiar	 
+[Mediación Familiar	Disposición respecto a la Mediación Familiar	 ](http://www.mediaciones-ba.org.ar/documentos/disposiciones/MEDIACION%20FAMILIAR_3.pdf)
 
-Disp. 127-17	Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.
+Disp. 127-17	[**Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.**](http://www.mediaciones-ba.org.ar/documentos/disposiciones/127-07.pdf)
 
 Disposición 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
 
@@ -65,11 +65,11 @@ Disposición 383/14: [Reapertura inscripción 18 al 25/08/14](/legislacion/38314
 
 Disposición 336/14: [Aumento de horas de capacitación anual a 30](/legislacion/33614)
 
-Disposición 131/14 Caducidad sello mediadores. 
+Disposición 131/14 [Caducidad sello mediadores.](/legislacion/13114) 
 
-Disposición 130/14 Modificacion del sistema Mediare
+Disposición 130/14 [Modificacion del sistema Mediare](http://www.mediaciones-ba.org.ar/documentos/disposiciones/D_21042014_2.pdf)
 
-Disposición 129/14 Multas por incomparecencia
+Disposición 129/14 [Multas por incomparecencia](http://www.casi.com.ar/sites/default/files/DISPOSICION%20129-14-%20MULTA%20POR%20INCOMPARECENCIA.pdf)
 
 Disposición 117/14:  [**Ampliación plazos pago matrícula**](/legislacion/11714/index.html)
 
@@ -111,11 +111,11 @@ Disposición 15/12: [**Denunciar domicilio del requirente y requerido**](/legisl
 
 RS-2018-04971281-GDEBA-MJGP[ **Apertura inscripción en el Registro Provincial de Mediadores**](/legislacion/apertura-inscripcion-en-el-registro-provincial-de-mediadores-2018/index.html)
 
-90/14: Convocatoria examen habilitante
+90/14: [**Convocatoria examen habilitante**](/legislacion/9014)
 
-25/13:  Declara de interés provincial las 1ras.Jornadas de Mediac.Previa Obligatoria en la Prov.de B.A. 22-2-13
+25/13:  [**Declara de interés provincial las 1ras.Jornadas de Mediac. Previa Obligatoria en la Prov.de B.A. 22-2-13**](/legislacion/2513)
 
-2251/12: Inscripción on line de aspirantes: 27/11/2012 hasta 20/12/2012
+2251/12: [**Inscripción on line de aspirantes: 27/11/2012 hasta 20/12/2012**](/legislacion/225112)
 
 462/12:  [**Reglamentación Registro de Mediadores. Requisitos - Matricula**](/legislacion/462)
 
