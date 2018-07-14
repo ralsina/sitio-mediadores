@@ -97,7 +97,7 @@ Disposición 45/13: [Capacitacion  Anual Obligatoria - año 2013](/legislacion/4
 
 Disposición 40/13: [Rectificación art.1 de disp. 38/13](/legislacion/4013)
 
-Disposición 38/13: Obligatoriedad de las Jornadas Provinciales de Mediación Previa Obligatoria
+Disposición 38/13: [Jornadas Provinciales de Mediación Previa Obligatoria](/legislacion/3813)
 
 Disposición 23/13: Pago de la matrícula correspondiente al ejercicio de los Mediadores. Cta. Puente Recaudadora Bco. Bs. As.
 
