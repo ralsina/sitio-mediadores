@@ -79,7 +79,7 @@ Disposición 46/14: 	[**Beneficio "capacidad reducida"**](/legislacion/4614)
 
 Disposición 497/13: [**Prórroga hasta 28/2/14 pago matrícula Vencimiento pago matrícula 2014:  30/4/2014 - Cuotas**](/legislacion/49713)
 
-Disposición 405/13: Nuevo sello de mediadores
+Disposición 405/13: [Nuevo sello de mediadores](/legislacion/40513)
 
 Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://sitio-mediadores.netlify.com/legislacion/24513/index.html). 
 
