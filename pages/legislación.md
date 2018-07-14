@@ -31,9 +31,7 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 ### Acordadas SCBA
 
-3668/13: Modificación del Anexo I del Acuerdo 3585 -  Modificación del mecanismo de compensación
-de causas asignadas a los mediadores que se incorporan a la lista de mediadores
- habilitados.
+3668/13: [Modificación del mecanismo de compensación de causas asignadas a los mediadores que se incorporan a la lista de mediadores  habilitados.](/legislacion/366813)
 
 3585/12: [**Aprobación del Reglamento para la designación de Mediadores**](/legislacion/358512)
 
@@ -91,7 +89,7 @@ Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legisl
 
 Disposición 93/13: [**Plazos para los Mediadores Prejudiciales para constituir domicilio**](/legislacion/9313)
 
-Disposición 79/13: Avala potestad de mediadores para suspender y postergar audiencias
+Disposición 79/13: [Avala potestad de mediadores para suspender y postergar audiencias por Jornadas de Capacitación](/legislacion/7913)
 
 Disposición 45/13: [Capacitacion  Anual Obligatoria - año 2013](/legislacion/4513)
 
@@ -99,9 +97,7 @@ Disposición 40/13: [Rectificación art.1 de disp. 38/13](/legislacion/4013)
 
 Disposición 38/13: [Jornadas Provinciales de Mediación Previa Obligatoria](/legislacion/3813)
 
-Disposición 23/13: [Pago de la matrícula correspondiente al ejercicio de los Mediadores. Cta. Puente Recaudadora Bco. Bs. As.](/legislacion/2313)
-
-Disposición 364/12: Exámenes finales entre los días 15 a 22 de febrero de 2013
+Disposición 23/13: [Pago de la matrícula correspondiente al ejercicio de los Mediadores. Cuenta. Puente Recaudadora Banco. Bs. As.](/legislacion/2313)
 
 Disposición 261/12: [Carácter meramente informativo de las listas de designaciones proporcionadas por la Autoridad de Aplicación](/legislacion/26112)
 
