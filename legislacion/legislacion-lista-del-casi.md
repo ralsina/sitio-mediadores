@@ -2,6 +2,28 @@
 title: 'LEGISLACION LISTA '
 linked: true
 ---
+
+
+Fecha	Numero	Descripción	
+
+21/06/18	Disposicion DI-2018-1-gdeba-ssajmjgp	Disposicion DI-2018-1-gdeba-ssajmjgp	 Ver
+
+2/05/18	RS-2018-04971281	RS-2018-04971281-GDEBA-MJGP Apertura inscripción Registro Provincial de Mediadores. 2018	 Ver
+
+2/01/18	Disp. 584	Disposicion Prorroga valor IUS matricula	 Ver
+
+21/12/17	Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 Ver
+
+24/05/17	Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 Ver
+
+28/04/17	Disp. 380/17	Capacitacion Sistema MEDIARE	 Ver
+
+17/04/17	Disposicion 276/17	Disposición 276/17 Excepcion Capacitacion para Mediacion Familiar	 Ver
+
+7/04/17	Mediación Familiar	Disposición respecto a la Mediación Familiar	 Ver
+
+22/02/17	Disp. 127-07	Disposición respecto a la capacitación anual continua que deben acreditar los mediadores.
+
 <li style="text-align: justify;"><strong>Acuerdos</strong></li>
 </ul>
 <p style="text-align: justify; margin-left: 40px;"><a href="http://www.casi.com.ar/sites/default/files/Acuerdo3668-13.pdf" target="_blank">3668/13</a>: SCJBA, La Plata 6 de Noviembre de 2013<br /><a href="http://www.casi.com.ar/sites/default/files/Ac.%203585_12.PDF" style="line-height: 1.538em;" target="_blank">3585/12</a><span style="line-height: 1.538em;">:&nbsp;Aprobación del Reglamento para la designación de Mediadores</span><br /><span style="line-height: 1.538em;">&nbsp;</span><a href="http://www.casi.com.ar/sites/default/files/ACUERDO%203585-12.pdf" style="line-height: 1.538em;">385/12</a><span style="line-height: 1.538em;">: </span><span style="line-height: 1.538em;">&nbsp;Normas complementarias al Anexo reglamentario del Acuerdo 3585/12</span></p>
