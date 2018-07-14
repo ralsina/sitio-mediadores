@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -41,7 +41,7 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 Disposición 584/17 [**Prorroga valor ius matrícula**](/legislacion/disp-584-17-prorroga-valor-ius/index.html)
 
-Disposición 650/15: Constitución de domicilio y número de matrícula para los nuevos mediadores
+Disposición 650/15: [Constitución de domicilio y número de matrícula para los nuevos mediadores](/legislacion/65015)
 
 Disposición 383/14: Reapertura inscripción 18 al 25/08/14
 
@@ -106,7 +106,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 1906/12: [**Convenio entre la SCJBA y el Colegio de Abogados de la Provincia de Buenos Aires (Anexo I)**](/legislacion/1906/index.html)
 
-2513/12: SCJBA, 26/09/2012- Aprobación del modelo de cédula de notificación
+2513/12: SCJBA, [Aprobación del modelo de cédula de notificación](/legislacion/513)
 
 3832/11: Homologación de listas de aspirantes, mediadores, formadores y evaluadores
 
