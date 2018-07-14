@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -114,7 +114,7 @@ RESOL-2018-299-GDEBA-MJGP
 
 2441/10: Homologación de los modelos de certificados de capacitación en mediación y conformación del "Comité de Evaluación"
 
-67/10:  Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio
+67/10:  [Creación de cursos de formación de formadores, formación de mediadores y actualización. Marco regulatorio](/legislacion/6710)
 
 # OTRAS:
 
