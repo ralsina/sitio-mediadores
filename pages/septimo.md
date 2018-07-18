@@ -2,6 +2,7 @@
 title: Séptimo Encuentro
 ---
 # Conclusiones del VII ENCUENTRO DE MEDIADORES - CABA - 8 de junio de 2018 
+[TOC]
 
 ## “2012 - 2018: ANÁLISIS Y GESTIÓN DEL FUTURO EN LA PRÁCTICA DE LOS MEDIADORES”
 
