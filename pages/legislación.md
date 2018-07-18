@@ -3,7 +3,7 @@ title: Legislación
 ---
 ![null](/images/uploads/congreso.jpg)
 
-[TOC]
+\[TOC]
 
 # NACIONAL
 
@@ -130,3 +130,7 @@ RS-2018-04971281-GDEBA-MJGP[ **Apertura inscripción en el Registro Provincial d
 ## **RIO NEGRO**
 
 Ley P Nº3847 [**Ley de mediación prejudicial**](/legislacion/ley-de-mediacion-prejudicial-de-rio-negro/index.html)
+
+## CORDOBA
+
+LEY 10543 [Ley de Mediación](/legislacion/ley-de-mediación-de-cordoba)
