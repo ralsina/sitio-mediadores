@@ -1,17 +1,15 @@
 ---
 title: 'REVOCATORIA IN EXTREMIS '
 ---
-## (BALLESTERO)
-
-REVOCATORIA IN EXTREMIS interpuesta en ”BALLESTERO CLAUDIA VICTORIA C/ SOPRANO SERGIO GABRIEL S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951″ Expte: 153513
+Agradecemos a la Dra. Ballesteros por el aporte.
 
 INTERPONE REVOCATORIA IN EXTREMIS
 
 Excma. Cámara de Apelaciones:
 
-CLAUDIA VICTORIA BALLESTERO, por mi propio derecho, abogada, inscripta al Tº XIII Fº 197 CAMDP, mediadora prejudicial MP 019, monotributista, CUIT e IIBB 27-14318138-9, legajo previsional 064885-7/12 11, manteniendo domicilio procesal en calle La Rioja 2333 PB B, ciudad de Mar del Plata, en estos autos “BALLESTERO CLAUDIA VICTORIA C/ SOPRANO SERGIO GABRIEL S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951″ Expte: 153513 (reg. Juz. 14), en trámite por ante la Sala III de la Cámara de Apelaciones Departamental, ante VVEE me presento y respetuosamente digo:
+XXXXXXXX, por mi propio derecho, abogada, inscripta al XXXXX, mediadora prejudicial MP 0XX, monotributista, CUIT e XXXXX, legajo previsional XXXX, manteniendo domicilio procesal en calle XXXXXXX, ciudad de XXXXXX, en estos autos “XXXXXX″ Expte: xxxx (reg. Juz. xxxx), en trámite por ante la Sala xxxxxxxxde la Cámara de Apelaciones Departamental, ante VVEE me presento y respetuosamente digo:
 
-Que vengo en legal tiempo y forma a interponer Recurso de Revocatoria in Extremis contra la Sentencia Definitiva de fecha 30 de Abril de 2013 de fs. 24/25, en cuanto rechaza el recurso de apelación deducido por esta parte, por los motivos de hecho y derecho que expondré a continuación.
+Que vengo en legal tiempo y forma a interponer Recurso de Revocatoria in Extremis contra la Sentencia Definitiva de fecha xxx de fs. xxxx, en cuanto rechaza el recurso de apelación deducido por esta parte, por los motivos de hecho y derecho que expondré a continuación.
 
 Previo a ello, cabe destacar, en cuanto a la admisibilidad del presente recurso que la misma surge de la reiterada jurisprudencia acuñada por esta Alzada, a cuyo mérito transcribo algunos por su aplicabilidad al presente caso: a) “Las resoluciones interlocutorias del tribunal de alzada no son susceptibles de ataques por medio del recurso de reposición…. Sólo nos hemos apartado de dichos principios en supuestos excepcionales en los que, a criterio de tribunal, se trataba de un error ostensible que ponía en evidencia la injusticia que encerraba la decisión” (Sala B 1402186 “Soldi, Irma c/ Basqueto, Enrique s/ Ejecucion Hipotecaria” MP 118054 RSI-1074-1 I 13-11-2001, Mag. Votantes: Oteriño, Dalmasso, Zampini.-; “Capararo, Beatriz c/Camperi Menendez, Elsa R. y otro s/ Desalojo” MP 126705 RSI 1728-4 I 30-9-2004- Mag. Votantes: Cazeaux-Font- Azpelicueta.-; “Coronello Alejandro c/ Pandolfi Maria y otro s/ Daños y Perj.” MP 123163 RSI 1823-2 I 10-12-2002, Mag Votantes: Oteriño-Dalmaso- Zampini); b) “La revocatoria “in extremis” debe aceptarse ya que se trata de un error evidente en la apreciación de las constancias de la causa, que no requiere una recalificación jurídica del caso, sino tan solo la modificación de la conclusión anteriormente elaborada” (MP 114201 RSI 1802-4 I 19-10-2004, Establecimientos San Agustin S.A. c/ Municipalidad de Balcarse s/ cesación de inmisiones inmateriales” MAG votantes: Font- Azpelicueta.-).
 
