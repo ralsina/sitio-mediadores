@@ -10,7 +10,11 @@ previewimage: /images/uploads/logo-1er-encuentro.png
 
 # Conclusiones del Primer Encuentro de Mediadores
 
-·VIERNES, 23 DE DICIEMBRE DE 2016
+
+
+![](/images/uploads/logo-1er-encuentro.png)
+
+VIERNES, 23 DE DICIEMBRE DE 2016
 
 Declarado DE INTERES GENERAL por la LEGISLATURA DE LA PROVINCIA DE BUENOS AIRES.-
 
