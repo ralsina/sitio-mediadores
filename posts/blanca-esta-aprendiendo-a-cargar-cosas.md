@@ -3,9 +3,10 @@ title: Blanca esta aprendiendo a cargar cosas!!!!!
 date: '2018-08-03T16:06:48-03:00'
 tags: 'Priotti Rosario '
 ---
-## En la tarde de hoy Blanca estuvo aprendiendo a cargar cosas en la[ pagina. ](https://encuentrodemediadores.org/)
+## En la tarde de hoy Blanca estuvo aprendiendo a cargar cosas en la[ pagina. ](https://encuentrodemediadores.org/) (genia!!!)
 
-**Estimado/a Colega: **
+**Estimado/a Colega: 
+**
 
 Hemos recibido tu inscripción, por lo cual nos resulta muy grato darte la bienvenid​a. Juntos transitaremos un camino tendiente a mejorar nuestras condiciones de trabajo, nuestra retribución, nuestro perfeccionamiento y la difusión de nuestra actividad.
 
