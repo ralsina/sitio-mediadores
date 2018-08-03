@@ -1,6 +1,6 @@
 ---
 title: Primer Encuentro
-date: '2018-06-16T16:44:51-03:00'
+previewimage: /images/uploads/logo-1er-encuentro.png
 ---
 
 <div style="float:right; width: 50%;">
