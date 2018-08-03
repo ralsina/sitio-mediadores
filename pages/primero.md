@@ -2,7 +2,6 @@
 title: Primer Encuentro
 previewimage: /images/uploads/logo-1er-encuentro.png
 ---
-
 <div style="float:right; width: 50%;">
 {{% slides "primer-encuentro" %}}
 </div>
