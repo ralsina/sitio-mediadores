@@ -22,3 +22,5 @@ title: Doctrina
 [**El uso de la tecnología y la gestión de la comunicación en la mediación actual**](/doctrina/zzzel-uso-de-la-tecnologia-y-la-gestion-de-la-comunicacion-en-la-mediacion-actual/index.html) Dr. Juan Fernando Gouvert
 
 [**ASPECTOS EMOCIONALES EN LAS MEDIACIONES POR ACCIDENTES DE TRÁNSITO: CONSIDERACIONES PRÁCTICAS DE UN MEDIADOR**](/doctrina/yyy-aspectos-emocionales-en-las-mediaciones-por-accidentes-de-transito-consideraciones-practicas-de-un-mediador/index.html)**.** Dr. Juan Fernando Gouvert
+
+[**Voluntariedad en la mediación**. ](/doctrina/voluntariedad-la-importancia-en-la-mediación)Alba Neuman
