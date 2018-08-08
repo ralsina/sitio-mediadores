@@ -5,7 +5,7 @@ title: 'Cuarto Encuentro; El desafío: Escuchar y debatir'
 {{% slides "cuarto-encuentro" %}}
 </div>
 
-\[TOC]
+[TOC]
 
 ## Ver fotos del Encuentro:
 
