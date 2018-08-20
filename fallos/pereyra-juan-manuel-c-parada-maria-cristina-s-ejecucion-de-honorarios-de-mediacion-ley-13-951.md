@@ -3,13 +3,9 @@ title: >-
   PEREYRA JUAN MANUEL C/ PARADA MARIA CRISTINA S/EJECUCION DE HONORARIOS DE
   MEDIACION LEY 13.951
 ---
- Fecha inicio:  13/11/2014   Nº de Receptoría:  LZ - 29090 - 2013
+Fecha inicio:  13/11/2014	Nº de Receptoría:  LZ - 29090 - 2013	Nº de Expediente:  95747
 
-Nº de Expediente:  95747 Estado:  A Despacho - A Registro
-
-  
-
-  
+Estado:  En Letra	  	  
 
 REFERENCIAS
 
@@ -33,7 +29,7 @@ No habiendo la parte demandada debidamente intimada opuesto excepciones legítim
 
 POR ELLO: Conforme lo pedido y lo dispuesto por los arts. 540 y 545 del C.P.C.,
 
-FALLO: mandando llevar adelante esta ejecución hasta tanto el deudor: MARIA CRISTINA PARADA haga al acreedor: JUAN MANUEL PEREYRA íntegro pago del capital reclamado de Pesos DOS MIL OCHOCIENTOS OCHENTA ($2.880) con más los intereses que cobra el Banco de la Provincia de Buenos Aires (Tasa Activa -Restantes Operaciones en Pesos) vigente al inicio de cada uno de los períodos - (conforme CALZ, Sala I, RSI 134 in re ""Banco de la Ciudad de Bs. As. C/ López, Carlos Alberto S/ Ejecutivo"", causa 73676); véase el sitio http://www.scba.gov.ar/servicios/ContieneMontos.asp-, desde la mora del deudor acaecida el día 21/12/2013 (fecha en que ha quedado expedito el presente proceso, léase a los 60 días del cierre de la etapa de mediación) y hasta el efectivo pago.-
+FALLO: mandando llevar adelante esta ejecución hasta tanto el deudor: MARIA CRISTINA PARADA haga al acreedor: JUAN MANUEL PEREYRA íntegro pago del capital reclamado de Pesos DOS MIL OCHOCIENTOS OCHENTA ($2.880) con más losintereses que cobra el Banco de la Provincia de Buenos Aires (Tasa Activa -Restantes Operaciones en Pesos) vigente al inicio de cada uno de los períodos - (conforme CALZ, Sala I, RSI 134 in re ""Banco de la Ciudad de Bs. As. C/ López, Carlos Alberto S/ Ejecutivo"", causa 73676); véase el sitio http://www.scba.gov.ar/servicios/ContieneMontos.asp-, desde la mora del deudor acaecida el día 21/12/2013 (fecha en que ha quedado expedito el presente proceso, léase a los 60 días del cierre de la etapa de mediación) y hasta el efectivo pago.-
 
 Imponiendo las costas a la parte demandada (art. 68 y 556 del C.P.C.).
 
@@ -43,16 +39,16 @@ REGISTRESE. NOTIFIQUESE.-
 
  
 
-························Carlos Mario Casás
+••••••••••••••••••••••••Carlos Mario Casás
 
-·······························JUEZ
+•••••••••••••••••••••••••••••••JUEZ
 
  
 
-Nro. Registro Sentencia:
 
-Nro. Folio Sentencia:
 
-Imprimir ^
+
+
+
 
 "
