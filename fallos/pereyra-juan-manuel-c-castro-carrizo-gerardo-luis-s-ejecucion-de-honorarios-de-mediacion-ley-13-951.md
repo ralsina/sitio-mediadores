@@ -3,8 +3,6 @@ title: >-
   PEREYRA JUAN MANUEL C/ CASTRO CARRIZO GERARDO LUIS S/ EJECUCION DE HONORARIOS
   DE MEDIACION LEY 13.951
 ---
- 
-
 Fecha inicio:  24/11/2017	Nº de Receptoría:  LZ - 43284 - 2017	Nº de Expediente:  9252
 
 14/12/2017 - DEVOLUCION PROVISORIA - SE ORDENA
@@ -19,12 +17,6 @@ II.- Asimismo, advirtiendo en este acto que el aludido recurso de apelación int
 
 Consecuentemente, corresponde remitir los autos al Juzgado de origen a fin de sustanciar el memorial, conforme lo preceptuado por el art. 246 del ritual (art. 271 del C.P.C.C.).-
 
- 
-
 SERGIO H. ALTIERI
 
 JUEZ DE CAMARA
-
-		
-
-"
