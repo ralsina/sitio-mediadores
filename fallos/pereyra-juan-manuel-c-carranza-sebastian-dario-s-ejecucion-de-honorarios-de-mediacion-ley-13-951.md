@@ -5,8 +5,6 @@ title: >-
 ---
 Fecha inicio:  20/11/2013	Nº de Receptoría:  LZ - 46905 - 2013	Nº de Expediente:  84011
 
-Estado:  Paralizada	  	  
-
 REFERENCIAS
 
 Sentencia - Folio:   865
@@ -21,19 +19,13 @@ Texto del Proveído
 
 249300335015824488
 
- 
-
 PEREYRA JUAN MANUEL C/ CARRANZA SEBASTIAN DARIO S/EJECUCION DE HONORARIOS DE MEDIACION LEY 13.951(84.011)
 
 REG. SENT. N°: 531
 
 FOLIO Nº: 865
 
- 
-
 Lomas de Zamora, 8 de Octubre de 2014.-
-
- 
 
 AUTOS Y VISTOS: Para resolver en los presentes autos caratulados: ""PEREYRA,JUAN MANUEL C/CARRANZA,SEBASTIAN DARIO S/EJECUCION DE HONORARIOS"" y
 
@@ -52,10 +44,6 @@ FALLO, Esta causa de trance y remate mandando llevar adelante la ejecución hast
 Postérgase la regulación de honorarios para la oportunidad en que se fije el monto por el cual prospere la ejecución (arts. 23,51 y 54 de la Ley 8.904).-
 
 REGISTRESE.-NOTIFIQUESE.-
-
- 
-
- 
 
 ANGEL NORBERTO GOROSTEGUI
 
