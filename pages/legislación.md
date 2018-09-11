@@ -27,7 +27,11 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 ### Decretos
 
+[Decreto 964/18](/legislacion/decreto-964-2018-reglamentario-ley-13-951-mediación-modificatorio-del-decreto-2530-10) Decreto Reglamentario de la ley 13951
+
 [**Decreto 2530/10 Decreto Reglamentario**](http://www.gob.gba.gov.ar/legislacion/legislacion/10-2530.html)
+
+
 
 ### Acordadas SCBA
 
