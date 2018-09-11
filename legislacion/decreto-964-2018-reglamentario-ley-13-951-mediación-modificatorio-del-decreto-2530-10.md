@@ -1,7 +1,8 @@
 ---
 title: >-
-  Decreto 964/2018  Reglamentario Ley 13.951. Mediación (modificatorio del
-  Decreto 2530/10)
+  964/2018  Reglamentario Ley 13.951. Mediación (modificatorio del Decreto
+  2530/10)
+linked: true
 ---
 G O B I E R N O DE LA P R O V I N C I A DE B U E N O S A I R E S .
 
