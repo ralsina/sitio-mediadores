@@ -1,0 +1,4 @@
+Sitemap: https://sitio-mediadores.netlify.com/sitemapindex.xml
+
+User-Agent: *
+Host: sitio-mediadores.netlify.com
