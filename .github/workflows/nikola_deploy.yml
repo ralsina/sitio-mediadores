@@ -8,11 +8,11 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     if: github.event_name == 'push'
-    
+
     steps:
       - uses: actions/checkout@v2
         with:
-          ref: 'src'
+          ref: 'master'
           persist-credentials: true
           fetch-depth: 0
 
@@ -28,6 +28,6 @@ jobs:
       - name: Build and deploy Nikola
         run: |
           git config --global user.email "${{ secrets.USER_EMAIL }}"
-          git config --global user.name "Ary Kleinerman"
+          git config --global user.name "Roberto Alsina"
           nikola build
           nikola github_deploy -m "Published with Github Actions"
