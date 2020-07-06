@@ -25,7 +25,7 @@ SITE_URL = "https://sitio-mediadores.netlify.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
-BLOG_EMAIL = "roberto.alsina@gmail.com"
+BLOG_EMAIL = "encuentrodemediadores.emac@gmail.com"
 BLOG_DESCRIPTION = "Sitio de Encuentro de Mediadores Asociación Civil"  # (translatable)
 
 # Nikola is multilingual!
