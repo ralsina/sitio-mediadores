@@ -3,7 +3,7 @@ name: Nikola Publish
 on:
   push:
     branches:
-      - src
+      - master
 jobs:
   publish:
     runs-on: ubuntu-latest
