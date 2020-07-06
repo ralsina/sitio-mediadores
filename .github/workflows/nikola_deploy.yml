@@ -1,0 +1,33 @@
+name: Nikola Publish
+
+on:
+  push:
+    branches:
+      - src
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: 'src'
+          persist-credentials: true
+          fetch-depth: 0
+
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - name: Install Nikola
+        run: |
+          pip install --upgrade pip setuptools wheel
+          pip install --upgrade -r requirements.txt
+      - name: Build and deploy Nikola
+        run: |
+          git config --global user.email "${{ secrets.USER_EMAIL }}"
+          git config --global user.name "Ary Kleinerman"
+          nikola build
+          nikola github_deploy -m "Published with Github Actions"
