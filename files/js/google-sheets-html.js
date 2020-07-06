@@ -29,8 +29,9 @@ function handleQueryResponse(response) {
     data = response.getDataTable();
     fallos = []
 
-    for (var p in data.Nf) {
-        var fallo = data.Nf[p].c;
+    console.log(data);
+    for (var p in data.hg) {
+        var fallo = data.hg[p].c;
 
         var voces = (fallo[6] && fallo[6].v ? fallo[6].v : "") + (fallo[7]  && fallo[7].v ? ", " + fallo[7].v : "") + (fallo[8]  && fallo[8].v ? ", " + fallo[8].v : "")
         voces = voces.toLowerCase()
