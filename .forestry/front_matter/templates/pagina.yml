@@ -8,3 +8,5 @@ fields:
     required: false
   label: Título
   description: Título de la página
+pages:
+- pages/contacto-1.md
