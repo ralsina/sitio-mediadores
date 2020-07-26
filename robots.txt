@@ -1,4 +1,4 @@
-Sitemap: https://sitio-mediadores.netlify.com/sitemapindex.xml
+Sitemap: https://encuentrodemediadores.org/sitemapindex.xml
 
 User-Agent: *
-Host: sitio-mediadores.netlify.com
+Host: encuentrodemediadores.org
