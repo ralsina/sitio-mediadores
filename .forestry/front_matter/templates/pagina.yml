@@ -8,6 +8,3 @@ fields:
     required: false
   label: Título
   description: Título de la página
-- name: draft
-  type: boolean
-  label: Borrador
