@@ -27,5 +27,5 @@ build:
   preview_output_directory: "/nikola/output"
   preview_docker_image: dragas/nikola
   mount_path: "/nikola"
-  working_dir: "/srv"
+  working_dir: "/nikola"
   instant_preview_command: nikola build
