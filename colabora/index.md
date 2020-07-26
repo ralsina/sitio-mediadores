@@ -1,5 +1,6 @@
 ---
-title: 'COLABORÁ '
+title: BASE DE DATOS COLABORATIVA DE MATERIAL PARA MEDIADORES PREJUDICIALES
+
 ---
 ## Para colaborar aportando tus fallos, completa el siguiente formulario.
 
