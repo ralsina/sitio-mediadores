@@ -1038,7 +1038,7 @@ MARKDOWN_EXTENSIONS = ["fenced_code", "codehilite", "extra", "toc"]
 SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
-COPY_SOURCES = False
+COPY_SOURCES = True
 
 # Modify the number of Post per Index Page
 # Defaults to 10
