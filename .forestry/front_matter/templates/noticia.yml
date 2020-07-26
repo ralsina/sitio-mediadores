@@ -1,4 +1,19 @@
 ---
 label: Noticia
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Título
+  description: Título de la noticia
+- name: date
+  type: datetime
+  label: Fecha
+  description: Fecha de publicación
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
