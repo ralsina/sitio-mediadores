@@ -7,7 +7,7 @@ draft: false
 {{% slides "tercer-encuentro" %}}
 </div>
 
-\[TOC\]
+[TOC]
 
 # Conclusiones
 
@@ -17,7 +17,7 @@ Durante los días 29 y 30 de Noviembre de 2013 se llevó a cabo, en la sede de l
 
 A continuación compartimos con ustedes las conclusiones del mismo. Les recordamos a quienes no hayan tenido acceso oportunamente, que en nuestra página encontrarán también las conclusiones de los dos encuentros anteriores, que se llevaran a cabo en las ciudades de Santa Teresita (Septiembre del 2012) y Tandil (Abril 2013).
 
-El IV Encuentro está previsto para el mes de Septiembre del corriente año, y la organización estará a cargo de colegas de los Departamentos Judiciales de San Martín y San Isidro, con la colaboración del comité de seguimiento. Quienes tengan interés en colaborar, pueden escribirnos a nuestro correo (contacto@amaquilvbe.com.ar).
+El IV Encuentro está previsto para el mes de Septiembre del corriente año, y la organización estará a cargo de colegas de los Departamentos Judiciales de San Martín y San Isidro, con la colaboración del comité de seguimiento. Quienes tengan interés en colaborar, pueden escribirnos a nuestro correo (contacto@amaquilvbe.com.ar).-
 
 ## TERCER ENCUENTRO DE MEDIADORES PREJUDICIALES DE LA PROVINCIA DE BUENOS AIRES
 
