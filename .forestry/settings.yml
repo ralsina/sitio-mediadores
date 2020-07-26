@@ -14,6 +14,8 @@ sections:
   label: Noticias
   create: all
   match: "**/*.md"
+  templates:
+  - noticia
 upload_dir: images/uploads
 public_path: "/images/uploads"
 front_matter_path: ''
