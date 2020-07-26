@@ -1,4 +1,10 @@
 ---
 label: Página
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Título
+  description: Título de la página
