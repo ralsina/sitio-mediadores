@@ -9,6 +9,8 @@ sections:
   label: Páginas
   create: all
   match: "**/*.md"
+  templates:
+  - pagina
 - type: directory
   path: posts
   label: Noticias
