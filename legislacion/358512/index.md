@@ -1,0 +1,152 @@
+---
+title: '3585/12: Aprobación del Reglamento para la designación de Mediadores'
+linked: true
+---
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title>Acuerdo Reglamento Mediacion.doc</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="pdftohtml 0.36"/>
+<meta name="author" content="caaberastain"/>
+<meta name="date" content="2012-05-11T13:51:40+00:00"/>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<a name=1></a><b>&#160;</b><br/>
+<b>A&#160;C&#160;U&#160;E&#160;R&#160;D&#160;O&#160;&#160;Nº&#160;3585&#160;</b><br/>
+///Plata,&#160;3&#160;de&#160;mayo&#160;de&#160;2012.&#160;<br/>
+<b>VISTO:&#160;&#160;</b>La&#160;&#160;Ley&#160;&#160;13951,&#160;&#160;que&#160;&#160;instituye&#160;&#160;el&#160;&#160;Régimen&#160;&#160;de&#160;&#160;mediación&#160;<br/>
+como&#160;&#160;método&#160;&#160;alternativo&#160;&#160;de&#160;&#160;resolución&#160;&#160;de&#160;&#160;conflictos&#160;&#160;judiciales&#160;&#160;en&#160;&#160;el&#160;&#160;ámbito&#160;&#160;de&#160;&#160;la&#160;<br/>
+Provincia&#160;de&#160;Buenos&#160;Aires,&#160;<br/>
+El&#160;&#160;Decreto&#160;&#160;2530/10,&#160;&#160;que&#160;&#160;designa&#160;&#160;al&#160;&#160;Ministerio&#160;&#160;de&#160;&#160;Justicia&#160;&#160;y&#160;<br/>
+Seguridad&#160;&#160;como&#160;&#160;autoridad&#160;&#160;de&#160;&#160;aplicación&#160;&#160;de&#160;&#160;la&#160;&#160;mencionada&#160;&#160;ley,&#160;&#160;aprobando&#160;&#160;en&#160;&#160;su&#160;<br/>
+Anexo&#160;Único&#160;la&#160;Reglamentación&#160;de&#160;la&#160;misma,&#160;<br/>
+Los&#160;&#160;Decretos&#160;&#160;652/11,&#160;&#160;110/11&#160;&#160;y&#160;&#160;264/12,&#160;&#160;que&#160;&#160;postergaron&#160;<br/>
+sucesivamente&#160;&#160;la&#160;&#160;entrada&#160;&#160;en&#160;&#160;vigencia&#160;&#160;de&#160;&#160;la&#160;&#160;Reglamentación&#160;&#160;establecida&#160;&#160;en&#160;&#160;el&#160;<br/>
+artículo&#160;3º&#160;del&#160;Decreto&#160;2530/10,&#160;<br/>
+<b>Y&#160;CONSIDERANDO:&#160;</b>Que&#160;los&#160;artículos&#160;6&#160;y&#160;7&#160;de&#160;la&#160;Ley&#160;13.951&#160;<br/>
+disponen&#160;&#160;la&#160;&#160;intervención&#160;&#160;de&#160;&#160;la&#160;&#160;Receptoría&#160;&#160;de&#160;&#160;Expedientes&#160;&#160;en&#160;&#160;el&#160;&#160;sorteo&#160;&#160;de&#160;&#160;los&#160;<br/>
+mediadores.&#160;<br/>
+Que&#160;&#160;en&#160;&#160;virtud&#160;&#160;del&#160;&#160;informe&#160;&#160;oportunamente&#160;&#160;elevado&#160;&#160;a&#160;&#160;la&#160;<br/>
+Presidencia&#160;&#160;del&#160;&#160;Tribunal&#160;&#160;por&#160;&#160;la&#160;&#160;Secretaría&#160;&#160;de&#160;&#160;Planificación,<b>&#160;&#160;</b>se<b>&#160;&#160;</b>han&#160;&#160;realizado&#160;&#160;las&#160;<br/>
+adecuaciones&#160;&#160;necesarias&#160;&#160;en&#160;&#160;el&#160;&#160;sistema&#160;&#160;InfoRec&#160;&#160;de&#160;&#160;Ingreso&#160;&#160;y&#160;&#160;radicación&#160;&#160;de&#160;<br/>
+expedientes,&#160;<br/>
+Que&#160;&#160;resulta&#160;&#160;necesario&#160;&#160;reglamentar&#160;&#160;la&#160;&#160;intervención&#160;&#160;de&#160;&#160;las&#160;<br/>
+Receptorías&#160;&#160;de&#160;&#160;Expedientes,&#160;&#160;estableciendo&#160;&#160;pautas&#160;&#160;para&#160;&#160;la&#160;&#160;tramitación&#160;&#160;de&#160;&#160;las&#160;<br/>
+mediaciones&#160;previas&#160;obligatorias&#160;y&#160;optativas.&#160;<br/>
+Que&#160;&#160;de&#160;&#160;la&#160;&#160;misma&#160;&#160;manera,&#160;&#160;es&#160;&#160;imprescindible&#160;&#160;individualizar&#160;&#160;en&#160;&#160;el&#160;<br/>
+Anexo&#160;II&#160;del&#160;Acuerdo&#160;3397&#160;las&#160;materias&#160;que&#160;corresponde&#160;incluir&#160;en&#160;el&#160;Régimen&#160;de&#160;<br/>
+Mediación,&#160;en&#160;base&#160;a&#160;lo&#160;establecido&#160;por&#160;los&#160;Artículos&#160;4&#160;y&#160;5&#160;de&#160;la&#160;mencionada&#160;ley.&#160;<br/>
+Que,&#160;para&#160;&#160;una&#160;&#160;mejor&#160;&#160;tramitación&#160;&#160;y&#160;&#160;reflejo&#160;&#160;de&#160;&#160;la&#160;&#160;carga&#160;&#160;de&#160;&#160;trabajo&#160;<br/>
+en&#160;&#160;los&#160;&#160;órganos&#160;&#160;judiciales,&#160;&#160;resulta&#160;&#160;conveniente&#160;&#160;contar&#160;&#160;con&#160;&#160;información&#160;&#160;respecto&#160;&#160;de&#160;<br/>
+las&#160;&#160;causas&#160;&#160;en&#160;&#160;que&#160;&#160;las&#160;&#160;partes&#160;&#160;hayan&#160;&#160;alcanzado&#160;&#160;un&#160;&#160;acuerdo&#160;&#160;antes&#160;&#160;de&#160;&#160;llegar&#160;&#160;a&#160;&#160;la&#160;<br/>
+instancia&#160;judicial,&#160;&#160;<br/>
+<hr/>
+<a name=2></a><b>POR&#160;&#160;ELLO</b>,&#160;&#160;la&#160;&#160;Suprema&#160;&#160;Corte&#160;&#160;de&#160;&#160;Justicia,&#160;&#160;en&#160;&#160;uso&#160;&#160;de&#160;&#160;sus&#160;<br/>
+atribuciones,&#160;<br/>
+&#160;<br/>
+<b>A&#160;C&#160;U&#160;E&#160;R&#160;D&#160;A:&#160;</b><br/>
+<b>Artículo&#160;&#160;1º:&#160;&#160;</b>Aprobar&#160;&#160;el&#160;&#160;Reglamento&#160;&#160;para&#160;&#160;la&#160;&#160;designación&#160;&#160;de&#160;<br/>
+Mediadores&#160;&#160;(Ley&#160;13.951),&#160;cuyo&#160;texto&#160;forma&#160;parte&#160;del&#160;presente&#160;como&#160;Anexo&#160;I&#160;&#160;y&#160;el&#160;<br/>
+Anexo&#160;A&#160;que&#160;individualiza&#160;las&#160;materias&#160;incluidas&#160;en&#160;el&#160;Régimen.&#160;<br/>
+<b>Artículo&#160;&#160;2º:&#160;&#160;</b>Incorporar&#160;&#160;al&#160;&#160;Anexo&#160;&#160;II&#160;&#160;del&#160;&#160;Acuerdo&#160;&#160;3397,&#160;&#160;las&#160;<br/>
+siguientes&#160;&#160;materias:&#160;&#160;código&#160;&#160;415,&#160;&#160;‘Homologación&#160;&#160;de&#160;&#160;Mediación&#160;&#160;Ley&#160;&#160;13.951’,&#160;<br/>
+Categoría&#160;5,&#160;Subcategoría&#160;5&#160;&#160;y&#160;código&#160;416,&#160;‘Ejecución&#160;de&#160;Honorarios&#160;de&#160;Mediación&#160;<br/>
+Ley&#160;13.951’,&#160;Categoría&#160;5,&#160;Subcategoría&#160;5.&#160;<br/>
+<b>Artículo&#160;3°:&#160;</b>Disponer&#160;la&#160;&#160;vigencia&#160;del&#160;Reglamento&#160;para&#160;el&#160;&#160;sorteo&#160;<br/>
+de&#160;Mediadores&#160;a&#160;partir&#160;del&#160;14&#160;de&#160;mayo&#160;de&#160;2012.&#160;<br/>
+<b>Artículo&#160;4°:&#160;</b>Encomendar&#160;a&#160;la&#160;Secretaría&#160;de&#160;Planificación&#160;realizar&#160;<br/>
+las&#160;&#160;gestiones&#160;&#160;necesarias&#160;para&#160;elaborar&#160;y&#160;proponer&#160;a&#160;este&#160;&#160;Tribunal&#160;convenios&#160;con&#160;el&#160;<br/>
+Ministerio&#160;de&#160;Justicia&#160;y&#160;Seguridad&#160;para&#160;el&#160;mejor&#160;funcionamiento&#160;del&#160;régimen.&#160;<br/>
+<b>Artículo&#160;&#160;5°:&#160;&#160;</b>Requerir&#160;&#160;a&#160;&#160;la&#160;&#160;Subsecretaría&#160;&#160;de&#160;&#160;Tecnología&#160;<br/>
+Informática&#160;&#160;que&#160;&#160;disponga&#160;&#160;los&#160;&#160;recursos&#160;&#160;necesarios&#160;&#160;para&#160;&#160;la&#160;&#160;automatización&#160;&#160;del&#160;<br/>
+intercambio&#160;de&#160;información&#160;con&#160;el&#160;Ministerio&#160;de&#160;Justicia&#160;y&#160;Seguridad.&#160;<br/>
+<b>Artículo&#160;6°:&#160;</b>Encomendar&#160;&#160;a&#160;&#160;la&#160;&#160;Dirección&#160;&#160;General&#160;&#160;de&#160;&#160;Receptorías&#160;<br/>
+de&#160;Expedientes&#160;y&#160;Archivos&#160;la&#160;debida&#160;difusión&#160;y&#160;capacitación&#160;del&#160;nuevo&#160;Régimen&#160;en&#160;<br/>
+cada&#160;una&#160;de&#160;las&#160;Receptorías&#160;de&#160;Expedientes.&#160;<br/>
+<b>Artículo&#160;&#160;7º:</b>&#160;&#160;Dar&#160;&#160;intervención&#160;&#160;al&#160;&#160;Area&#160;&#160;de&#160;&#160;Estadísticas&#160;&#160;de&#160;&#160;la&#160;<br/>
+Secretaría&#160;&#160;de&#160;&#160;Planificación&#160;&#160;a&#160;&#160;fin&#160;&#160;de&#160;&#160;establecer&#160;&#160;parámetros&#160;&#160;e&#160;&#160;indicadores&#160;&#160;que&#160;<br/>
+permitan&#160;el&#160;monitoreo&#160;del&#160;régimen&#160;de&#160;mediación&#160;en&#160;relación&#160;a&#160;su&#160;funcionamiento&#160;y&#160;<br/>
+eficacia.&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+<hr/>
+<a name=3></a><b>Artículo&#160;8º:</b>&#160;Regístrese,&#160;comuníquese&#160;y&#160;publíquese.&#160;<br/>
+&#160;<br/>
+Fdo.&#160;&#160;:&#160;&#160;EDUARDO&#160;&#160;NESTOR&#160;&#160;DE&#160;&#160;LAZZARI&#160;&#160;-&#160;&#160;HECTOR&#160;&#160;NEGRI&#160;&#160;-&#160;&#160;DANIEL&#160;<br/>
+FERNANDO&#160;SORIA&#160;-&#160;JUAN&#160;CARLOS&#160;HITTERS&#160;&#160;&#160;-&#160;LUIS&#160;ESTEBAN&#160;GENOUD&#160;<br/>
+HILDA&#160;KOGAN&#160;-&#160;EDUARDO&#160;JULIO&#160;PETTIGIANI&#160;.&#160;---------------------------------&#160;<br/>
+Ante&#160;mi:&#160;NESTOR&#160;TRABUCCO&#160;-&#160;Secretario&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+<b>&#160;</b><br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>
+&#160;<br/>&#160;<br/>
+<hr/>
+</body>
+</html>

@@ -1,0 +1,54 @@
+---
+title: '2251/12: Inscripción on line de aspirantes: 27/11/2012 hasta 20/12/2012'
+linked: true
+---
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+<title></title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name="generator" content="pdftohtml 0.36"/>
+<meta name="date" content="2013-09-24T15:16:54+00:00"/>
+<style type="text/css">
+<!--
+.xflip {
+    -moz-transform: scaleX(-1);
+    -webkit-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+    filter: fliph;
+}
+.yflip {
+    -moz-transform: scaleY(-1);
+    -webkit-transform: scaleY(-1);
+    -o-transform: scaleY(-1);
+    transform: scaleY(-1);
+    filter: flipv;
+}
+.xyflip {
+    -moz-transform: scaleX(-1) scaleY(-1);
+    -webkit-transform: scaleX(-1) scaleY(-1);
+    -o-transform: scaleX(-1) scaleY(-1);
+    transform: scaleX(-1) scaleY(-1);
+    filter: fliph + flipv;
+}
+-->
+</style>
+</head>
+<body bgcolor="#A0A0A0" vlink="blue" link="blue">
+<a name=1></a><img src="225112-1_1.jpg"/><br/>
+<hr/>
+<a name=2></a><img src="225112-2_1.jpg"/><br/>
+<hr/>
+<a name=3></a><img src="225112-3_1.jpg"/><br/>
+<hr/>
+<a name="outline"></a><h1>Document Outline</h1>
+<ul>
+<li><a href="225112.html#1">Resolucion 2251 hoja 1</a></li>
+<li><a href="225112.html#2">Resolucion 2251 hoja 2</a></li>
+<li><a href="225112.html#3">Resolucion 2251 hoja 3</a></li>
+</ul>
+<hr/>
+</body>
+</html>
