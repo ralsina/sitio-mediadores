@@ -1,6 +1,6 @@
 ---
 title: 'Charla:  La Mediación y las audiencias remotas vistas por un Juez'
-date: 2020-07-09T03:00:00Z
+date: 2020-07-16T03:00:00Z
 draft: false
 
 ---
