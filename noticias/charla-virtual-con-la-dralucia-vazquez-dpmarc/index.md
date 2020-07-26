@@ -4,7 +4,6 @@ date: 2020-06-01T03:00:00Z
 draft: false
 
 ---
-
 Directora de la Dirección Provincial de Métodos Alternativos de Resolución de Conflictos. a cargo del Instituto de Reformas Legislativas CAMDP (viernes 29/5/20)  [ENCUENTRO DE MEDIADORES](https://www.facebook.com/encuentrosdemediadores)·[LUNES, 1 DE JUNIO DE 2020](https://www.facebook.com/notes/encuentro-de-mediadores/charla-virtual-con-la-dra-lucia-vazquez/1402972403222928/)·
 
 ### ASPECTOS CENTRALES
@@ -32,7 +31,7 @@ Directora de la Dirección Provincial de Métodos Alternativos de Resolución de
 
 * comento el trabajo que se viene realizando en la sistematizacion de la información que se encontraba dispersa en distintas dependencias y soportes, para reconstruir los legajos de los mediadores, y reactivar el cobro de multas. Se debe reestudiar el tema de sumarios y sanciones.
 
-Un dato interesante fue cuando le preguntaron sobre la naturaleza jurídica del mediador y la mediación, se explayo sobre las diferentes teorías, y entre ellas menciono la sostenida por EMAC de que se trata de una función publica de gestión privada.   
+Un dato interesante fue cuando le preguntaron sobre la naturaleza jurídica del mediador y la mediación, se explayo sobre las diferentes teorías, y entre ellas menciono la sostenida por EMAC de que se trata de una función publica de gestión privada.  
 Por ultimo contesto preguntas que le acercaron los concurrentes, se comprometió a responder las que habían quedado pendientes.
 
 ###### **Vemos con satisfacción que la DPMARC tenga en agenda y este abordando las problemáticas que desde hace mucho tiempo** [**Encuentro de Mediadores**](https://www.facebook.com/encuentrosdemediadores?eid=ARAS1ctUNOJEvH9SQk70NAYqHSAIUKLGZMcVL2Gr48tdx9rEq11r2u8MnG0Asp1jGp_Vvx1U9VHwNKGL "Encuentro de Mediadores") **y los mediadores venimos reclamando.** Desde nuestra Asociación, seguiremos aportando nuestra experiencia, ideas y propuestas en favor de la mediación y los mediadores.
