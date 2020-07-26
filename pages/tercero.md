@@ -1,17 +1,18 @@
 ---
 title: Tercer Encuentro
+
 ---
 <div style="float:right; width: 50%;">
 {{% slides "tercer-encuentro" %}}
 </div>
 
-[TOC]
+\[TOC\]
 
 # Conclusiones
 
 ENCUENTRO DE MEDIADORES·VIERNES, 23 DE DICIEMBRE DE 2016
 
- Durante los días 29 y 30 de Noviembre de 2013 se llevó a cabo, en la sede de la Universidad Nacional de La Matanza (U.N.L.M.), el III ENCUENTRO DE MEDIADORES ABOGADOS DE LA PROVINCIA DE BUENOS AIRES.
+Durante los días 29 y 30 de Noviembre de 2013 se llevó a cabo, en la sede de la Universidad Nacional de La Matanza (U.N.L.M.), el III ENCUENTRO DE MEDIADORES ABOGADOS DE LA PROVINCIA DE BUENOS AIRES.
 
 A continuación compartimos con ustedes las conclusiones del mismo. Les recordamos a quienes no hayan tenido acceso oportunamente, que en nuestra página encontrarán también las conclusiones de los dos encuentros anteriores, que se llevaran a cabo en las ciudades de Santa Teresita (Septiembre del 2012) y Tandil (Abril 2013).
 
@@ -35,8 +36,6 @@ A propuesta de los presentes se consensuó una modalidad de trabajo diferente a 
 Mención especial al Comité de Seguimiento del Segundo Encuentro, por su colaboración desinteresada, desde ya gracias por su esfuerzo.
 
 ## CONCLUSIONES:1) NATURALEZA JURÍDICA DE LA MEDIACIÓN, DEL MEDIADOR Y DEL MEDIADOR PREJUDICIAL
-
-\*\*
 
 Conclusión: “La actividad que despliega el Mediador Prejudicial en la Mediación Previa Obligatoria es un SERVICIO PÚBLICO DE GESTIÓN PRIVADA y sus actos son atacables por vía de la redargución de falsedad.”
 
@@ -97,7 +96,7 @@ También se analizó profundamente, en el seno de este Tercer Encuentro, si nues
 
 Resaltamos los siguientes párrafos del trabajo mencionado, en el que se sintetiza la naturaleza jurídica del Mediador destacándose la función PREJUDICIAL de su actuar:
 
-“( …) cuando hablamos de un Mediador Pre-Judicial (en el ámbito de la Provincia de Buenos Aires), nos estamos refiriendo a ABOGADO, que tiene una capacitación específica en comunicación y Resolución de Conflictos, que bajo mandato legal (emanado del Poder Ejecutivo, a través del Ministerio de Seguridad y Justicia), actúa en una instancia PRE-JUDICIAL. \[ … ] Los mediadores no son parte del proceso judicial. Ayudan a las partes en conflicto a generar un canal de diálogo donde poder encontrar un acuerdo de mutua satisfacción sus intereses. \[ … ] La función del mediador es PRE-JUDICIAL no sólo porque está ANTES del inicio de cualquier litigio, sino porque fundamentalmente lo que busca es EVITARLO. No forma parte del sistema judicial aunque en él actúen abogados, y aunque los acuerdos (o la falta de ellos) puedan luego ser usados luego ante la Justicia. \[ … ] La división de poderes sigue existiendo, y hoy el Poder Ejecutivo ha abierto una instancia distinta a la judicial, donde lo que le brinda a la sociedad son las herramientas y los recursos para trabajar la conflictividad social.”.-
+“( …) cuando hablamos de un Mediador Pre-Judicial (en el ámbito de la Provincia de Buenos Aires), nos estamos refiriendo a ABOGADO, que tiene una capacitación específica en comunicación y Resolución de Conflictos, que bajo mandato legal (emanado del Poder Ejecutivo, a través del Ministerio de Seguridad y Justicia), actúa en una instancia PRE-JUDICIAL. \[ … \] Los mediadores no son parte del proceso judicial. Ayudan a las partes en conflicto a generar un canal de diálogo donde poder encontrar un acuerdo de mutua satisfacción sus intereses. \[ … \] La función del mediador es PRE-JUDICIAL no sólo porque está ANTES del inicio de cualquier litigio, sino porque fundamentalmente lo que busca es EVITARLO. No forma parte del sistema judicial aunque en él actúen abogados, y aunque los acuerdos (o la falta de ellos) puedan luego ser usados luego ante la Justicia. \[ … \] La división de poderes sigue existiendo, y hoy el Poder Ejecutivo ha abierto una instancia distinta a la judicial, donde lo que le brinda a la sociedad son las herramientas y los recursos para trabajar la conflictividad social.”.-
 
 En síntesis, los Mediadores Prejudiciales, no ponemos nuestro saber al servicio del juez (como es el caso de los peritos) para ilustrarlo en algún tema que sea de nuestro conocimiento, ni ponemos nuestros recursos al servicio de la justicia (como lo hacen sus auxiliares). Los Mediadores que intervenimos en la MPO, ponemos nuestros recursos (herramientas) al servicio de las partes, les ofrecemos un espacio de escucha, de diálogo o negociación, y eventualmente de acuerdo, fuera del ámbito Judicial (en una instancia anterior a aquella en que el Estado interviene ejerciendo el poder jurisdiccional), para que intenten una solución.-
 
@@ -163,15 +162,15 @@ Incluso el proyecto de modificación del art. 4 de la Ley 13951 redactado por la
 
 ARTICULO 4º: Quedan exceptuados de la Mediación:
 
-1. Causas Penales, las que regirán de acuerdo a la Ley 13.433, excepto las acciones civiles resarcitorias tramitadas en fuero penal, en cuyo supuesto el organismo interviniente derivará a mediación la cuestión patrimonial;
-2. Acciones de separación personal y divorcio, nulidad de matrimonio, filiación y patria potestad, guardas y adopciones, con excepción de las cuestiones patrimoniales derivadas de estas. El juez deberá dividir los procesos, derivando a mediación la parte patrimonial;
-3. Procesos de declaración de incapacidad y de rehabilitación;
-4. Causas en las que el Estado Nacional, Provincial, Municipal o los Entes Descentralizados sean parte, con excepción de bancos y entes financieros estatales en su relación con sus clientes como particulares;
-5. Amparo, Habeas Corpus e interdictos no contemplados en el art. 5;
-6. Medidas cautelares hasta que se encuentren firmes;
-7. Diligencias preliminares y prueba anticipada;
-8. Juicios sucesorios hasta la declaratoria de herederos y voluntarios.
-9. Concursos preventivos y quiebras.
+ 1. Causas Penales, las que regirán de acuerdo a la Ley 13.433, excepto las acciones civiles resarcitorias tramitadas en fuero penal, en cuyo supuesto el organismo interviniente derivará a mediación la cuestión patrimonial;
+ 2. Acciones de separación personal y divorcio, nulidad de matrimonio, filiación y patria potestad, guardas y adopciones, con excepción de las cuestiones patrimoniales derivadas de estas. El juez deberá dividir los procesos, derivando a mediación la parte patrimonial;
+ 3. Procesos de declaración de incapacidad y de rehabilitación;
+ 4. Causas en las que el Estado Nacional, Provincial, Municipal o los Entes Descentralizados sean parte, con excepción de bancos y entes financieros estatales en su relación con sus clientes como particulares;
+ 5. Amparo, Habeas Corpus e interdictos no contemplados en el art. 5;
+ 6. Medidas cautelares hasta que se encuentren firmes;
+ 7. Diligencias preliminares y prueba anticipada;
+ 8. Juicios sucesorios hasta la declaratoria de herederos y voluntarios.
+ 9. Concursos preventivos y quiebras.
 10. DEROGADO.
 11. Causas que tramiten ante los Tribunales Laborales.
 12. Causas que tramiten ante los Juzgados de Paz Letrados, salvo las incluidas en su competencia de naturaleza Civil y Comercial y en tanto no se hallen excluidas por los incisos anteriores.
