@@ -2,7 +2,7 @@
 title: Inicio
 
 ---
-## [**Conocenos**](/quienes-somos/)**.                    [**Colaborá**](/colabora/).       [**Consultá__](/jurisprudencia/). **[**Contactanos. *](/contacto/)
+## [**Conocenos**](/quienes-somos/).                    [**Colaborá**](/colabora/).       [**Consultá**](/jurisprudencia/). [**Contactanos.**](/contacto/)
 
 ![](/images/uploads/portada-facebook-1.png)
 
