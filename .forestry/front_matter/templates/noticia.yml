@@ -20,3 +20,5 @@ fields:
 - name: draft
   type: boolean
   label: Borrador
+pages:
+- posts/charla-la-mediacion-y-las-audiencias-remotas-vistas-por-un-juez.md
