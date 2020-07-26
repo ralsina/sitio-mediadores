@@ -1,6 +1,6 @@
 ---
 title: Tercer Encuentro
-draft: true
+draft: false
 
 ---
 <div style="float:right; width: 50%;">
