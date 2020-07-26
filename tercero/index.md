@@ -7,7 +7,7 @@ draft: false
 {{% slides "tercer-encuentro" %}}
 </div>
 
-\[TOC\]
+[TOC]
 
 # Conclusiones
 
