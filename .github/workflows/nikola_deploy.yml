@@ -29,6 +29,7 @@ jobs:
         run: |
           git config --global user.email "${{ secrets.USER_EMAIL }}"
           git config --global user.name "Roberto Alsina"
+          echo "FIXING TOCS"
           sed -i 's/\\\\\[TOC\\\]/[TOC]/g' pages/*md posts/*md
           nikola build
           nikola github_deploy -m "Published with Github Actions"
