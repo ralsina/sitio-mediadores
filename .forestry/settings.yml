@@ -28,4 +28,4 @@ build:
   preview_docker_image: dragas/nikola
   mount_path: "/nikola"
   working_dir: "/nikola"
-  instant_preview_command: nikola build
+  instant_preview_command: nikola auto
