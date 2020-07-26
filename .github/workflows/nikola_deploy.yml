@@ -32,7 +32,7 @@ jobs:
           echo "FIXING TOCS"
           grep TOC pages/*md
           echo "-------------"
-          "sed -i 's/\\\\\[TOC\\\]/[TOC]/g' pages/*md posts/*md"
+          sed -i 's/\\\\\\\\\\[TOC\\\\\\]/[TOC]/g' pages/*md posts/*md
           grep TOC pages/*md
           echo "-------------"
           nikola build
