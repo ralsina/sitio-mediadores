@@ -31,6 +31,6 @@ jobs:
           git config --global user.name "Roberto Alsina"
           nikola build
           echo "FIXING TOCS"
-          sed -i 's/\\\\\[TOC\\\]/[TOC]/g' pages/*md posts/*md
+          sed -i 's/^.*TOC*$/[TOC]/g' pages/*md posts/*md
           nikola build
           nikola github_deploy -m "Published with Github Actions"
