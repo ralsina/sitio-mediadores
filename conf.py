@@ -21,7 +21,7 @@ BLOG_AUTHOR = "Encuentro de Mediadores"  # (translatable)
 BLOG_TITLE = "Encuentro de Mediadores"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "https://sitio-mediadores.netlify.com/"
+SITE_URL = "https://encuentrodemediadores.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://example.com/"
@@ -1143,17 +1143,6 @@ $(document).ready(function() {
     });
 });
 </script>
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 """
 
 # If you prefer a Google search form, here's an example that should just work:
@@ -1188,9 +1177,6 @@ USE_CDN = False
 # Extra things you want in the pages HEAD tag. This will be added right
 # before </head>
 # (translatable)
-EXTRA_HEAD_DATA += (
-    '<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>'
-)
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
