@@ -25,7 +25,7 @@ use_front_matter_path: false
 file_template: ":filename:"
 build:
   preview_output_directory: "/nikola/output"
-  install_dependencies_command: npm install
+  install_dependencies_command: pip3 install nikola[extras]
   preview_docker_image: dragas/nikola
   mount_path: "/nikola"
   working_dir: "/nikola"
