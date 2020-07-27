@@ -1,5 +1,5 @@
 ---
-title: Inicio
+title: INICIO
 
 ---
 ![](/images/uploads/portada-facebook-1.png)
