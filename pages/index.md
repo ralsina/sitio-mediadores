@@ -2,7 +2,7 @@
 title: INICIO
 
 ---
-## [**Conocenos**](/quienes-somos/).  [**Colaborá**](/colabora/).
+##  [**Conocenos**](/quienes-somos/).  [**Colaborá**](/colabora/).
 
 ## [**Consultá**](/jurisprudencia/).   [**Contactanos.**](/contacto/)
 
