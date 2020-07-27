@@ -6,6 +6,10 @@ title: Doctrina
 
 ### VIDEOS DE CHARLAS, CONFERENCIAS, TALLERES
 
+[LA MEDIACIÓN, LOS MEDIADORES Y LA MIRADA DE UN JUEZ](https://rtdmlp3y7yu6uq.instant.forestry.io/noticias/charla-la-mediacion-y-las-audiencias-remotas-vistas-por-un-juez/index.html# "LA MEDIACIÓN, AUDIENCIAS VRTUALES Y LA MIRADA DE UN JUEZ") 
+
+Con­ver­sación con el Dr. Pau­lo A. Ma­res­ca, ti­tu­lar del Juz­ga­do 9 de 1º Ins­tan­cia en lo Ci­vil y Co­mer­cial del De­par­ta­men­to Ju­di­cial de Ge­ne­ral San Mar­tí­n,
+
 ### NOTAS Y ARTÍCULOS
 
 [**La confusión en mediación** - Dra. Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
