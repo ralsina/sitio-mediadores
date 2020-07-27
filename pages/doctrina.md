@@ -10,6 +10,10 @@ title: Doctrina
 
 Con­ver­sación con el Dr. Pau­lo A. Ma­res­ca, ti­tu­lar del Juz­ga­do 9 de 1º Ins­tan­cia en lo Ci­vil y Co­mer­cial del De­par­ta­men­to Ju­di­cial de Ge­ne­ral San Mar­tí­n,
 
+Honorarios de Mediación, ejecución, nulidad de sentencias y apelación Charla del 17/7/20
+
+Primera parte  Ejecución de Honorarios de Mediación a cargo del Dr. Juan Manuel Pereyra, mediador de Lomas de Zamora.
+
 ### NOTAS Y ARTÍCULOS
 
 [**La confusión en mediación** - Dra. Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
