@@ -1,7 +1,12 @@
 ---
 title: Doctrina
+
 ---
 ![null](/images/uploads/doctrina.jpg)
+
+### VIDEOS DE CHARLAS, CONFERENCIAS, TALLERES
+
+### NOTAS Y ARTÍCULOS
 
 [**La confusión en mediación** - Dra. Juana Dioguardi](/doctrina/la-confusion-en-mediacion/index.html)
 
