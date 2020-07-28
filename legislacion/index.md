@@ -43,13 +43,13 @@ DECRETO NACIONAL 2.536/2015 Mediación y Conciliación. . Creación de una unida
 
 ### Disposiciones
 
- Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.	 
+ Disp. 597/17	Disposición 597/17 - Nuevos mediadores matriculados.
 
-Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.	 
+Disp. 365/17	Disposición 365/17 - Nuevos mediadores matriculados.
 
 Disp. 380/17	[Capacitacion Sistema MEDIARE	 ](http://www.mediaciones-ba.org.ar/documentos/disposiciones/CAPACITACION_MEDIARE.pdf)
 
-Disposición 276/17 [Excepcion Capacitacion para Mediacion Familiar](http://www.mediaciones-ba.org.ar/documentos/disposiciones/Disp-276-17.pdf)	
+Disposición 276/17 [Excepcion Capacitacion para Mediacion Familiar](http://www.mediaciones-ba.org.ar/documentos/disposiciones/Disp-276-17.pdf)
 
 [Mediación Familiar	Disposición respecto a la Mediación Familiar	 ](http://www.mediaciones-ba.org.ar/documentos/disposiciones/MEDIACION%20FAMILIAR_3.pdf)
 
@@ -63,7 +63,7 @@ Disposición 383/14: [Reapertura inscripción 18 al 25/08/14](/legislacion/38314
 
 Disposición 336/14: [Aumento de horas de capacitación anual a 30](/legislacion/33614)
 
-Disposición 131/14 [Caducidad sello mediadores.](/legislacion/13114) 
+Disposición 131/14 [Caducidad sello mediadores.](/legislacion/13114)
 
 Disposición 130/14 [Modificacion del sistema Mediare](http://www.mediaciones-ba.org.ar/documentos/disposiciones/D_21042014_2.pdf)
 
@@ -79,7 +79,7 @@ Disposición 497/13: [**Prórroga hasta 28/2/14 pago matrícula Vencimiento pago
 
 Disposición 405/13: [Nuevo sello de mediadores](/legislacion/40513)
 
-Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://sitio-mediadores.netlify.com/legislacion/24513/index.html). 
+Disposición 245/13: [**Recepción de documentación en los colegios. Exime guardias**](https://encuentrodemediadores.org/legislacion/24513/index.html).
 
 Disposición N°193 /13 [**Acuerdo conformado por fuera del proceso.** ](/legislacion/acuerdo-conformado-por-fuera-del-proceso)
 
