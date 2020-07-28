@@ -1,58 +1,41 @@
-/*!
- *
- * Google Sheets To HTML v0.9a
- *
- * To use, simply replace the "tq?key=" value in the
- * URL below with your own unique Google document ID
- *
- * The Google document's sharing must be set to public
- *
- */
 
-google.load('visualization', '1', {
-    packages: ['table']
+
+
+var data;
+$.ajax({
+  type: "GET",
+  url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTl-8kXBurz0AWxUQnI2JyMJcDJ4XsGtGgZcjwcchhqAXwJuPoXjPVsDl4gocdejBTLJe6QGgSlPeYp/pub?gid=0&single=true&output=csv",
+  dataType: "text",
+  success: function(response)
+  {
+    data = $.csv.toArrays(response);
+    handleData(data);
+  }
 });
-var visualization;
 
-function drawVisualization() {
-    var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=1AS_fsPWZiHqagc9RONpA9ZN15dvyHm1BylgMYTudgcg&output=html&usp=sharing');
-    query.setQuery('SELECT C, D, E, F, K, J, G, H, I');
-    query.send(handleQueryResponse);
-}
 
-function handleQueryResponse(response) {
-    if (response.isError()) {
-        alert('Error accediendo a los datos: ' + response.getMessage() + ' ' + response.getDetailedMessage());
-        return;
-    }
-    container = $("#datos")
-    data = response.getDataTable();
+// google.load('visualization', '1', {
+//     packages: ['table']
+// });
+// var visualization;
+
+// function drawVisualization() {
+//     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=1AS_fsPWZiHqagc9RONpA9ZN15dvyHm1BylgMYTudgcg&output=html&usp=sharing');
+//     query.setQuery('SELECT C, D, E, F, K, J, G, H, I');
+//     query.send(handleQueryResponse);
+// }
+
+function handleData(data) {
     fallos = []
 
-    console.log(data);
-    for (var p in data.hg) {
-        var fallo = data.hg[p].c;
-
-        var voces = (fallo[6] && fallo[6].v ? fallo[6].v : "") + (fallo[7]  && fallo[7].v ? ", " + fallo[7].v : "") + (fallo[8]  && fallo[8].v ? ", " + fallo[8].v : "")
-        voces = voces.toLowerCase()
-
-        datos = [
-            $("<a>", {
-                href: fallo[4] ? fallo[4].v : "#",
-                text: fallo[0] ? fallo[0].v.toUpperCase() : "n/a"
-            }),
-            $('<br>'),
-            $('<p>').append(fallo[5] ? fallo[5].v : ""),
-            $('<p>').append(voces ? "<b>Voces:</b> " + voces: "" )
-        ]
-
+    $.each(data, function( index, row ) {
         fallos.push({
-            "Fecha": fallo[3] ? fallo[3].f : "n/a",
-            "DJ": fallo[2] ? fallo[2].v : "n/a",
-            "Juzgado": fallo[1] ? fallo[1].v : "n/a",
+            "Fecha": row[3],
+            "DJ": row[2],
+            "Juzgado": row[1],
             "Datos": datos
         })
-    }
+    });
 
     $("#datos").jsGrid({
         width: "100%",
@@ -132,4 +115,3 @@ function handleQueryResponse(response) {
     });
     $("#datos").jsGrid("sort", { field: "Datos", order: "desc" });
 }
-google.setOnLoadCallback(drawVisualization);

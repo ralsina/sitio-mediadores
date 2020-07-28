@@ -6,14 +6,12 @@
 <%inherit file="post.tmpl"/>
 
 <%block name="extra_head">
- <script src="https://www.google.com/jsapi" type="text/javascript"></script>
-<link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.css" />
-  <link type="text/css" rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid-theme.min.css" />
- </%block>
+</%block>
 
 <%block name="extra_js">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+    <script src="/js/google-sheets-html.js" type="text/javascript"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jsgrid/1.5.3/jsgrid.min.js"></script>
-  <script src="/js/google-sheets-html.js" type="text/javascript"></script>
 </%block>
 
 <%block name="content">

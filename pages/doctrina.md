@@ -20,7 +20,7 @@ Primera parte  Ejecución de Honorarios de Mediación a cargo del Dr. Juan Manue
 
 [**DETECCIÓN TEMPRANA DE LA VIOLENCIA.**](/doctrina/deteccion-temprana-de-la-violencia/index.html)  Dr. Enrique A. Laplane
 
-[**Fundamentos de la Ley 13951**](https://sitio-mediadores.netlify.com/doctrina/fundamentos-de-la-ley-13951/index.html)
+[**Fundamentos de la Ley 13951**](https://encuentrodemediadores.org/doctrina/fundamentos-de-la-ley-13951/index.html)
 
 [**La Mediación en el Ámbito Escolar**](/doctrina/la-mediacion-en-el-ambito-escolar/index.html) Dr. Ruben Veiga
 
