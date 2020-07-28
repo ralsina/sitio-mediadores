@@ -13,29 +13,33 @@ $.ajax({
   }
 });
 
-
-// google.load('visualization', '1', {
-//     packages: ['table']
-// });
-// var visualization;
-
-// function drawVisualization() {
-//     var query = new google.visualization.Query('https://spreadsheets.google.com/tq?key=1AS_fsPWZiHqagc9RONpA9ZN15dvyHm1BylgMYTudgcg&output=html&usp=sharing');
-//     query.setQuery('SELECT C, D, E, F, K, J, G, H, I');
-//     query.send(handleQueryResponse);
-// }
-
 function handleData(data) {
     fallos = []
+    data.shift()
 
     $.each(data, function( index, row ) {
+        var voces = row[6] + " " + row[7] + " " + row[8]
+        voces = voces.toLowerCase()
+
+        datos = [
+            $("<a>", {
+                href: row[10],
+                text: row[2] ? row[2] : "n/a"
+            }),
+            $('<br>'),
+            $('<p>').append(row[9] ? row[9] : ""),
+            $('<p>').append(voces ? "<b>Voces:</b> " + voces: "" )
+        ]
+        // console.log(datos)
+
         fallos.push({
-            "Fecha": row[3],
-            "DJ": row[2],
-            "Juzgado": row[1],
+            "Fecha": row[5],
+            "DJ": row[4],
+            "Juzgado": row[3],
             "Datos": datos
         })
     });
+
 
     $("#datos").jsGrid({
         width: "100%",
