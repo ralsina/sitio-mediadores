@@ -4,7 +4,7 @@
 var data;
 $.ajax({
   type: "GET",
-  url: "https://docs.google.com/spreadsheets/d/1AS_fsPWZiHqagc9RONpA9ZN15dvyHm1BylgMYTudgcg/pub?output=csv",
+  url: "https://docs.google.com/spreadsheets/d/1AS_fsPWZiHqagc9RONpA9ZN15dvyHm1BylgMYTudgcg/gviz/tq?tqx=out:csv&sheet=Sheet1",
   dataType: "text",
   success: function(response)
   {
