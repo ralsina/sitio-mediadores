@@ -4,7 +4,6 @@ date:
 draft: false
 
 ---
-
 ### "Hablando con Jueces sobre Mediación" Miércoles 26/8/2020
 
 Jueces:  Rodrigo Bionda (AZUL) Paulo Maresca (SAN MARTIN)
