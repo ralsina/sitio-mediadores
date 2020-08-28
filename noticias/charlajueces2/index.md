@@ -4,12 +4,13 @@ date: 2020-08-27T03:00:00Z
 draft: false
 
 ---
-#### Ciclo de Charlas gratuitas de EMAC  
+#### Ciclo de Charlas gratuitas de EMAC
+
 "Hablando con Jueces sobre Mediación" Miércoles 26/8/2020
 
-##### Jueces:  
+##### Jueces:
 
-##### Rodrigo Bionda (AZUL) 
+##### Rodrigo Bionda (AZUL)
 
 ##### Paulo Maresca (SAN MARTIN)
 
