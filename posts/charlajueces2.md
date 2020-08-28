@@ -1,7 +1,7 @@
 ---
 title: '"Hablando con Jueces sobre Mediación"'
 date: 2020-08-27T03:00:00Z
-draft: true
+draft: false
 
 ---
 #### Ciclo de Charlas gratuitas de EMAC
