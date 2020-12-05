@@ -8,6 +8,6 @@ draft: false
 
 Te esperamos:
 
-Mas información:
+Mas información:  click [aqui](https://encuentrodemediadores.org/viii-encuentro-de-mediadores/index.html)
 
 Inscripción: Completa el [Formulario](https://forms.gle/G26zmwCTFNczcs1S9 "formulario")
