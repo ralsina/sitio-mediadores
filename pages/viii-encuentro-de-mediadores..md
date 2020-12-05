@@ -26,15 +26,11 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 # Comisiones
 
-En el VIII Encuentro abordaremos 3 temas de vital importancia en estos tiempos:
-
-Comisión 1:  Campos de Acción
-
-Comisión 2:  Honorarios y Actividad Jurisdiccional
-
-Comisión 3: Mediación a distancia
-
-> (Agregar integrantes y definir temas)
+> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevas posibilidades de acciòn, volver sobre temas de Familia, Mediación Conciliación, Conciliación Laboral, Consumo,;
+>
+> 2\.-  **Honorarios y el contexto judicial:** conociendo los fallos jurisprudenciales sobre el tema pensamos entre todos cómo elaborar políticas acordes para estabilizar la sustentabilidad del sistema. Ya sea charlas con Abogados, Magistrados, posible reforma legislativa, o acciones colectivas para obtener certeza de la vigencia de las Leyes y Decretos
+>
+> 3\.- **Mediación a Distancia:** compartimos experiencias, fijamos tic de trabajo, corregimos problemas, estudiamos el futuro del sistema, sus bondades y la ampliación de “a distancia” con otras provincias, etc...
 
 # Cronograma
 
@@ -48,15 +44,13 @@ Comisión 3: Mediación a distancia
 
 14 a 16 horas Trabajo en Comisiones de los mediadores inscriptos
 
-18 horas: “Mediaciòn y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Alvarez, María Elena Caram, Muriel Killian, Silvina Caisson y Guillermo González.
-
-> agregar descripcion de cada uno, organizacion o cargo
+18 horas: “Mediaciòn y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Alvarez, María Elena Caram, Muriel Killian, Silvina Caisson, Andrés Lopez y Guillermo González.
 
 * Sábado 19-12-2020
 
 9\.00 10.30 horas Lectura de Conclusiones del trabajo en Comisiones
 
-11\.00 horas: “La Mediaciòn como política pública”. Mesa de diálogo con invitados especiales.
+11\.00 horas: “La Mediación como política pública”. Mesa de diálogo con invitados especiales.
 
 13\.00 horas: Cierre del Encuentro de Mediadores
 
