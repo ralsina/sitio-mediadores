@@ -1,11 +1,13 @@
 ---
 title: 'Se viene el próximo encuentro de Mediadores! '
-date: 2020-12-05T03:00:00Z
+date: 2020-12-05T03:00:00.000+00:00
 draft: false
 
 ---
-El 17, 18 y 19 de Diciembre de 2020, se realizara el próximo Encuentro de Mediadores prejudiciales de la Provincia de Buenos Aires. Te esperamos: 
+![](/images/uploads/banner.jpg)
 
-Mas informacion: 
+Te esperamos:
 
-Inscripcion: 
+Mas información:
+
+Inscripción: Completa el [Formulario](https://forms.gle/G26zmwCTFNczcs1S9 "formulario")
