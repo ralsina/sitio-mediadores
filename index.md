@@ -2,8 +2,7 @@
 title: INICIO
 
 ---
-## Espacio de y para Mediadores  
-en defensa de nuestros derechos
+# Espacio de y para Mediadores en defensa de nuestros derechos
 
 ## [**Conocenos**](/quienes-somos/).  [**Colaborá**](/colabora/). [**Consultá**](/jurisprudencia/).   [**Contactanos.**](/contacto/)
 
