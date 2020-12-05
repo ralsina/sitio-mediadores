@@ -78,10 +78,4 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 Organiza:
 
-EMAC- Encuentro de Mediadores Asociacion CIvil
-
-Auspician y acompañan:
-
-* a
-* b
-* c
+EMAC- Encuentro de Mediadores Asociación Civil
