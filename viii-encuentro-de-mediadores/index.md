@@ -6,33 +6,31 @@ title: 'VIII Encuentro de Mediadores. '
 
 ### “LA MEDIACION Y EL ACCESO A JUSTICIA COMO POLITICA PUBLICA”
 
+![](/images/uploads/banner-2.jpg)
+
 ***
 
 # Modo de trabajo
 
-**APERTURA.** 
+**APERTURA.**
 
-Bienvenida a los participantes, explicación de la forma de trabajo y preparación de las comisiones. 
+Bienvenida a los participantes, explicación de la forma de trabajo y preparación de las comisiones.
 
 **TRABAJO EN COMISIONES:**
 
-Desde el año 2012 en que hicimos el primer Encuentros de Mediadores en la ciudad de Santa Teresita, nuestra manera de trabajar es en comisiones en las que se abordan distintos temas, y en las que todos los participantes tienen la posibilidad de intervenir, proponer, debatir, en un pie de igualdad, para generar diagnósticos de la situación y generar propuestas de acción. Se trabaja con un material que funciona como disparador del debate, preparado por la comisión de organización, con coordinadores que ordenan el uso de la palabra ´para posibilitar la intervención de todos. Ese material se enriquece, mejora, se adapta a las ideas del grupo y con lo que surge de ese debate, se elaboran las conclusiones  de cada comisión. 
+Desde el año 2012 en que hicimos el primer Encuentros de Mediadores en la ciudad de Santa Teresita, nuestra manera de trabajar es en comisiones en las que se abordan distintos temas, y en las que todos los participantes tienen la posibilidad de intervenir, proponer, debatir, en un pie de igualdad, para generar diagnósticos de la situación y generar propuestas de acción. Se trabaja con un material que funciona como disparador del debate, preparado por la comisión de organización, con coordinadores que ordenan el uso de la palabra ´para posibilitar la intervención de todos. Ese material se enriquece, mejora, se adapta a las ideas del grupo y con lo que surge de ese debate, se elaboran las conclusiones  de cada comisión.
 
 **PLENARIO FINAL - CIERRE**
 
-Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro. Las conclusiones generales, son luego publicadas y elevadas a las autoridades que correspondan. 
+Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro. Las conclusiones generales, son luego publicadas y elevadas a las autoridades que correspondan.
 
 # Comisiones
 
-En el VIII Encuentro abordaremos 3 temas de vital importancia en estos tiempos:
-
-Comisión 1:  Campos de Acción 
-
-Comisión 2:  Honorarios y Actividad Jurisdiccional
-
-Comisión 3: Mediación a distancia
-
-> (Agregar integrantes y definir temas)
+> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevas posibilidades de acciòn, volver sobre temas de Familia, Mediación Conciliación, Conciliación Laboral, Consumo,;
+>
+> 2\.-  **Honorarios y el contexto judicial:** conociendo los fallos jurisprudenciales sobre el tema pensamos entre todos cómo elaborar políticas acordes para estabilizar la sustentabilidad del sistema. Ya sea charlas con Abogados, Magistrados, posible reforma legislativa, o acciones colectivas para obtener certeza de la vigencia de las Leyes y Decretos
+>
+> 3\.- **Mediación a Distancia:** compartimos experiencias, fijamos tic de trabajo, corregimos problemas, estudiamos el futuro del sistema, sus bondades y la ampliación de “a distancia” con otras provincias, etc...
 
 # Cronograma
 
@@ -46,15 +44,13 @@ Comisión 3: Mediación a distancia
 
 14 a 16 horas Trabajo en Comisiones de los mediadores inscriptos
 
-18 horas: “Mediaciòn y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Alvarez, María Elena Caram, Muriel Killian, Silvina Caisson y Guillermo González.
-
-> agregar descripcion de cada uno, organizacion o cargo
+18 horas: “Mediaciòn y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Alvarez, María Elena Caram, Muriel Killian, Silvina Caisson, Andrés Lopez y Guillermo González.
 
 * Sábado 19-12-2020
 
 9\.00 10.30 horas Lectura de Conclusiones del trabajo en Comisiones
 
-11\.00 horas: “La Mediaciòn como política pública”. Mesa de diálogo con invitados especiales.
+11\.00 horas: “La Mediación como política pública”. Mesa de diálogo con invitados especiales.
 
 13\.00 horas: Cierre del Encuentro de Mediadores
 
@@ -76,15 +72,15 @@ Comisión 3: Mediación a distancia
 * Javier Poggi (SM)
 * María de Simone (LA)
 * Yamila Urriolabeytia (DO)
-* Sergio Ricardo Tomás (LM) 
+* Sergio Ricardo Tomás (LM)
 
   ***
 
-Organiza: 
+Organiza:
 
 EMAC- Encuentro de Mediadores Asociacion CIvil
 
-Auspician y acompañan: 
+Auspician y acompañan:
 
 * a
 * b
