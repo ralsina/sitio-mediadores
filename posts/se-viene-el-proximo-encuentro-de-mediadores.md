@@ -1,5 +1,5 @@
 ---
-title: 'Se viene el proximo encuentro de Mediadores! '
+title: 'Se viene el próximo encuentro de Mediadores! '
 date: 
 draft: false
 
