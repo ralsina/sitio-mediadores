@@ -1,6 +1,6 @@
 ---
 title: 'Se viene el próximo encuentro de Mediadores! '
-date: 
+date: 2020-12-05T03:00:00Z
 draft: false
 
 ---
