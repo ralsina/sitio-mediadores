@@ -75,9 +75,14 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 * María de Simone (LA)
 * Yamila Urriolabeytia (DO)
 * Sergio Ricardo Tomás (LM)
+* Florencia Perez (MP)
 
   ***
 
 Organiza:
 
 EMAC- Encuentro de Mediadores Asociación Civil
+
+WHATSAPP: +54 9 11 6203-0909
+
+Mail: encuentrodemediadores.emac@gmail.com
