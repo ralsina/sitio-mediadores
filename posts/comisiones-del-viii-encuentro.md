@@ -1,6 +1,6 @@
 ---
 title: Comisiones del VIII Encuentro
-date: 2020-12-07T17:00:00Z
+date: 2020-12-07T17:04:27Z
 draft: false
 
 ---
