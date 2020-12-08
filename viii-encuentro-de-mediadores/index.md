@@ -28,7 +28,7 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 # Comisiones
 
-> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevos campos de acción, Inclusión a traves de normas, com oLey de Alquileres. Volver sobre temas de Familia, Laboral, Consumo, Concursos y Quiebras, Comunitaria, etc; 
+> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevos campos de acción, Inclusión a través de normas, como Ley de Alquileres. Volver sobre temas de Familia, Laboral, Consumo, Concursos y Quiebras, Comunitaria, etc; 
 >
 > 2\.-  **Honorarios y el contexto judicial:** conociendo los fallos jurisprudenciales sobre el tema pensamos entre todos cómo elaborar políticas acordes para estabilizar la sustentabilidad del sistema. Ya sea charlas con Abogados, Magistrados, posible reforma legislativa, o acciones colectivas para obtener certeza de la vigencia de las Leyes y Decretos
 >
