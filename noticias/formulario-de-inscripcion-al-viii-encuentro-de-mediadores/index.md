@@ -18,4 +18,5 @@ Aprovechando la posibilidad que nos da esta virtualidad impuesta, de reunirnos s
 
 Saludos a todos y esperamos poder encontrarnos pronto!
 
-<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSd4SA_YFgGI4wvC8SR94Z0kXJXN0_0brqlYB2cUjbRUa6uWFg/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSd4SA_YFgGI4wvC8SR94Z0kXJXN0_0brqlYB2cUjbRUa6uWFg/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSd4SA_YFgGI4wvC8SR94Z0kXJXN0_0brqlYB2cUjbRUa6uWFg/viewform?embedded=true")" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4SA_YFgGI4wvC8SR94Z0kXJXN0_0brqlYB2cUjbRUa6uWFg/viewform?embedded=true" width="500" height="320" frameborder="0" marginheight="0" marginwidth="0">Cargando…</iframe>
+
