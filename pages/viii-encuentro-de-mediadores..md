@@ -28,7 +28,7 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 # Comisiones
 
-> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevas posibilidades de acciòn, volver sobre temas de Familia, Mediación Conciliación, Conciliación Laboral, Consumo,;
+> 1.- **Campos de Acción de la Mediación:** se trabajará sobre la posibilidad de generar nuevos campos de acción, Inclusión a traves de normas, com oLey de Alquileres. Volver sobre temas de Familia, Laboral, Consumo, Concursos y Quiebras, Comunitaria, etc; 
 >
 > 2\.-  **Honorarios y el contexto judicial:** conociendo los fallos jurisprudenciales sobre el tema pensamos entre todos cómo elaborar políticas acordes para estabilizar la sustentabilidad del sistema. Ya sea charlas con Abogados, Magistrados, posible reforma legislativa, o acciones colectivas para obtener certeza de la vigencia de las Leyes y Decretos
 >
@@ -46,15 +46,15 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 14 a 16 horas Trabajo en Comisiones de los mediadores inscriptos
 
-18 horas: “Mediaciòn y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Alvarez, María Elena Caram, Muriel Killian, Silvina Caisson, Andrés Lopez y Guillermo González.
+18 horas: “Mediación y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Álvarez, María Elena Caram, Muriel Killian, Andrés López y Guillermo González.
 
 * Sábado 19-12-2020
 
-9\.00 10.30 horas Lectura de Conclusiones del trabajo en Comisiones
+9\.00 - 10.30 horas Lectura de Conclusiones del trabajo en Comisiones
 
 11\.00 horas: “La Mediación como política pública”. Mesa de diálogo con invitados especiales.
 
-13\.00 horas: Cierre del Encuentro de Mediadores
+12\.30 horas: Cierre del Encuentro de Mediadores
 
 ***
 
