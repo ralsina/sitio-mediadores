@@ -38,7 +38,7 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 * Jueves 17-12-2020
 
-16 horas: Apertura Encuentro de Mediadores
+18 horas: Apertura Encuentro de Mediadores
 
 * Viernes 18-12-2020
 
