@@ -6,7 +6,9 @@ title: INICIO
 
 ![](/images/uploads/portada-facebook-1.png)
 
-# Espacio de y para Mediadores en defensa de nuestros derechos 
+# Espacio de y para Mediadores en defensa de nuestros derechos
+
+#### VIII ENCUENTRO DE MEDIADORES. INGRESA [ACA](https://encuentrodemediadores.org/viii-encuentro-de-mediadores/index.html)
 
 ## Últimas Noticias:
 
