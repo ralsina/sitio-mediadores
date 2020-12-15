@@ -63,25 +63,23 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 * Enrique Laplane (LM)
 * Silvina Norma Caisson (SM)
 * Rosario Guerrero (SM)
-* Juan Manuel Pereyra (LZ)
-* Evangelina Franchi (ME)
-* Blanca Priotti /BB)
-* Leonardo Valsecchi (AV)
 * Graciela Covello (SM)
+* Blanca Priotti /BB)
+* Florencia Perez (MP)
+* Juan Manuel Pereyra (LZ)
+* Leonardo Valsecchi (AV)
 * Paula Martinez Mayer (SM)
+* Evangelina Franchi (ME)
 * Juan Fernando Gouvert (ME)
 * Roxana Piñeiro (LZ)
 * Javier Poggi (SM)
 * María de Simone (LA)
 * Yamila Urriolabeytia (DO)
 * Sergio Ricardo Tomás (LM)
-* Florencia Perez (MP)
 
   ***
 
-![](/images/uploads/loguitos.jpg)
-
-Organiza:
+![](/images/uploads/loguitos.jpg)Organiza:
 
 EMAC- Encuentro de Mediadores Asociación Civil
 
