@@ -79,6 +79,8 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
   ***
 
+![](/images/uploads/loguitos.jpg)
+
 Organiza:
 
 EMAC- Encuentro de Mediadores Asociación Civil
