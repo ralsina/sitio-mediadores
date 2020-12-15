@@ -1,6 +1,6 @@
 ---
 title: 'Que debatiremos en las comisiones? '
-date: 
+date: 2020-12-15T03:00:00Z
 draft: false
 
 ---
