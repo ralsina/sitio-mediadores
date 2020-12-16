@@ -9,4 +9,5 @@ fields:
   label: Título
   description: Título de la página
 pages:
+- pages/VIII Encuentro/comision-honorarios.md
 - pages/viii-encuentro-de-mediadores..md
