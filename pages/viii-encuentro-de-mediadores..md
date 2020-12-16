@@ -34,27 +34,39 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 >
 > 3\.- **Mediación a Distancia:** compartimos experiencias, fijamos tic de trabajo, corregimos problemas, estudiamos el futuro del sistema, sus bondades y la ampliación de “a distancia” con otras provincias, etc...
 
-# Cronograma
+# Programa
 
-* Jueves 17-12-2020
+### Jueves 17 de Diciembre de 2020:
 
-18 horas: Apertura Encuentro de Mediadores
+**18 horas**   Apertura Encuentro de Mediadores 
 
-* Viernes 18-12-2020
+### Viernes 18 de Diciembre de 2020
 
-9\.30 a 11.30 horas Trabajo en Comisiones de los mediadores inscriptos
+**9.30 a 11.30**  Trabajo en Comisiones 
 
-14 a 16 horas Trabajo en Comisiones de los mediadores inscriptos
+✔ Campos de acción y materias mediables 
 
-18 horas: “Mediación y acceso a Justicia”. Mesa de Diálogo con los  Dres. Gladys Stella Álvarez, María Elena Caram, Muriel Killian, Andrés López y Guillermo González.
+✔Honorarios y actividad jurisdiccional 
 
-* Sábado 19-12-2020
+✔Mediación a distancia 
 
-9\.30 - 11 horas Lectura de Conclusiones del trabajo en Comisiones - Plenario Final
+ **14 a 16 horas**  Trabajo en Comisiones 
 
-11\.00 horas: “La Mediación como política pública”. Mesa de diálogo con invitados especiales.
+✔Campos de acción y materias mediables 
 
-12\.30 horas: Cierre del Encuentro de Mediadores
+✔Honorarios y actividad jurisdiccional 
+
+✔ Mediación a Distancia 
+
+**18 horas** Mediación y acceso a Justicia, mesa de diálogo con la participación de los Dres. Gladys Stella Álvarez,  María Elena Caram,  Muriel Killian, Andres López y Guillermo Mario González. Moderadora: Dra Silvina Norma Caisson 
+
+Sábado 19 de Diciembre de 2020
+
+9\.30 horas  Puesta en Comun de las  Conclusiones del trabajo en Comisiones  - Plenario Final 
+
+11 horas: La Mediación como política pública. Mesa de diálogo con la participación de los Dres Sergio Abrevaya y Alejandro Nató. Moderadora: Dra Rosario Guerrero 
+
+13 horas  Cierre del Encuentro de Mediadores
 
 ***
 
