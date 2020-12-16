@@ -38,33 +38,33 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 
 ### Jueves 17 de Diciembre de 2020:
 
-**18 horas**   Apertura Encuentro de Mediadores 
+**18 horas**   Apertura Encuentro de Mediadores
 
 ### Viernes 18 de Diciembre de 2020
 
-**9.30 a 11.30**  Trabajo en Comisiones 
+**9.30 a 11.30**  Trabajo en Comisiones
 
-✔ Campos de acción y materias mediables 
+✔ Campos de acción y materias mediables
 
-✔Honorarios y actividad jurisdiccional 
+✔Honorarios y actividad jurisdiccional
 
-✔Mediación a distancia 
+✔Mediación a distancia
 
- **14 a 16 horas**  Trabajo en Comisiones 
+**14 a 16 horas**  Trabajo en Comisiones
 
-✔Campos de acción y materias mediables 
+✔Campos de acción y materias mediables
 
-✔Honorarios y actividad jurisdiccional 
+✔Honorarios y actividad jurisdiccional
 
-✔ Mediación a Distancia 
+✔ Mediación a Distancia
 
-**18 horas** Mediación y acceso a Justicia, mesa de diálogo con la participación de los Dres. Gladys Stella Álvarez,  María Elena Caram,  Muriel Killian, Andres López y Guillermo Mario González. Moderadora: Dra Silvina Norma Caisson 
+**18 horas** Mediación y acceso a Justicia, mesa de diálogo con la participación de los Dres. Gladys Stella Álvarez,  María Elena Caram,  Muriel Killian, Andres López y Guillermo Mario González. Moderadora: Dra Silvina Norma Caisson
 
 Sábado 19 de Diciembre de 2020
 
-9\.30 horas  Puesta en Comun de las  Conclusiones del trabajo en Comisiones  - Plenario Final 
+9\.30 horas  Puesta en Comun de las  Conclusiones del trabajo en Comisiones  - Plenario Final
 
-11 horas: La Mediación como política pública. Mesa de diálogo con la participación de los Dres Sergio Abrevaya y Alejandro Nató. Moderadora: Dra Rosario Guerrero 
+11 horas: La Mediación como política pública. Mesa de diálogo con la participación de los Dres Sergio Abrevaya y Alejandro Nató. Moderadora: Dra Rosario Guerrero
 
 13 horas  Cierre del Encuentro de Mediadores
 
@@ -76,17 +76,17 @@ Sábado 19 de Diciembre de 2020
 * Silvina Norma Caisson (SM)
 * Rosario Guerrero (SM)
 * Graciela Covello (SM)
-* Blanca Priotti /BB)
-* Florencia Perez (MP)
 * Juan Manuel Pereyra (LZ)
 * Leonardo Valsecchi (AV)
-* Paula Martinez Mayer (SM)
+* Yolanda Gonzalez Gonzalez (TL) 
+* Blanca Priotti /BB)
 * Evangelina Franchi (ME)
-* Juan Fernando Gouvert (ME)
+* Florencia Perez (MP)
+* Paula Martinez Mayer (SM)
 * Roxana Piñeiro (LZ)
 * Javier Poggi (SM)
 * María de Simone (LA)
-* Yamila Urriolabeytia (DO)
+* Juan Fernando Gouvert (ME)
 * Sergio Ricardo Tomás (LM)
 
 ![](/images/uploads/loguitos.jpg)
