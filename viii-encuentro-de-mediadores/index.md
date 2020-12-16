@@ -77,9 +77,9 @@ Las conclusiones de cada comisión se ponen en común en el cierre del Encuentro
 * Yamila Urriolabeytia (DO)
 * Sergio Ricardo Tomás (LM)
 
-  ***
+![](/images/uploads/loguitos.jpg)
 
-![](/images/uploads/loguitos.jpg)Organiza:
+Organiza:
 
 EMAC- Encuentro de Mediadores Asociación Civil
 
