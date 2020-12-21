@@ -4,8 +4,7 @@ title: modeloapelacion1255
 ---
 **Modelo de Apelación por art. 1255 CCCN**
 
-  
-Señor Juez:
+Señor Juez: 
 
 **LAPLANE ENRIQUE ANTONIO**, CUIT 20-10619654-1, abogado T° II, F° 347 CALM, y Mediador Matricula Nro. LM072, IVA Responsable Inscripto, en causa propia, constituyendo domicilio en la calle SALTA Nro. 2611, San Justo, Provincia de Buenos Aires, y constituyendo domicilio electrónico [20106196541@notificaciones.gob.ar](mailto:20106196541@notificaciones.gob.ar), en autos caratulados; JCC5 **“CABRAL MONICA INES C/ TRANSPORTE IDEAL SAN JUSTO SA S/ DAÑOS Y PERJ. AUTOM. S/LESIONES (EXC. ESTADO)" Expte. LM-4579/2016,** a VS. me presento y respetuosamente digo:
 
@@ -103,7 +102,7 @@ Ese mismo artículo que el Juez a quo, muchos de sus colegas también, utilizan 
 
 Aun si fuera considerado un contrato de Servicios el mismo artículo le pone un límite.
 
-**Pero el mismo artículo 1255 CCCN le pone un límite a esa facultad de las partes y del mismo Juez … “**Si la obra o el servicio se ha contratado por un precio global o por una unidad de medida, ninguna de las partes puede pretender la modificación del precio total o de la unidad de medida, respectivamente, con fundamento en que la obra, el servicio o la unidad exige menos o más trabajo o que su costo es menor o mayor al previsto, excepto lo dispuesto en el artículo 1091”, **por supuesto que en una justicia donde el Juez se cree sobre la misma ley, es difícil respetar ese límite.**
+\**Pero el mismo artículo 1255 CCCN le pone un límite a esa facultad de las partes y del mismo Juez … “**Si la obra o el servicio se ha contratado por un precio global o por una unidad de medida, ninguna de las partes puede pretender la modificación del precio total o de la unidad de medida, respectivamente, con fundamento en que la obra, el servicio o la unidad exige menos o más trabajo o que su costo es menor o mayor al previsto, excepto lo dispuesto en el artículo 1091”, **por supuesto que en una justicia donde el Juez se cree sobre la misma ley, es difícil respetar ese límite.**
 
 No existe contrato de servicios entre las partes y el mediador, y llevar por analogía a una relación del contrato social con el estado, y desde allí ver la existencia de un contrato es un dislate.
 
