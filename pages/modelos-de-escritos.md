@@ -1,5 +1,6 @@
 ---
 title: Modelos de Escritos
+
 ---
 ![modelos de escritos](/images/uploads/imagen.jpg)
 
@@ -7,4 +8,6 @@ title: Modelos de Escritos
 
 [Presentación del mediador en el expediente. ](/escritos/se-presenta-constituye-domicilio-constancia-en-caratula/index.html)
 
-[Apelaciòn contra el prorrateo Dr. Pereyra:](/escritos/apelacion-contra-prorrateo-dr-perreyra/index.html)
+[Apelación contra el prorrateo](/escritos/apelacion-contra-prorrateo-dr-perreyra/index.html) aporte del Dr. Juan M. Pereyra
+
+[Apelación contra art 1255 CCCN](https://encuentrodemediadores.org/fallos/modeloapelacion1255/index.html) aporte del Dr: Enrique Laplane
