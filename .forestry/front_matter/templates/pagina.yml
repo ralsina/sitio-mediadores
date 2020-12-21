@@ -9,6 +9,7 @@ fields:
   label: Título
   description: Título de la página
 pages:
+- pages/Fallos/modelo-de-demanda-por-determinacion-de-honorarios.md
 - pages/Fallos/modeloapelacion1255.md
 - pages/VIII Encuentro/comision-campos-de-accion.md
 - pages/VIII Encuentro/comision-honorarios.md
