@@ -4,7 +4,7 @@ title: modelo de demanda por  determinacion de honorarios
 ---
 Agradecemos el aporte de la Dra. Karina Andrioli de La Plata
 
-SUMARIO
+SUMARIO 
 
 **JUZGADO:** Civil y Comercial Nro. 17
 
@@ -86,19 +86,15 @@ Subsidiariamente, para el caso que la firma en cuestión omita contestar lo requ
 
 Por lo expuesto a VS. solicito:
 
-1) Me tenga por presentada oportunamente, como parte, con domicilio legal constituido;
+1. Me tenga por presentada oportunamente, como parte, con domicilio legal constituido;
 
 2)Tenga por iniciada la presente demanda por determinación y eventual ejecución de honorarios con razón a labor desarrollada en mediación, contra XXX, a quien se procederá a correrle traslado de la presente acción bajo los apercibimientos de ley;
 
-3) En el plazo perentorio de 10 días bajo apercibimiento de aplicarse las sanciones conminatorias se intime a denunciar si hubo acuerdo, para sobre dicha base fijar honorarios,
-
-4) En el caso de silencio se fijen sanciones conminatorias y de forma subsidiaria se fijen los honorarios que estable la reglamentación al art. 31 de la ley. 13551 y el 10% de aportes.
-
-5) Se provea la prueba ofrecida.
-
-6) Oportunamente se dicte sentencia ordenando llevar adelante la ejecución, por el monto de mis honorarios aportes provisionales, intereses hasta el momento del efectivo pago y costas;
-
-7) Se aplique la tasa activa, conforme lo establece el Decreto Ley 8904 en su artículo 54 b (Benso, José María c/La Bs. As. Seguros s/daños y perjuicios. Mar del Plata, Cámara Sala 3. Exp. M154222).
+1. En el plazo perentorio de 10 días bajo apercibimiento de aplicarse las sanciones conminatorias se intime a denunciar si hubo acuerdo, para sobre dicha base fijar honorarios,
+2. En el caso de silencio se fijen sanciones conminatorias y de forma subsidiaria se fijen los honorarios que estable la reglamentación al art. 31 de la ley. 13551 y el 10% de aportes.
+3. Se provea la prueba ofrecida.
+4. Oportunamente se dicte sentencia ordenando llevar adelante la ejecución, por el monto de mis honorarios aportes provisionales, intereses hasta el momento del efectivo pago y costas;
+5. Se aplique la tasa activa, conforme lo establece el Decreto Ley 8904 en su artículo 54 b (Benso, José María c/La Bs. As. Seguros s/daños y perjuicios. Mar del Plata, Cámara Sala 3. Exp. M154222).
 
 Proveer de conformidad,
 
