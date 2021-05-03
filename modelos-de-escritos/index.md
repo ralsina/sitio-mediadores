@@ -16,12 +16,10 @@ title: Modelos de Escritos
 
 ###### **ACTAS**
 
-[De cierre sin acuerdo ](https://encuentrodemediadores.org/acta-de-cierre-sin-acuerdo/index.html#cierre-por-imposibilidad-de-notificacion-y-a-pedido-de-la-parte)(2021) aporte de la Dra. Rosario Guerrero (SM) 
-
-incluye ejecutoriedad del acta, consentimiento informado, convenio de confidencialidad, y cumple con normativa sobre audiencias a distancia. 
+[De cierre sin acuerdo ](https://encuentrodemediadores.org/acta-de-cierre-sin-acuerdo/index.html#cierre-por-imposibilidad-de-notificacion-y-a-pedido-de-la-parte)(2021) aporte de la Dra. Rosario Guerrero (SM) incluye ejecutoriedad del acta, consentimiento informado, convenio de confidencialidad, y cumple con normativa sobre audiencias a distancia. 
 
 ###### **OTROS:**
 
-[Revocatoria in extremis](/escritos/revocatoria-in-extremis/index.html)
+[Revocatoria in extremis](/escritos/revocatoria-in-extremis/index.html) aporte de la Dra. Ballesteros. 
 
 [Presentación del mediador en el expediente. ](/escritos/se-presenta-constituye-domicilio-constancia-en-caratula/index.html)
