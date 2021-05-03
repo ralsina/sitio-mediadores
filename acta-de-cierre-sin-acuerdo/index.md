@@ -41,7 +41,7 @@ Los dichos vertidos en el proceso de mediación no podrán ser utilizados en jui
 
 La violación de la confidencialidad quedará encuadrada por los apercibimientos y sanciones civiles, penales y disciplinarias que correspondan
 
-### SUPUESTOS 
+### SUPUESTOS (de acuerdo al resultado)
 
 #### CIERRE SIN ACUERDO
 
