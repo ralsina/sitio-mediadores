@@ -6,9 +6,9 @@ title: ACTA DE CIERRE SIN ACUERDO
 
 #### ENCABEZADO
 
-En XXXXXX, a los XX días del mes de XXXXXX 202XX, siendo las XXX hs., comparecen a la audiencia de Mediación a Distancia por la parte requirente el **Sr XXXXX**, asistido por su letrado, Dr. XXXXXXXXX, y **por la requerida, Sra XXXXXXX  representado por la Dra XXXXX .**
+En [XXXXXX](), a los [XX]() días del mes de [XXXXXX 202XX](), siendo las [XXX]() hs., comparecen a la audiencia de Mediación a Distancia por la parte requirente el Sr [XXXXX, asistido por su letrado, Dr. XXXXXXXXX, y por la requerida, Sra XXXXXXX  representado por la Dra XXXXX .]()
 
-Se verificó la identidad de los participantes a través de la exhibición de los documentos cuyas copias fueron previamente aportados, registrándose mediante captura de pantalla/ video, manifestando las partes su conformidad con la realización de la audiencia en modalidad online y el contenido del acta.. La audiencia ha sido realizada mediante la plataforma zoom y fijada ante mi Dra. XXXXXXXX, Matricula: XXXXXXX, con domicilio en AV. XXXXXXX, SXXXXX (1XXXXX) Pcia de Bs As, TE: 4XXXXXXX, Cel: 155XXXXX, E-mail: XXXXXXXX@gmail.com, domicilio electrónico: XXXXXX@notificaciones.scba.gov.ar, designada en la Causa N° SXXXXXX/2021, radicada en el Juzgado de Primera Instancia en lo Civil y Comercial **N° XXXX** del Departamento Judicial de XXXXX, autos caratulados \`XXXXXX c/ XXXXXXXXX s/ XXXXXXXXX".
+Se verificó la identidad de los participantes a través de la exhibición de los documentos cuyas copias fueron previamente aportados, registrándose mediante captura de pantalla/ video, manifestando las partes su conformidad con la realización de la audiencia en modalidad online y el contenido del acta.. La audiencia ha sido realizada mediante la plataforma zoom y fijada ante mi [Dra. XXXXXXXX, Matricula: XXXXXXX, con domicilio en AV. XXXXXXX, SXXXXX (1XXXXX) Pcia de Bs As, TE: 4XXXXXXX, Cel: 155XXXXX, E-mail: XXXXXXXX@gmail.com, domicilio electrónico: XXXXXX@notificaciones.scba.gov.ar, designada en la Causa N° SXXXXXX/2021, radicada en el Juzgado de Primera Instancia en lo Civil y Comercial **N° XXXX** del Departamento Judicial de XXXXX, autos caratulados \`XXXXXX c/ XXXXXXXXX s/ XXXXXXXXX".]()
 
 #### DESIGNACION, NOTIFICACIONES, IDENTIFICACION DE LAS PARTES Y PODERES
 
@@ -16,11 +16,11 @@ Se deja constancia que el 0x/xx/20xx el letrado requirente presenta designación
 
 Se fijo la presente audiencia notificando a la parte requirente y su letrado con fecha xx/xx/20xxxx, momento en que les fue informado lo establecido por el art. 7 del  Anexo Único del Ac. 3989 (y su modificatoria Ac. 4000 del 23/12/2020, con texto ordenado según Res. SPL 74/20) respecto a la obligatoriedad del registro en el RDE de la SCBA. Y que la falta de registro del mismo, importara la constitucion del domicilio en el electronico del letrado por defecto. ([Consignar si fue informada la parte requerida y como)]()
 
-La/s notificación/es a el/la requerido/a fue/ron cursada/s por medio de las siguientes CD Correo xxxxxxxxi:  +0000xxxxxxxxxxxx dirigida a xxxxxxxxxxxxxxxxx al domicilio: xxxxxxxxxxxxx (xxxxxxx) RESULTADO: notificada x/xxx/ ( o no notificada)
+La/s notificación/es a el/la requerido/a fue/ron cursada/s por medio de las siguientes [CD Correo xxxxxxxxi:  +0000xxxxxxxxxxxx dirigida a xxxxxxxxxxxxxxxxx al domicilio: xxxxxxxxxxxxx (xxxxxxx) RESULTADO: notificada x/xxx/]() ( o no notificada)
 
 > ###### _Optativo: link de acceso a la documental y videos._
 >
-> _La documentación completa de acreditación de la identidad de las partes y los poderes, puede ser consultada, por los letrados o el Juzgado interviniente, previa solicitud al siguiente link: xxxxxxxxxxxxxxxxxxxx_  
+> _La documentación completa de acreditación de la identidad de las partes y los poderes, puede ser consultada, por los letrados o el Juzgado interviniente, previa solicitud al siguiente link:_ [_xxxxxxxxxxxxxxxxxxxx_]()  
 > **Algunos mediadores crean una carpeta de almacenamiento en sistemas en la nube, para no ocupar acceso en sus ordenadores con toda la documental relativa a la mediacion.**
 
 ### CLAUSULAS COMUNES
