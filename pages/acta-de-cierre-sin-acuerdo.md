@@ -27,7 +27,9 @@ La/s notificación/es a el/la requerido/a fue/ron cursada/s por medio de las sig
 > _La documentación completa de acreditación de la identidad de las partes y los poderes, puede ser consultada, por los letrados o el Juzgado interviniente, previa solicitud al siguiente link: xxxxxxxxxxxxxxxxxxxx_  
 > **Algunos mediadores crean una carpeta de almacenamiento en sistemas en la nube, para no ocupar acceso en sus ordenadores con toda la documental relativa a la mediacion.**
 
-#### **CIERRE SIN ACUERDO**
+### SUPUESTOS 
+
+**CIERRE SIN ACUERDO**
 
 **CONSENTIMIENTO INFORMADO** Se deja constancia que las partes han sido informadas de las características y principios del presente procedimiento y han manifestado expresamente haberlo comprendido, aceptando la confidencialidad de las presentes actuaciones (art. 1 y 16 ley 13.951), así como la escala arancelaria que rige el instituto (art. 16 Decr. 43/2019) y que la presente acta reviste el carácter de título ejecutivo.
 
