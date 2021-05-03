@@ -4,8 +4,6 @@ title: ACTA DE CIERRE SIN ACUERDO
 ---
 \[TOC\]
 
-### ACTA
-
 #### ENCABEZADO
 
 En XXXXXX, a los XX días del mes de XXXXXX 202XX, siendo las XXX hs., comparecen a la audiencia de Mediación a Distancia por la parte requirente el **Sr XXXXX**, asistido por su letrado, Dr. XXXXXXXXX, y **por la requerida, Sra XXXXXXX  representado por la Dra XXXXX .**
