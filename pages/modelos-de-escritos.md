@@ -10,7 +10,7 @@ title: Modelos de Escritos
 
 [Apelación contra art 1255 CCCN](https://encuentrodemediadores.org/fallos/modeloapelacion1255/index.html) aporte del Dr: Enrique Laplane (LM)
 
-[Contesta traslado ](pages-contesta-traslado-de-apelacion-notificacion-espontanea-md)aporte de la Dra Sandra Conti (QL)
+[Contesta traslado](https://encuentrodemediadores.org/contesta-traslado-de-apelacion-notificacion-espontanea/index.html)[ ](pages-contesta-traslado-de-apelacion-notificacion-espontanea-md)aporte de la Dra Sandra Conti (QL)
 
 ###### **DEMANDAS:**
 
