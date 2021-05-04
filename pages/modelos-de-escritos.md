@@ -10,6 +10,8 @@ title: Modelos de Escritos
 
 [Apelación contra art 1255 CCCN](https://encuentrodemediadores.org/fallos/modeloapelacion1255/index.html) aporte del Dr: Enrique Laplane (LM)
 
+[Contesta traslado ](pages-contesta-traslado-de-apelacion-notificacion-espontanea-md)aporte de la Dra Sandra Conti (QL)
+
 ###### **DEMANDAS:**
 
 [Demanda por Determinacion de honorarios](https://encuentrodemediadores.org/Fallos/modelo-de-demanda-por-determinacion-de-honorarios/index.html) aporte de la Dra. Karina Andreola (LP)
