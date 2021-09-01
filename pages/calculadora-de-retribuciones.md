@@ -23,7 +23,7 @@
     </div>
     <div class="form-row" style="margin-top:2em;">
         <div class="col-md-8">
-            <span id="valorius" style="display:none;">Valor actual del ius: <b>3023</b></span>
+            <span id="valorius" style="display:none;">Valor actual del ius: <b>3093</b></span>
         </div>
     </div>
     <div class="form-row">
