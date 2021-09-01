@@ -1,16 +1,9 @@
 ---
-
+title: Calculadora de Retribuciones
+slug: calculadora-de-retribuciones
+date: 2021-08-29 22:14:13 UTC
+type: text
 ---
-<!--
-.. title: Calculadora de Retribuciones
-.. slug: calculadora-de-retribuciones
-.. date: 2021-08-29 22:14:13 UTC
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
-.. type: text
--->
 
 <div class="form-group">
     <div class="form-row">
