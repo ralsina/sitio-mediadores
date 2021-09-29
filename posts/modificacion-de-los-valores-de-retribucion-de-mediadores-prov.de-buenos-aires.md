@@ -6,4 +6,4 @@ draft: false
 ---
 Nuevo valor del ius $3267 - Vigente a partir de Octubre de 2021
 
-![](/images/uploads/retirbucion-octubre-de-2021.png)
+![](/images/uploads/retribucion-octubre-de-2021.png)
