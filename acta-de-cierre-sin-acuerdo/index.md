@@ -2,7 +2,7 @@
 title: ACTA DE CIERRE SIN ACUERDO
 
 ---
-\[TOC\]
+[TOC]
 
 #### ENCABEZADO
 
