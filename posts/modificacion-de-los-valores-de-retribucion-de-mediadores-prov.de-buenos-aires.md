@@ -1,6 +1,6 @@
 ---
 title: Modificacion de los valores de retribucion de Mediadores Prov. de Buenos Aires
-date: 
+date: 2021-09-29T03:00:00Z
 draft: false
 
 ---
