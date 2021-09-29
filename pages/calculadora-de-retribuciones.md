@@ -35,7 +35,6 @@ type: text
 </div>
 </div>
 <hr>
-<b style="color:#00aa7f;">Realizado por los Dres. Juan Ignacio Pilegi (LP) y Rosario D. Guerrero (SM), a quienes agradecemos su colaboración. </b>
 </div>
 
 <script>
