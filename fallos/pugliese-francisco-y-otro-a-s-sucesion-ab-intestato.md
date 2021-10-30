@@ -2,6 +2,9 @@
 title: PUGLIESE FRANCISCO Y OTRO/A S/ SUCESION AB-INTESTATO
 
 ---
+
+Agradecemos el aporte de la propia Jueza, **Dra. Laura Elizabeth Mato**, quien nos hiciera llegar este fallo a nuestra base de datos colaborativa. 
+
 San Justo, 25 de Agosto de 2020.-
 
 **AUTOS Y VISTOS:**
