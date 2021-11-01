@@ -21,6 +21,7 @@ fields:
   type: boolean
   label: Borrador
 pages:
+- posts/actualizamos-la-calculadora-de-honorarios-al-nuevo-valor-del-ius..md
 - posts/charla-con-jueces-sobre-mediacion.md
 - posts/charla-ejecucion-nulidad-y-apelacion-de-sentencias-regulatorias-de-honorarios.md
 - posts/charla-la-mediacion-y-las-audiencias-remotas-vistas-por-un-juez.md
