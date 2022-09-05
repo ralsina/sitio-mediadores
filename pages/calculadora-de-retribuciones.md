@@ -33,7 +33,7 @@ type: text
 <div class="col-md-8">
 <span id="inciso"></span>
 </div>
-<img src="https://encuentrodemediadores.org/images/tabla-ius-julio-2022.jpg">
+<!-- <img src="https://encuentrodemediadores.org/images/tabla-ius-julio-2022.jpg"> -->
 </div>
 <hr>
 </div>
