@@ -14,7 +14,7 @@ title: Modelos de Escritos
 
 [Apelacion - Solicita regulacion honorarios segunda instancia](https://encuentrodemediadores.org/Fallos/modelo-apelacion-franchi/index.html) Aporte de la Dra. Evangelina Franchi
 
-Contestacion de traslado Inconstitucionalidad ley 13951 Aporte del Dr. Enrique Laplane 
+[Contestacion de traslado Inconstitucionalidad ley 13951 ](pages-contestacion-de-traslado-planteo-de-inconstitucionalidad-ley-13951-md/)Aporte del Dr. Enrique Laplane
 
 ###### **DEMANDAS:**
 
