@@ -14,11 +14,13 @@ title: Modelos de Escritos
 
 [Apelacion - Solicita regulacion honorarios segunda instancia](https://encuentrodemediadores.org/Fallos/modelo-apelacion-franchi/index.html) Aporte de la Dra. Evangelina Franchi
 
+Contestacion de traslado Inconstitucionalidad ley 13951 Aporte del Dr. Enrique Laplane 
+
 ###### **DEMANDAS:**
 
 [Demanda por Determinacion de honorarios](https://encuentrodemediadores.org/Fallos/modelo-de-demanda-por-determinacion-de-honorarios/index.html) aporte de la Dra. Karina Andreola (LP)
 
-[Demanda de Ejecucion de Honorarios Regulados](https://encuentrodemediadores.org/demanda-ejecucion-honorarios-regulados/index.html) aporte de la Dra. Paula Martinez Meyer (SM) 
+[Demanda de Ejecucion de Honorarios Regulados](https://encuentrodemediadores.org/demanda-ejecucion-honorarios-regulados/index.html) aporte de la Dra. Paula Martinez Meyer (SM)
 
 ###### **ACTAS**
 
